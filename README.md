@@ -1,10 +1,10 @@
-────────────┉─ 🌐 ─┉────────────
+────────────┉─ ![fin fin is so cool and awesome!! come and see him :)](https://tinyurl.com/339z3ecf) ─┉────────────
 > [!NOTE]
 > ### ABOUT ME
 > 
 > HAII!! I'm `Static`!!
 >
-> **It/they** pronouns + _any_ neos 〃 **18** years old
+> **It/they** + _any_ neos 〃 **18** years old
 >
 > I have **_ADHD + Autism_**, so keep that in mind when interacting!!
 
@@ -23,12 +23,15 @@
 > [!WARNING]
 > ### BEFORE YOU INTERACT
 >
-> wip
+> - I **spam** and **keyboard smash** _a lot_
+> - I have _memory problems_ so please **bear with me**
+> - Sometimes I go AFK or leave _unannounced_
+> - ***INTERACT BEFORE YOU FRIEND ME!!*** *I won't accept friend requests otherwise!*
 
 > [!CAUTION]
 > ### DO NOT INTERACT
 >
-> wip
+> **Under 15** _(some exceptions)_, **Nazis/USSR weirdos** _(including countryhumans)_, People who vent _unannounced_ or _without warning_, Believe in **_"blackwashing"_**, Overly edgy people, ship _IRL_ people, **_Proshippers_**, **_Conservatives_**, **_Dream stans/supporters_**, **_Zionists/Israel supporters_**
 
 ────────────┉─ 🌐 ─┉────────────
 
