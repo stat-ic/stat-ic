@@ -31,7 +31,16 @@
 > [!CAUTION]
 > ### DO NOT INTERACT
 >
-> **Under 15** _(some exceptions)_, **Nazis/USSR weirdos** _(including countryhumans)_, People who vent _unannounced_ or _without warning_, Believe in **_"blackwashing"_**, Overly edgy people, ship _IRL_ people, **_Proshippers_**, **_Conservatives_**, **_Dream stans/supporters_**, **_Zionists/Israel supporters_**
+> - **Under 15** _(some exceptions)_
+> - **Nazis/USSR weirdos** _(including countryhumans)_
+> - People who vent _unannounced_ or _without warning_
+> - Believe in **_"blackwashing"_**
+> - Overly edgy people
+> - ship _IRL_ people
+> - **_Proshippers_**
+> - **_Conservatives_**
+> - **_Dream stans/supporters_**
+> - **_Zionists/Israel supporters_**
 
 ────────────┉─ 🌐 ─┉────────────
 
