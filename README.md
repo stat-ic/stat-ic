@@ -9,7 +9,7 @@
 > I have **_ADHD + Autism_**, so keep that in mind when interacting!!
 
 > [!IMPORTANT]
-> ### $\underline{\color{violet}INTERESTS}$
+> ### $\underline{\color{DarkViolet}INTERESTS}$
 > `Highlighted` = Special interest
 > 
 > **_Bolded + Italics_** = Stuff i *really* like
