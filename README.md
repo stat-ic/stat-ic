@@ -2,7 +2,7 @@
 > [!NOTE]
 > ### $\underline{\color{Cerulean}ABOUT\ ME}$
 >
-> HAII!! I'm ${\color{Cerulean}Static}$ !!
+> HAII!! I'm ${\color{SteelBlue}Static}$ !!
 > 
 > **It/they** + _any_ neos 〃 **18** years old
 >
