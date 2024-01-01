@@ -1,14 +1,12 @@
 ────────────┉─ ![fin fin is so cool and awesome!! come and see him :)](https://tinyurl.com/339z3ecf) ─┉────────────
 > [!NOTE]
-> ### $\underline{\color{lightblue}ABOUT\ ME}$
+> ### $\underline{\color{Cerulean}ABOUT\ ME}$
 >
-> HAII!! I'm ${\color{lightblue}Static}$ !!
+> HAII!! I'm ${\color{Cerulean}Static}$ !!
 > 
 > **It/they** + _any_ neos 〃 **18** years old
 >
 > I have **_ADHD + Autism_**, so keep that in mind when interacting!!
-
-$\fbox{Hello there}$
 
 > [!IMPORTANT]
 > ### $\underline{\color{violet}INTERESTS}$
@@ -23,7 +21,7 @@ $\fbox{Hello there}$
 > <ins> `If you like ANYY of this stuff above you should totallyyy interact :333` </ins>
 
 > [!WARNING]
-> ### $\underline{\color{yellow}BEFORE\ YOU\ INTERACT}$
+> ### $\underline{\color{BurntOrange}BEFORE\ YOU\ INTERACT}$
 >
 > - I **spam** and **keyboard smash** _a lot_
 > - I have _memory problems_ so please **bear with me**
