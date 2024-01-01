@@ -1,15 +1,17 @@
 ────────────┉─ ![fin fin is so cool and awesome!! come and see him :)](https://tinyurl.com/339z3ecf) ─┉────────────
 > [!NOTE]
-> ### <ins>ABOUT ME</ins>
-> 
-> HAII!! I'm ${\color{lightblue}Static}$ !!
+> ### $\underline{\color{lightblue}ABOUT\ ME}$
 >
+> HAII!! I'm ${\color{lightblue}Static}$ !!
+> 
 > **It/they** + _any_ neos 〃 **18** years old
 >
 > I have **_ADHD + Autism_**, so keep that in mind when interacting!!
 
+$\fbox{Hello there}$
+
 > [!IMPORTANT]
-> ### <ins>INTERESTS</ins>
+> ### $\underline{\color{violet}INTERESTS}$
 > `Highlighted` = Special interest
 > 
 > **_Bolded + Italics_** = Stuff i *really* like
@@ -21,7 +23,7 @@
 > <ins> `If you like ANYY of this stuff above you should totallyyy interact :333` </ins>
 
 > [!WARNING]
-> ### <ins>BEFORE YOU INTERACT</ins>
+> ### $\underline{\color{yellow}BEFORE\ YOU\ INTERACT}$
 >
 > - I **spam** and **keyboard smash** _a lot_
 > - I have _memory problems_ so please **bear with me**
@@ -29,7 +31,7 @@
 > - ***INTERACT BEFORE YOU FRIEND ME!!*** *I won't accept friend requests otherwise!*
 
 > [!CAUTION]
-> ### <ins>DO NOT INTERACT</ins>
+> ### $\underline{\color{red}DO\ NOT\ INTERACT}$
 >
 > - **Under 15** _(some exceptions)_
 > - **Nazis/USSR weirdos** _(including countryhumans)_
