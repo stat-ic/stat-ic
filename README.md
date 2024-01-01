@@ -33,7 +33,7 @@
 >
 > - **Under 15** _(some exceptions)_
 > - **Nazis/USSR weirdos** _(including countryhumans)_
-> - People who vent _unannounced_ or _without warning_
+> - People who vent _unannounced_, _without warning_, or _while off-topic_
 > - Believe in **_"blackwashing"_**
 > - Overly edgy people
 > - ship _IRL_ people
