@@ -47,6 +47,10 @@
 
 ────────────┉─ ![hapy](https://tinyurl.com/yu5enxrx) ─┉────────────
 
+# FLASHING LIGHTS AND BRIGHT COLOURS DOWN THERE VVVVV
+
+---
+
 > `hey look at these stamps i made`
 
 ![BAAULP NATION o7](https://tinyurl.com/85njnzp7) ![bibi <3](https://tinyurl.com/yhfv8j29) ![woah!](https://tinyurl.com/2p9bpa66) ![GTFO](https://media.discordapp.net/attachments/1100600239842410598/1191688812292743188/poor_poster.gif?ex=65a659b1&is=6593e4b1&hm=3f7aae5b79bd00c18e24369617ffb46aed6f4e2b3fdef6e693d66624298e75a6&=&width=125&height=70) ![](https://64.media.tumblr.com/6d76cb6e9ed0020f2fbe776e09d552a3/tumblr_inline_s6ki6a5Pzc1x7i85a_500.gif) ![STREAM THAT HANDSOME DEVIL](https://media.discordapp.net/attachments/1100600239842410598/1186441774437253140/thd.png?ex=65934302&is=6580ce02&hm=a1906080a399e69d5e35da32522b719b50ca1615fccb2400b336dce07b223831&=&format=webp&quality=lossless&width=121&height=71) ![father-daughter bonding moments](https://media.discordapp.net/attachments/1100600239842410598/1186441774001049620/that-moment.gif?ex=65934301&is=6580ce01&hm=5dd9ca947d459c00a68e99317f41a6f8ab5c309bdb125d60a1489c812c39d160&=&width=123&height=68) ![click from tpoh can drown (not canon)](https://tinyurl.com/275zcpkn) ![socpens hell](https://tinyurl.com/3yyrykdk) ![read TPOH  i'm begging](https://tinyurl.com/yzenfpry) ![mastergir big warp](https://media.discordapp.net/attachments/1100600239842410598/1191688811709730906/bigwarp.gif?ex=65a659b1&is=6593e4b1&hm=378eb1452bfd7a076fe0a72a4abadff6aeb58b35387e05dd2fd915bf56098d04&=&width=130&height=68) ![orbulus raymond](https://media.discordapp.net/attachments/1100600239842410598/1191688812615700491/ORBULUS_RAYMOND.gif?ex=65a659b1&is=6593e4b1&hm=cc3df655911d5fe49e8b235512f5d6b3689bd9bab21c2ce95ac02c88d89ce68a&=&width=121&height=71)
