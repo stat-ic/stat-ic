@@ -37,7 +37,7 @@
 > - **Nazis/USSR weirdos** _(including countryhumans)_
 > - People who vent _unannounced_, _without warning_, or _while off-topic_
 > - Believe in **_"blackwashing"_**
-> - ship _IRL_ people
+> - ship _real_ people
 > - **_Proshippers_**
 > - **_Conservatives_**
 > - **_Dream stans/supporters_**
