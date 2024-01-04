@@ -27,6 +27,8 @@
 > - I have _memory problems_ so please **bear with me**
 > - Sometimes I go AFK or leave _unannounced_
 > - ***INTERACT BEFORE YOU FRIEND ME!!*** *I won't accept friend requests otherwise!*
+> - If you can't see my chats then I probably perma-muted you for being in my DNI (if i'm mistaken, get someone to tell me ^_^)
+>   - NOTE: i don't perma-mute ppl for being under 15 👍
 
 > [!CAUTION]
 > ### $\underline{\color{red}DO\ NOT\ INTERACT}$
@@ -35,7 +37,6 @@
 > - **Nazis/USSR weirdos** _(including countryhumans)_
 > - People who vent _unannounced_, _without warning_, or _while off-topic_
 > - Believe in **_"blackwashing"_**
-> - Overly edgy people
 > - ship _IRL_ people
 > - **_Proshippers_**
 > - **_Conservatives_**
