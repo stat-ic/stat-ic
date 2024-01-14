@@ -5,7 +5,7 @@
 > HAII!! I'm ${\color{SteelBlue}Static}$ !!
 > 
 > **It/they** + _any_ neos 〃 **18** years old
->
+> 
 > I have **_ADHD + Autism_**, so keep that in mind when interacting!!
 
 > [!IMPORTANT]
