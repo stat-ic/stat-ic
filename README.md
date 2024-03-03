@@ -35,7 +35,7 @@
 > 
 > - **Under 15** _(some exceptions)_
 > - **Nazis/USSR weirdos** _(including countryhumans)_
-> - People who vent _unannounced_, _without warning_, or _while off-topic_
+> - _Traumadumpers_
 > - Believe in **_"blackwashing"_**
 > - ship _real_ people
 > - **_Proshippers_**
