@@ -46,7 +46,7 @@
 > - People who fake mental illness/disabilities
 > - ${\color{Orange}Vexulii\ /j}$
 
-────────────┉─ ![hapy](https://tinyurl.com/yu5enxrx) ─┉────────────
+────────────┉─ ![](https://drive.google.com/uc?id=1NEuDovaQzJJX8J4nX9drBQVmBYKL0LoV) ─┉────────────
 
 # FLASHING LIGHTS AND BRIGHT COLOURS DOWN THERE VVVVV
 
@@ -55,7 +55,6 @@
 > `hey look at these stamps i made`
 
 i'm manually re-adding all of my stamps rn... i had almost 200 SOBS
-![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
