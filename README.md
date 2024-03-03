@@ -1,4 +1,4 @@
-────────────┉─ ![fin fin is so cool and awesome!! come and see him :)](https://tinyurl.com/339z3ecf) ─┉────────────
+────────────┉─ ![baaulp](https://drive.google.com/uc?id=1ektYbvNl-BdNLzfp8K6HEApaWgKSy14z) ─┉────────────
 > [!NOTE]
 > ### $\underline{\color{Cerulean}ABOUT\ ME}$
 >
@@ -32,7 +32,7 @@
 
 > [!CAUTION]
 > ### $\underline{\color{red}DO\ NOT\ INTERACT}$
->
+> 
 > - **Under 15** _(some exceptions)_
 > - **Nazis/USSR weirdos** _(including countryhumans)_
 > - People who vent _unannounced_, _without warning_, or _while off-topic_
@@ -55,7 +55,6 @@
 > `hey look at these stamps i made`
 
 i'm manually re-adding all of my stamps rn... i had almost 200 SOBS
-![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
