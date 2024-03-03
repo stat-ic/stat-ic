@@ -14,7 +14,7 @@
 > 
 > **_Bolded + Italics_** = Stuff i *really* like
 > 
-> Music: **_Will Wood_**, [**`That Handsome Devil`**](https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT), **_Jhariah_**, **_Oingo Boingo_**, Jack Stauber, Lemon Demon, Cricket!, **_Toby Fox_**, Tally Hall, Frank Sinatra, MARINA, Tom Lehrer, Louie Zong, **_Godforbid_**
+> Music: **_Will Wood_**, [**`That Handsome Devil`**](https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT), **_Jhariah_**, **_Oingo Boingo_**, Jack Stauber, Lemon Demon, Cricket!, **_Toby Fox_**, Frank Sinatra, MARINA, Tom Lehrer, Louie Zong, **_Godforbid_**
 > 
 > Other: **_UNDERTALE_**, **_deltarune_**, The Stanley Parable, **_Jazzpunk_**, **_Portal_**, **_Half-Life_**, Detroit: Become Human, FNAF, Splatoon, [**`The Property of Hate`**](https://jolleycomics.com/TPoH/The_Hook/1), [**`Radio TV Solutions`**](https://www.twitch.tv/team/wrtv), **_HLVRAI_**, My Little Pony, Gravity Falls, The Muppets, Adventure Time, **_Regular Show_**, Welcome to Nightvale, DHMIS, SCP, Teen Titans, Mob Psycho 100, <ins>**`Psychology`**</ins>, Astronomy, Madness Combat, Kevin Temmer, **_Fin Fin_**, Big Top Burger, Mystery Skulls, Breaking Bad, **_Old Web_**, **_Windows Vista/7_**, **_Frutiger Aero_**
 >
