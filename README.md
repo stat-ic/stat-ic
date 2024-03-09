@@ -1,29 +1,37 @@
-![](https://komarev.com/ghpvc/?username=stat-ice&color=657cc2&style=plastic&label=View+Count+:3)
+<!--- ![](https://komarev.com/ghpvc/?username=statice&color=657cc2&style=plastic&label=View+Count+:3)-->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=plastic&amp;label=View+Count+:3" alt="view count"><br><b>LAST UPDATED: 03/09/2024</b><br><img src="https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX" alt="divider">
+</p>
 
-![divider](https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX)
+<div align="center">
+  <img src="https://drive.google.com/uc?id=1twztJNw7EI_2lV6N4UZamblt1GEoviAv" alt="Game Clam Lover" height=225px>
+</div>
 
-> [!NOTE]
-> ### $\underline{\color{Cerulean}ABOUT\ ME}$ 
-> 
-> HAII!! I'm ${\color{SteelBlue}Static}$ !!
-> 
-> **It/they** + _any_ neos 〃 **18** years old
-> 
-> I have **_ADHD + Autism_**, so keep that in mind when interacting!!
+<p align="center">
+  $\underline{\color{Cerulean}ABOUT\ ME}$<br>HAII!! I'm ${\color{SteelBlue}Static}$ !!<br><b>IT/THEY</b> + <em>any neos</em> 〃 8TEEN (07/29)<br><b><em>ADHD, AUTISM, </em></b><s>+ unlisted</s>
+</p>
 
-> [!IMPORTANT]
-> ### $\underline{\color{DarkViolet}INTERESTS}$
-> `Highlighted` = Special interest
-> 
-> **_Bolded + Italics_** = Stuff i *really* like
-> 
-> Music: **_Will Wood_**, [**`That Handsome Devil`**](https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT), **_Jhariah_**, **_Oingo Boingo_**, Jack Stauber, Lemon Demon, Cricket!, **_Toby Fox_**, MARINA, Tom Lehrer, Louie Zong, **_Godforbid_**
-> 
-> Other: **_UNDERTALE_**, **_deltarune_**, The Stanley Parable, **_Jazzpunk_**, **_Portal_**, **_Half-Life_**, [**`The Property of Hate`**](https://jolleycomics.com/TPoH/The_Hook/1), [**`Radio TV Solutions`**](https://www.twitch.tv/team/wrtv), **_HLVRAI_**, My Little Pony, Gravity Falls, Adventure Time, **_Regular Show_**, Teen Titans, <ins>**`Psychology`**</ins>, Astronomy, Madness Combat, **_Fin Fin_**, Big Top Burger, Mystery Skulls, Breaking Bad, **_Old Web_**, <ins>*+ more shit!!*</ins> 
->
-> <ins> `If you like ANYY of this stuff above you should totallyyy interact :333` </ins>
->
-> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6tbj2uxr45rlt0zg2vcn4lwd6&cover_image=true&theme=novatorem&show_offline=true&background_color=657cc2&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=6tbj2uxr45rlt0zg2vcn4lwd6&redirect=true)
+![divider](https://drive.google.com/uc?id=17VSkgz022vyQs_dWyKKP-G4o6fncc1rY)
+
+<div>
+  <img align="left" src="https://drive.google.com/uc?id=1lFZ5kvIshr11cRQSaYZwdurPpsJBBO6q" alt="Game Clam Lover" height=200px>
+</div>
+
+### $\underline{\color{DarkViolet}INTERESTS}$
+
+`SpIns:`  [**The Property of Hate**](https://jolleycomics.com/TPoH/The_Hook/1), [**Radio TV Solutions**](https://www.twitch.tv/team/wrtv), [**That Handsome Devil**](https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT), <ins>**Psychology**</ins>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6tbj2uxr45rlt0zg2vcn4lwd6&cover_image=true&theme=novatorem&show_offline=true&background_color=657cc2&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=6tbj2uxr45rlt0zg2vcn4lwd6&redirect=true)
+
+<ins>**_Bolded + Italics_** = Stuff i *really* like</ins>
+
+> Music: **_Will Wood_**, , **_Jhariah_**, **_Oingo Boingo_**, Jack Stauber, Lemon Demon, Cricket!, **_Toby Fox_**, MARINA, Tom Lehrer, Louie Zong, **_Godforbid_**
+
+> Other: **_UNDERTALE_**, **_deltarune_**, The Stanley Parable, **_Jazzpunk_**, **_Portal_**, **_Half-Life_**,, **_HLVRAI_**, My Little Pony, Gravity Falls, Adventure Time, **_Regular Show_**, Teen Titans, , Astronomy, Madness Combat, **_Fin Fin_**, Big Top Burger, Mystery Skulls, Breaking Bad, **_Old Web_**, <ins>*+ more shit!!*</ins> 
+
+<ins> `If you like ANYY of this stuff above you should totallyyy interact :333` </ins>
+
+![divider](https://drive.google.com/uc?id=17VSkgz022vyQs_dWyKKP-G4o6fncc1rY)
 
 > [!WARNING]
 > ### $\underline{\color{BurntOrange}BEFORE\ YOU\ INTERACT}$
