@@ -1,6 +1,7 @@
 ────────────┉─ ![baaulp](https://drive.google.com/uc?id=1ektYbvNl-BdNLzfp8K6HEApaWgKSy14z) ─┉────────────
 
 ![](https://komarev.com/ghpvc/?username=stat-ice&color=657cc2&style=plastic&label=Profile+Views+:3)
+
 > [!NOTE]
 > ### $\underline{\color{Cerulean}ABOUT\ ME}$
 >
@@ -21,6 +22,8 @@
 > Other: **_UNDERTALE_**, **_deltarune_**, The Stanley Parable, **_Jazzpunk_**, **_Portal_**, **_Half-Life_**, Detroit: Become Human, Splatoon, [**`The Property of Hate`**](https://jolleycomics.com/TPoH/The_Hook/1), [**`Radio TV Solutions`**](https://www.twitch.tv/team/wrtv), **_HLVRAI_**, My Little Pony, Gravity Falls, The Muppets, Adventure Time, **_Regular Show_**, Welcome to Nightvale, SCP, Teen Titans, Mob Psycho 100, <ins>**`Psychology`**</ins>, Astronomy, Madness Combat, Kevin Temmer, **_Fin Fin_**, Big Top Burger, Mystery Skulls, Breaking Bad, **_Old Web_**
 >
 > <ins> `If you like ANYY of this stuff above you should totallyyy interact :333` </ins>
+>
+> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6tbj2uxr45rlt0zg2vcn4lwd6&cover_image=true&theme=novatorem&show_offline=false&background_color=657cc2&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=6tbj2uxr45rlt0zg2vcn4lwd6&redirect=true)
 
 > [!WARNING]
 > ### $\underline{\color{BurntOrange}BEFORE\ YOU\ INTERACT}$
