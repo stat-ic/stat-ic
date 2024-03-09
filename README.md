@@ -15,7 +15,7 @@
 ![divider](https://drive.google.com/uc?id=17VSkgz022vyQs_dWyKKP-G4o6fncc1rY)
 
 <div>
-  <img align="left" src="https://drive.google.com/uc?id=1lFZ5kvIshr11cRQSaYZwdurPpsJBBO6q" alt="Game Clam Lover" height=200px>
+  <img align="left" src="https://drive.google.com/uc?id=1lFZ5kvIshr11cRQSaYZwdurPpsJBBO6q" alt="Trog Games" height=200px>
 </div>
 
 ### $\underline{\color{DarkViolet}INTERESTS}$
