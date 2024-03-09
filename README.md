@@ -74,7 +74,7 @@
 
 re-adding my stamps... i have over 300 in my drive.......
 
-> `hey look at these stamps i made (f2i)`
+> `hey look at these stamps i made (f2u)`
 
 ![Baaulp nation](https://drive.google.com/uc?id=1iSWyDQo_O2Uqk6uQIvv701E1AVUqb0_P)
 ![Bibi](https://drive.google.com/uc?id=1dQdzyoP8nquwdmOr8isxHxdMH8uavKPi)
