@@ -1,6 +1,6 @@
 ────────────┉─ ![baaulp](https://drive.google.com/uc?id=1ektYbvNl-BdNLzfp8K6HEApaWgKSy14z) ─┉────────────
 
-![](https://komarev.com/ghpvc/?username=stat-ice&color=657cc2&style=plastic&label=Profile+Views+:3)
+![](https://komarev.com/ghpvc/?username=stat-ice&color=657cc2&style=plastic&label=View+Count+:3)
 
 > [!NOTE]
 > ### $\underline{\color{Cerulean}ABOUT\ ME}$
