@@ -70,21 +70,28 @@
 
 ![divider](https://drive.google.com/uc?id=17VSkgz022vyQs_dWyKKP-G4o6fncc1rY)
 
+re-adding my stamps... i have over 300 in my drive.......
+
 > `hey look at these stamps i made`
 
-re-adding my stamps... i have over 300 in my drive.......
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
+![Baaulp nation](https://drive.google.com/uc?id=1iSWyDQo_O2Uqk6uQIvv701E1AVUqb0_P)
+![Bibi](https://drive.google.com/uc?id=1dQdzyoP8nquwdmOr8isxHxdMH8uavKPi)
+![Big warp](https://drive.google.com/uc?id=1yOpXQW9leHd_E0xZQAxt8cR7U2YyS2Rl)
+![Clone High intro](https://drive.google.com/uc?id=1xEoQU0UbhVW6rY7v3gFX_cjArlhRZ7j4)
+![Click](https://drive.google.com/uc?id=1dvGv4HJdglrLWQfi3Bc_ysjIiHITiOld)
+![Walter White Phone](https://drive.google.com/uc?id=1FQWviq7WblzjEP9J-TBCQ2a63VK3Y7d_)
+![Is a restaurant](https://drive.google.com/uc?id=1P8tCowHdwMEli0azz7_ty5rDQIFQf-RZ)
+![Is NOT a restaurant](https://drive.google.com/uc?id=1bF_MWg_IGTsm2IVWjOZTDEPXDiaszicR)
+![Joshua](https://drive.google.com/uc?id=1lk2M2sjqMfZYNTI6COZnwHEodPbZZ2dQ)
+![Mira fish](https://drive.google.com/uc?id=1CTTB8gBEP-MHmYybtPJxOymjfxQjqT5U)
+![Orbulus Raymond](https://drive.google.com/uc?id=1PrQxbNEApR59pcmJ6J2Z5KStRRgq8Wud)
+![BRBA poster](https://drive.google.com/uc?id=1Xx07BBgG_7U4Frjk7h-QgNHA_T3XkEYy)
+![Socpens Superhell](https://drive.google.com/uc?id=19Aa6ZDaguzWrmBiFdW9ovQ7lIGkZhnTd)
+![RGB Suits](https://drive.google.com/uc?id=1w5txDNSavnymiXi_meqFHQ8t_fpuYDWK)
+![Pewpew](https://drive.google.com/uc?id=1oRCVfStxYwINi-uF0Qkfj1fQFHKI3dWf)
+![Ruin my store](https://drive.google.com/uc?id=1DAPI7FCv6hmHTbaGSuGJ-pt2MqPMtXod)
+![Ruin my life](https://drive.google.com/uc?id=1Lqkw3jzgkOYA05zCP-tzNb-O8Ezh9131)
+![Periwinkle Poppy Fan](https://drive.google.com/uc?id=1maJnzCPMQPmjMWAbHLTtIcxzhrXpwGh2)
 
 > `ok now look at stamps i didn't make`
 
