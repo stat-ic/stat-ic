@@ -1,4 +1,5 @@
 <!--- ![](https://komarev.com/ghpvc/?username=statice&color=657cc2&style=plastic&label=View+Count+:3)-->
+<!---sorry to anyone trying to take inspo from this, it's formatted horribly >_< PLEASE know html before doing this shit i actually hated it-->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=plastic&amp;label=View+Count+:3" alt="view count"><br><b>LAST UPDATED: 03/09/2024</b><br><img src="https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX" alt="divider">
 </p>
@@ -8,7 +9,7 @@
 </div>
 
 <p align="center">
-  $\underline{\color{Cerulean}ABOUT\ ME}$<br>HAII!! I'm ${\color{SteelBlue}Static}$ !!<br><b>IT/THEY</b> + <em>any neos</em> 〃 8TEEN (07/29)<br><b><em>ADHD, AUTISM, </em></b><s>+ unlisted</s>
+  $\underline{\color{Cerulean}ABOUT\ ME}$<br>HAII!! I'm ${\color{SteelBlue}Static}$ !!<br><b>IT/THEY</b> + <em><ins>any neos</ins></em> 〃 8TEEN (07/29)<br><b><em>ADHD, AUTISM, </em></b><s>+ unlisted</s>
 </p>
 
 ![divider](https://drive.google.com/uc?id=17VSkgz022vyQs_dWyKKP-G4o6fncc1rY)
@@ -33,32 +34,33 @@
 
 ![divider](https://drive.google.com/uc?id=17VSkgz022vyQs_dWyKKP-G4o6fncc1rY)
 
-> [!WARNING]
-> ### $\underline{\color{BurntOrange}BEFORE\ YOU\ INTERACT}$
->
-> - I **spam** and **keyboard smash** _a lot_
-> - I have _memory problems_ so please **bear with me**
-> - I might respond to same question with a different answer sometimes
-> - Sometimes I go AFK or leave _unannounced_
-> - ***INTERACT BEFORE YOU FRIEND ME!!*** *I won't accept friend requests otherwise!*
-> - If you can't see my chats then I probably perma-muted you for being in my DNI
->   - NOTE: i don't perma-mute ppl for being under 15 👍
+<div>
+  <img align="right" src="https://drive.google.com/uc?id=1BhSojW9ZhCoU1cegVnr_4vZT0LDeMG2q" alt="Bad Boe Jamo" height=300px>
+</div>
 
-> [!CAUTION]
-> ### $\underline{\color{red}DO\ NOT\ INTERACT}$
-> 
-> - **Under 15** _(some exceptions)_
-> - **Nazis/USSR weirdos** _(including countryhumans)_
-> - _Traumadumpers_
-> - Believe in **_"blackwashing"_**
-> - Ship _real_ people
-> - **_Proshippers_**
-> - **_Conservatives_**
-> - **_Dream stans/supporters_**
-> - **_Zionists/Israel supporters_**
-> - Endo "systems"
-> - People who fake mental illness/disabilities
-> - ${\color{Orange}Vexulii\ /j}$
+### $\underline{\color{BurntOrange}BEFORE\ YOU\ INTERACT}$
+
+- I **spam** and **keyboard smash** _a lot_
+- I have _memory problems_ so please **bear with me**
+- I might respond to same question with a different answer sometimes
+- Sometimes I go AFK or leave _unannounced_
+- ***INTERACT BEFORE YOU FRIEND ME!!*** *I won't accept friend requests otherwise!*
+- If you can't see my chats then I probably perma-muted you for being in my DNI
+   - NOTE: i don't perma-mute ppl for being under 15/over 28 👍
+ 
+![divider](https://drive.google.com/uc?id=17VSkgz022vyQs_dWyKKP-G4o6fncc1rY)
+
+<div>
+  <img align="left" src="https://drive.google.com/uc?id=1-M_k_KD858ArE9nxw4UgHdWkRpJsZ6EZ" alt="Baaulp died" height=250px>
+</div>
+
+### $\underline{\color{red}DO\ NOT\ INTERACT}$
+
+`Unless friends/I do:` **Under 15/Over 28**
+
+`NO EXCEPTION:` **Nazi/USSR skins**, _Traumadumpers_, **_"Blackwashing"_** believers, _Real_ people shippers, **_Proshippers_**, **_Dream stans/supporters_**, **_Zionists/Israel supporters_**, Endo "systems", People who fake mental illness/disabilities
+
+`Worst one:` ${\color{Orange}Vexulii\ /j}$
 
 ![divider](https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX)
 
