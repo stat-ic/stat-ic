@@ -38,7 +38,7 @@
   <img align="right" src="https://drive.google.com/uc?id=1BhSojW9ZhCoU1cegVnr_4vZT0LDeMG2q" alt="Bad Boe Jamo" height=300px>
 </div>
 
-### $\underline{\color{BurntOrange}BEFORE\ YOU\ INTERACT}$
+### $\underline{\color{Lime}BEFORE\ YOU\ INTERACT}$
 
 - I **spam** and **keyboard smash** _a lot_
 - I have _memory problems_ so please **bear with me**
