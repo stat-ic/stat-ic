@@ -64,9 +64,11 @@
 
 ![divider](https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX)
 
-# FLASHING LIGHTS AND BRIGHT COLOURS DOWN THERE VVVVV
+<p align="center">
+  <em><b>STAT'S STAMP COLLECTION<br>FLASHING LIGHTS AND BRIGHT COLOURS DOWN THERE VVVVV</b></em>
+</p>
 
----
+![divider](https://drive.google.com/uc?id=17VSkgz022vyQs_dWyKKP-G4o6fncc1rY)
 
 > `hey look at these stamps i made`
 
