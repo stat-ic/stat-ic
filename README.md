@@ -155,5 +155,5 @@ re-adding my stamps... i have over 300 in my drive.......
 ![divider](https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX)
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=6tbj2uxr45rlt0zg2vcn4lwd6&amp;count=5&amp;width=1000" alt="Spotify recently played">
+  <a href="https://open.spotify.com/user/6tbj2uxr45rlt0zg2vcn4lwd6"><img src="https://spotify-recently-played-readme.vercel.app/api?user=6tbj2uxr45rlt0zg2vcn4lwd6&amp;count=5&amp;width=1000" alt="Spotify recently played"></a>
 </div>
