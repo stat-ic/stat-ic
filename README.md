@@ -15,12 +15,14 @@
 ![divider](https://drive.google.com/uc?id=17VSkgz022vyQs_dWyKKP-G4o6fncc1rY)
 
 <div>
-  <img align="left" src="https://drive.google.com/uc?id=1lFZ5kvIshr11cRQSaYZwdurPpsJBBO6q" alt="Trog Games" height=200px>
+  <img align="left" src="https://drive.google.com/uc?id=1lFZ5kvIshr11cRQSaYZwdurPpsJBBO6q" alt="Trog Games" height=210px>
 </div>
 
 ### $\underline{\color{DarkViolet}INTERESTS}$
 
 `SpIns:`  [**The Property of Hate**](https://jolleycomics.com/TPoH/The_Hook/1), [**Radio TV Solutions**](https://www.twitch.tv/team/wrtv), [**That Handsome Devil**](https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT), <ins>**Psychology**</ins>
+
+<ins>**_NOW PLAYING:_**</ins>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6tbj2uxr45rlt0zg2vcn4lwd6&cover_image=true&theme=novatorem&show_offline=true&background_color=657cc2&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=6tbj2uxr45rlt0zg2vcn4lwd6&redirect=true)
 
