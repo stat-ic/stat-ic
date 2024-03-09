@@ -1,10 +1,10 @@
-────────────┉─ ![baaulp](https://drive.google.com/uc?id=1ektYbvNl-BdNLzfp8K6HEApaWgKSy14z) ─┉────────────
-
 ![](https://komarev.com/ghpvc/?username=stat-ice&color=657cc2&style=plastic&label=View+Count+:3)
 
+![divider](https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX)
+
 > [!NOTE]
-> ### $\underline{\color{Cerulean}ABOUT\ ME}$
->
+> ### $\underline{\color{Cerulean}ABOUT\ ME}$ 
+> 
 > HAII!! I'm ${\color{SteelBlue}Static}$ !!
 > 
 > **It/they** + _any_ neos 〃 **18** years old
@@ -52,7 +52,7 @@
 > - People who fake mental illness/disabilities
 > - ${\color{Orange}Vexulii\ /j}$
 
-────────────┉─ ![](https://drive.google.com/uc?id=1NEuDovaQzJJX8J4nX9drBQVmBYKL0LoV) ─┉────────────
+![divider](https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX)
 
 # FLASHING LIGHTS AND BRIGHT COLOURS DOWN THERE VVVVV
 
