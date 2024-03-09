@@ -76,7 +76,7 @@ i'm manually re-adding all of my stamps rn... i had almost 200 SOBS
 
 > `ok now look at stamps i didn't make`
 
-![3ds logo](https://drive.google.com/uc?id=1zoDgIYWnuG50qfEM6eJAt4jOg2VIoJiE)
+![3ds logo](https://drive.google.com/uc?id=1JgirdL90vClS9JiarvuQP4EpO7enzIdy)
 ![dreamscape](https://drive.google.com/uc?id=1YFcGwuuVeoCh66eG4wK3EC4U2OFkf9NE)
 ![didn't survive 2016](https://drive.google.com/uc?id=13f07JNOelAZlrtjI8_ccP0bIkN25pFI7)
 ![asexual](https://drive.google.com/uc?id=15FFGUI2xNGeLB3iYg9BAYXzmgrOQaRpO)
@@ -87,8 +87,8 @@ i'm manually re-adding all of my stamps rn... i had almost 200 SOBS
 ![ant](https://drive.google.com/uc?id=1qJYp1RPCqdv077XeyOKV3WQWVH4i3uq4)
 ![art](https://drive.google.com/uc?id=1a--eBjp_Ii9MP_O4gna8wqsy5X7oBrFo)
 ![artist](https://drive.google.com/uc?id=1jQM4sYb7LMu8afitAzeR-eTkUFpZHRFS)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
+![ADHD](https://drive.google.com/uc?id=1kqRF7_dh3bq-lg49YQqwKBW_CV1mXHYO)
+![3ds owner](https://drive.google.com/uc?id=1gjD1Cdra7hN4Akp-0l84GoayonHD21AH)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
