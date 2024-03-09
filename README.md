@@ -34,6 +34,8 @@
 
 <ins> `If you like ANYY of this stuff above you should totallyyy interact :333` </ins>
 
+
+
 ![divider](https://drive.google.com/uc?id=17VSkgz022vyQs_dWyKKP-G4o6fncc1rY)
 
 <div>
@@ -149,3 +151,9 @@ re-adding my stamps... i have over 300 in my drive.......
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
+
+![divider](https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX)
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=6tbj2uxr45rlt0zg2vcn4lwd6&amp;count=5&amp;width=1000" alt="Spotify recently played">
+</div>
