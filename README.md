@@ -60,7 +60,7 @@
 
 > `hey look at these stamps i made`
 
-i'm manually re-adding all of my stamps rn... i had almost 200 SOBS
+re-adding my stamps... i have over 300 in my drive.......
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
@@ -89,17 +89,16 @@ i'm manually re-adding all of my stamps rn... i had almost 200 SOBS
 ![artist](https://drive.google.com/uc?id=1jQM4sYb7LMu8afitAzeR-eTkUFpZHRFS)
 ![ADHD](https://drive.google.com/uc?id=1kqRF7_dh3bq-lg49YQqwKBW_CV1mXHYO)
 ![3ds owner](https://drive.google.com/uc?id=1gjD1Cdra7hN4Akp-0l84GoayonHD21AH)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
+![animal crossing](https://drive.google.com/uc?id=1ot1LTQB66sRUCMXSUwb34UzwG3qXXEJY)
+![anti ai art](https://drive.google.com/uc?id=11zhrwf19-t7uh22KLoDm827zenyL84GD)
+![anti hitting kids](https://drive.google.com/uc?id=1QCXvQ7mh3pJCMZ7a6NsBPQ9ByD1qWf-R)
+![aperture](https://drive.google.com/uc?id=1nIgbujR1_cKhtBUVBCcb8pmWz4bQ7Swk)
+![apple lover](https://drive.google.com/uc?id=199n89Aql0syQupBG64FGK6daUNx1hBeR)
+![aroace](https://drive.google.com/uc?id=1Nyj14DXVQZpYrVqDPJVhZCoy2dv8cC9V)
+![autism](https://drive.google.com/uc?id=1PqYqozsbjj7GptVYxIUl4VVlI6CKcxws)
+![atari](https://drive.google.com/uc?id=1G9Q15Vw9Ywk_uoJeY3HS23p4alDNOgS9)
+![adventure time intro](https://drive.google.com/uc?id=1i2zjztB1y1RiylKxxGi6NWFaAKV876mB)
+![avgn gun](https://drive.google.com/uc?id=1qsWhaMym7FN0qO-nAg_3jJEQ8bHv8YmS)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
