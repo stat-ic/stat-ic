@@ -35,7 +35,7 @@
 ![divider](https://drive.google.com/uc?id=17VSkgz022vyQs_dWyKKP-G4o6fncc1rY)
 
 <div>
-  <img align="right" src="https://drive.google.com/uc?id=1BhSojW9ZhCoU1cegVnr_4vZT0LDeMG2q" alt="Bad Boe Jamo" height=300px>
+  <img align="right" src="https://drive.google.com/uc?id=1BhSojW9ZhCoU1cegVnr_4vZT0LDeMG2q" alt="Bad Boe Jamo" height=260px>
 </div>
 
 ### $\underline{\color{Lime}BEFORE\ YOU\ INTERACT}$
@@ -51,7 +51,7 @@
 ![divider](https://drive.google.com/uc?id=17VSkgz022vyQs_dWyKKP-G4o6fncc1rY)
 
 <div>
-  <img align="left" src="https://drive.google.com/uc?id=1-M_k_KD858ArE9nxw4UgHdWkRpJsZ6EZ" alt="Baaulp died" height=250px>
+  <img align="left" src="https://drive.google.com/uc?id=1-M_k_KD858ArE9nxw4UgHdWkRpJsZ6EZ" alt="Baaulp died" height=230px>
 </div>
 
 ### $\underline{\color{red}DO\ NOT\ INTERACT}$
