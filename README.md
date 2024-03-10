@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  $\underline{\color{Cerulean}ABOUT\ ME}$<br>HAII!! I'm ${\color{SteelBlue}Static}$ !!<br><b>IT/THEY</b> + <em><ins>any neos</ins></em> 〃 8TEEN (07/29)<br><b><em>ADHD, AUTISM, </em></b><s>+ unlisted</s>
+  $\underline{\color{Cerulean}ABOUT\ ME}$<br>HAII!! I'm ${\color{SteelBlue}Static}$ !!<br><b>IT/THEY</b> + <em><ins>any neos</ins></em> 〃 8TEEN (07/29)<br><ins>Blasian</ins> 〃 <b><em>ADHD, AUTISM, </em></b><s>+ unlisted</s>
 </p>
 
 ![divider](https://drive.google.com/uc?id=17VSkgz022vyQs_dWyKKP-G4o6fncc1rY)
