@@ -1,7 +1,7 @@
 <!--- ![](https://komarev.com/ghpvc/?username=statice&color=657cc2&style=plastic&label=View+Count+:3)-->
 <!---sorry to anyone trying to take inspo from this, it's formatted horribly >_< PLEASE know html before doing this shit i actually hated it-->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=plastic&amp;label=View+Count+:3" alt="view count"><br><b>LAST UPDATED: 03/10/2024</b><br><img src="https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX" alt="divider">
+  <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=plastic&amp;label=View+Count+:3" alt="view count"><br><b>LAST UPDATED: 03/13/2024</b><br><img src="https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX" alt="divider">
 </p>
 
 <div align="center">
@@ -69,11 +69,14 @@
 ![divider](https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX)
 
 <p align="center">
-  <em><b>STAT'S STAMP COLLECTION<br>FLASHING LIGHTS AND BRIGHT COLOURS DOWN THERE VVVVV</b></em>
+  <em><b>STAT'S STAMP COLLECTION</b></em>
 </p>
 
 ![divider](https://drive.google.com/uc?id=17VSkgz022vyQs_dWyKKP-G4o6fncc1rY)
 
+<details>
+<summary><b>WARNING!!! FLASHING LIGHTS AND BRIGHT COLOURS!!!</b></summary>
+<br>
 re-adding my stamps... i have over 300 in my drive.......
 
 > `hey look at these stamps i made (f2u)`
@@ -153,6 +156,8 @@ re-adding my stamps... i have over 300 in my drive.......
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
+
+</details>
 
 ![divider](https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX)
 
