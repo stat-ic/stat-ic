@@ -49,8 +49,6 @@
 - I might respond to the same question with a different answer sometimes
 - Sometimes I go AFK or leave _unannounced_
 - ***INTERACT BEFORE YOU FRIEND ME!!*** *I won't accept friend requests otherwise!*
-- If you can't see my chats then I probably perma-muted you for being in my DNI
-   - NOTE: i don't perma-mute ppl for their age 👍
  
 ![divider](https://drive.google.com/uc?id=17VSkgz022vyQs_dWyKKP-G4o6fncc1rY)
 
