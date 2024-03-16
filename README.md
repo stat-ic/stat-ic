@@ -1,7 +1,7 @@
 <!--- ![](https://komarev.com/ghpvc/?username=statice&color=657cc2&style=plastic&label=View+Count+:3)-->
 <!---sorry to anyone trying to take inspo from this, it's formatted horribly >_< PLEASE know html before doing this shit i actually hated it-->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=plastic&amp;label=View+Count+:3" alt="view count"><br><b>LAST UPDATED: 03/13/2024</b><br><img src="https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX" alt="divider">
+  <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=plastic&amp;label=View+Count+:3" alt="view count"><br><b>LAST UPDATED: 03/16/2024</b><br><img src="https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX" alt="divider">
 </p>
 
 <div align="center">
@@ -62,7 +62,7 @@
 
 `Unless friends/I do:` **Under 15/Over 28**
 
-`NO EXCEPTION:` **Nazi/USSR skins**, _Traumadumpers_, **_"Blackwashing"_** believers, _Real_ people shippers, **_Proshippers_**, **_Dream stans/supporters_**, **_Zionists/Israel supporters_**, Endo systems, People who fake mental illness/disabilities
+`NO EXCEPTION:` **Nazi/USSR skins**, _Traumadumpers_, **_"Blackwashing"_** believers, _Real_ people shippers, **_Proshippers_**, **_DSMP fans_**, **_Zionists/Israel supporters_**, Endo systems, People who fake mental illness/disabilities
 
 `Worst one:` ${\color{Orange}Vexulii\ /j}$
 
