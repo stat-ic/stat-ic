@@ -58,9 +58,9 @@
 
 ### $\underline{\color{red}DO\ NOT\ INTERACT}$
 
-`Unless friends/I do:` **Under 15/Over 28**
+`Unless friends/I do:` **Under 15**
 
-`NO EXCEPTION:` **Nazi/USSR skins**, _Traumadumpers_, **_"Blackwashing"_** believers, _Real_ people shippers, **_Proshippers_**, **_DSMP fans_**, **_Zionists/Israel supporters_**, Endo systems, People who fake mental illness/disabilities
+`NO EXCEPTION:` **Nazi/USSR skins**, _Traumadumpers_, **_"Blackwashing"_** believers, _Real_ people shippers, **_Proshippers_**, **_Zionists/Israel supporters_**, Endo systems, Folks who fake mental illness/disabilities
 
 `Worst one:` ${\color{Orange}Vexulii\ /j}$
 
