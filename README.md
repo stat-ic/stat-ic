@@ -111,7 +111,6 @@ re-adding my stamps... i have over 300 in my drive.......
 ![annoying dog](https://drive.google.com/uc?id=1jv8LcdMydQAtX2T4eSG-hsOYmgN__Abw)
 ![lethal weapon](https://drive.google.com/uc?id=1Dz1EZiqRQYjscoVP3JSx0nUABefzh_59)
 ![ant](https://drive.google.com/uc?id=1qJYp1RPCqdv077XeyOKV3WQWVH4i3uq4)
-![art](https://drive.google.com/uc?id=1a--eBjp_Ii9MP_O4gna8wqsy5X7oBrFo)
 ![artist](https://drive.google.com/uc?id=1jQM4sYb7LMu8afitAzeR-eTkUFpZHRFS)
 ![ADHD](https://drive.google.com/uc?id=1kqRF7_dh3bq-lg49YQqwKBW_CV1mXHYO)
 ![3ds owner](https://drive.google.com/uc?id=1gjD1Cdra7hN4Akp-0l84GoayonHD21AH)
