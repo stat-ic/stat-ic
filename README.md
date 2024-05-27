@@ -125,7 +125,7 @@ re-adding my stamps... i have over 300 in my drive.......
 ![pipi yell](https://drive.google.com/uc?id=185cWb5Pstlbb5L59e53hA_g6PwPZsLcX)
 ![yosef sneak](https://drive.google.com/uc?id=1f3r_OjUDvXZN_14N8fM2t-SwUBhbkzxr)
 ![castle crashers](https://drive.google.com/uc?id=1fqahCBw39zA2ecUQICGDBOmCfZC-VYFi)
-![](https://drive.google.com/uc?id=)
+![orang](https://drive.google.com/uc?id=1oTipPFtu8SzFfWJ_f8AvjLr00YAn5JV-)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 
