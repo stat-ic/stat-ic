@@ -163,6 +163,7 @@ re-adding my stamps... i have over 300 in my drive.......
 ![bon](https://drive.google.com/uc?id=1dvynD8jvijxKt7KrsjFyN2p8Pez9Uc3J)
 ![book of life mwah](https://drive.google.com/uc?id=1H9zOwgM1wjlub0B9foN0FeMfg1OKamJR)
 ![botw](https://drive.google.com/uc?id=12HajQHA0pfxIvnB4Hf_NKeBAoknymeV0)
+![BSOD](https://drive.google.com/uc?id=12ojJ7pG_2IFz_KLv7NDQQLvCDwSZRTuZ)
 ![bubble buddy slurp](https://drive.google.com/uc?id=1F79HrL1Hd9E1vQyRegeynXLIbQdG5dDD)
 ![burn lemons](https://drive.google.com/uc?id=1_pXZSYUyRR6THxkt9tcxMVJblaiFLgX6)
 ![burst nurst](https://drive.google.com/uc?id=10QNVOBcDxuZShN5jtP2g9UyekU6gj_-w)
