@@ -1,28 +1,7 @@
 <!--- ![](https://komarev.com/ghpvc/?username=statice&color=657cc2&style=plastic&label=View+Count+:3)-->
-<!---sorry to anyone trying to take inspo from this, it's formatted horribly >_< PLEASE know html before doing this shit i actually hated it-->
+<!---sorry to anyone trying to take inspo from this, it's formatted horribly >_< i knew next to shit about html when i was making this-->
 
 
-
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
@@ -264,7 +243,25 @@ re-adding my stamps... i have over 300 in my drive.......
 ![dogs3](https://drive.google.com/uc?id=1gjmkg7-wqofwXSUViMmnpCMYVQg5s1Ud)
 ![dominator](https://drive.google.com/uc?id=18h01xYqgU0fLxWN6m2A_85Vs5vARtDBX)
 ![dvd](https://drive.google.com/uc?id=1nw2gi8IXJfVvDZHqL5O_4PX8l50PMpU1)
-
+![EAT PANT](https://drive.google.com/uc?id=11aQZVl84nnjc5_qTAhHNGfsGyRdEf1j7)
+![echo](https://drive.google.com/uc?id=1XOfUAc-6ksqf_d-FlK32IRvPlyq86Rix)
+![ed edd n eddy sfx](https://drive.google.com/uc?id=1qyZaixJLBE_LhoOptvwUWEGaJxmxGCqG)
+![eial](https://drive.google.com/uc?id=1zmArnDL1AcG78PbhiLbZQYDvwxNezVqC)
+![electric orb](https://drive.google.com/uc?id=1ubANinUWgbDocpxJDChFOZFLsQe_bguL)
+![emoji movie anti](https://drive.google.com/uc?id=1jz6dyVD0bh_vW8FjVDrvLXCzc-6FLQjH)
+![epic yarn](https://drive.google.com/uc?id=15m-Yj-beg5w8yLqJ3lpwaFbnQMOYQjG0)
+![fire stamp](https://drive.google.com/uc?id=1z_MXCVLt3-EbpRKUuMiN7_e_Ez1S4Xqm)
+![flowey heart](https://drive.google.com/uc?id=1ljtHMsKWFq6eAghd-z-XTB_g_F66A9by)
+![flowey laugh](https://drive.google.com/uc?id=1e1kSJI7aDboq7baJJDj8sHJPtKtTYjyk)
+![flowey text](https://drive.google.com/uc?id=1yJWTwsbvi0vkck377ZydQcYVKKsmuAPD)
+![flowey troll](https://drive.google.com/uc?id=1vzbCPdbsGQW8EYNCaAwstjnnhj5N6JuY)
+![fnaf](https://drive.google.com/uc?id=14yg-bktjdbW7TxceKElgyhes0hENl5Pu)
+![forgave wheatley](https://drive.google.com/uc?id=1W-PAGu4kEmn6NCJvJum_gdoxo8PS8ZVn)
+![forgetful](https://drive.google.com/uc?id=1L1bzJaG9YbvI7ygN8EWwHuvfnziYikvJ)
+![forgor](https://drive.google.com/uc?id=1yGwRcq1f8yPvKUkMc4wXpoYhd_4BzlcC)
+![frutiger](https://drive.google.com/uc?id=1rtqPH4w_xMtPFvCtSmqq_77RUJW_vT6w)
+![fuck terfs](https://drive.google.com/uc?id=1Ilxfk9IxefMKMun23swU2XefyBpi3Xll)
+![funnel cake](https://drive.google.com/uc?id=1e-CeiumIGTiFrz4zjcSDp8RmYpYiddja)
 
 </details>
 
