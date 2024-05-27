@@ -35,7 +35,7 @@
 
 > <ins>Games:</ins> **_UNDERTALE_**, **_deltarune_**, The Stanley Parable, **_Jazzpunk_**, **_Portal_**, **_Half-Life_**, **_Fin Fin_**, Left 4 Dead, Minecraft, **_Spore_**, Animal Crossing, **_gmod_**, **_Battleblock Theatre_**, **_Pit People_**, Alien Hominid
 
-> <ins>Web Series:</ins> **_HLVRAI_**, Madness Combat, Big Top Burger, Mystery Skulls
+> <ins>Web Series:</ins> **_HLVRAI_**, Madness Combat, Big Top Burger, Mystery Skulls, DHMIS
 
 > <ins>Shows:</ins>  My Little Pony, Gravity Falls, Adventure Time, **_Regular Show_**, Teen Titans, Breaking Bad, Wander Over Yonder, Chowder, Mob Psycho 100
 
@@ -113,6 +113,9 @@ re-adding my stamps... i have over 300 in my drive.......
 ![THD](https://drive.google.com/uc?id=1yxwxBx07PGvOd_SeIsBhguwH3ycrjea5)
 ![burger eat](https://drive.google.com/uc?id=1ybaEBPkO1GBXP-GDfIdO_6juVflv6RKv)
 ![poopshitters](https://drive.google.com/uc?id=1yi2HH60gtg4mhI50TniW7QTv6RSiRqk9)
+![time1](https://drive.google.com/uc?id=1BDjJpRv2GuQiQHSK_BnqopE8c1yWTTrv)
+![time2](https://drive.google.com/uc?id=1AfR5RRCTYa4Yk_9Rb65HhMuJTIxTG649)
+![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 
@@ -294,18 +297,18 @@ re-adding my stamps... i have over 300 in my drive.......
 ![my eyes](https://drive.google.com/uc?id=1uJw9CWN1rxfmRcv7ZuOTu9yFi-HGYCWx)
 ![mystery skulls alive](https://drive.google.com/uc?id=1Z7xxtyg5LVer8Wm2MsTIEupdNs_jNwor)
 ![mystery skulls death](https://drive.google.com/uc?id=1UtIvBXiLJc5SJfcTFTPBIUG_bD9TOToL)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
+![nnsg](https://drive.google.com/uc?id=1HuKTCEeNNURAQuID0SPd_J9wmJfOkBlv)
+![no flirting](https://drive.google.com/uc?id=1wfBMmgVjouLrJr-bu-iRuU3KKT1qC8mb)
+![no idea](https://drive.google.com/uc?id=1qrELZoUCg3DRYa5vqkZ3GSu74UU7BA2q)
+![no kid hug](https://drive.google.com/uc?id=1S9Lj1uhgudZlIlfBp7z-D9Qyk3AlVpY3)
+![no kid kiss](https://drive.google.com/uc?id=1KpCBfyXBMUPYCvLDxmQKqyE_RuBKtxua)
+![non binary](https://drive.google.com/uc?id=1XM2ilMulc8_4WMHkIoCO6QUhlurKiBl_)
+![no pedos](https://drive.google.com/uc?id=1_-P2_YPmJ4132h_epcpirTPozA8cMo6j)
+![NOT defective](https://drive.google.com/uc?id=1LR89xrcfjyyaqSe_JfPYpL2KcL7K9h5w)
+![not feeling up to it](https://drive.google.com/uc?id=1mQ6KjvUdOy-Y9fH5YUoqVnJsJUO92F6b)
+![nothing check](https://drive.google.com/uc?id=1eE9ne2xQ0R9XDPHDPbWIrC5MMRJXqesf)
+![not rehab](https://drive.google.com/uc?id=1nVbnTenbZ1KJ8lU2fyLhVQ9u7YRAxv_u)
+![nya rawr](https://drive.google.com/uc?id=1u3_KJKwNi5unsxAfM6ocrSUBD7M6su_h)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
