@@ -2,6 +2,7 @@
 <!---sorry to anyone trying to take inspo from this, it's formatted horribly >_< i knew next to shit about html when i was making this-->
 
 
+
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
@@ -267,8 +268,6 @@ re-adding my stamps... i have over 300 in my drive.......
 
 ![divider](https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX)
 
-<?php displayLastFM(); ?>
-
 <div align="center">
-  <a href="https://open.spotify.com/user/6tbj2uxr45rlt0zg2vcn4lwd6"><img src="https://spotify-recently-played-readme.vercel.app/api?user=6tbj2uxr45rlt0zg2vcn4lwd6&amp;count=5&amp;width=800" alt="Spotify recently played"></a>
+  <a href="https://www.last.fm/user/lectricstat"><img src="https://lastfm-recently-played.vercel.app/api?user=lectricstat&loved=true&show_user=header&footer_style=compact_stats&bg_color=657cc2" alt="Recently played"></a>
 </div>
