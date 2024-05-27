@@ -123,6 +123,10 @@ re-adding my stamps... i have over 300 in my drive.......
 ![honey roll](https://drive.google.com/uc?id=1j5lkmU4zQjQMs7FIQaSiM1o4Ow8Bv3lI)
 ![honey talk](https://drive.google.com/uc?id=1QOhQXInuKyYgj3okqPjZ9GjGXW-lx06E)
 ![pipi yell](https://drive.google.com/uc?id=185cWb5Pstlbb5L59e53hA_g6PwPZsLcX)
+![yosef sneak](https://drive.google.com/uc?id=1f3r_OjUDvXZN_14N8fM2t-SwUBhbkzxr)
+![](https://drive.google.com/uc?id=)
+![](https://drive.google.com/uc?id=)
+![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 
 > `ok now look at stamps neither of us made`
