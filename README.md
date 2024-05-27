@@ -2,9 +2,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6tbj2uxr45rlt0zg2vcn4lwd6&cover_image=true&theme=novatorem&show_offline=true&background_color=657cc2&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=6tbj2uxr45rlt0zg2vcn4lwd6&redirect=true)-->
 <!---sorry to anyone trying to take inspo from this, it's formatted horribly >_< i knew next to shit about html when i was making this-->
 
-https://drive.google.com/file/d//view?usp=drive_link, https://drive.google.com/file/d//view?usp=drive_link
-
-
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
