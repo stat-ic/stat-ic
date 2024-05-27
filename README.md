@@ -31,9 +31,17 @@
 
 <ins>**_Bolded + Italics_** = Stuff i *really* like</ins>
 
-> Music: **_Will Wood_**, **_Jhariah_**, **_Oingo Boingo_**, Jack Stauber, Lemon Demon, Cricket!, **_Toby Fox_**, MARINA, Tom Lehrer, Louie Zong, **_Godforbid_**
+> <ins>Music:</ins> **_Will Wood_**, **_Jhariah_**, **_Oingo Boingo_**, Jack Stauber, Lemon Demon, Cricket!, **_Toby Fox_**, MARINA, Tom Lehrer, Louie Zong, **_Godforbid_**
 
-> Other: **_UNDERTALE_**, **_deltarune_**, The Stanley Parable, **_Jazzpunk_**, **_Portal_**, **_Half-Life_**, **_HLVRAI_**, My Little Pony, Gravity Falls, Adventure Time, **_Regular Show_**, Teen Titans, Astronomy, Madness Combat, **_Fin Fin_**, Big Top Burger, Mystery Skulls, Breaking Bad, **_Old Web_**, <ins>*+ more shit!!*</ins> 
+> <ins>Games:</ins> **_UNDERTALE_**, **_deltarune_**, The Stanley Parable, **_Jazzpunk_**, **_Portal_**, **_Half-Life_**, **_Fin Fin_**, Left 4 Dead, Minecraft, **_Spore_**, Animal Crossing, **_gmod_**
+
+> <ins>Web Series:</ins> **_HLVRAI_**, Madness Combat, Big Top Burger, Mystery Skulls
+
+> <ins>Shows:</ins>  My Little Pony, Gravity Falls, Adventure Time, **_Regular Show_**, Teen Titans, Breaking Bad, Wander Over Yonder, Chowder, Mob Psycho 100
+
+> <ins>Other:</ins> Astronomy, **_Old Web_**, **_Rhythm games_**, Programming
+
+<ins>*+ more shit i forgot!!*</ins> 
 
 <ins> `If you like ANYY of this stuff above you should totallyyy interact :333` </ins>
 
