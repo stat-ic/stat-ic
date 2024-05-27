@@ -94,7 +94,7 @@
 
 <ins>**_NOW PLAYING:_**</ins>
 <div>
-  <a href="https://www.last.fm/user/lectricstat"><img src="https://lfm.tkkr.dev/nowplaying?username=lectricstat&dynamic=true&size=95" alt="Recently played"></a>
+  <a href="https://www.last.fm/user/lectricstat"><img src="https://lfm.tkkr.dev/nowplaying?username=lectricstat&dynamic=true&size=95" alt="Last FM Currently Playing: if you can see this, then I'm playing a song that isn't actually released by the artist"></a>
 </div>
 
 <ins>**_Bolded + Italics_** = Stuff i *really* like</ins>
