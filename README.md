@@ -1,7 +1,6 @@
 <!--- ![](https://komarev.com/ghpvc/?username=statice&color=657cc2&style=plastic&label=View+Count+:3)-->
 <!---sorry to anyone trying to take inspo from this, it's formatted horribly >_< PLEASE know html before doing this shit i actually hated it-->
 
-
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
@@ -239,7 +238,6 @@ re-adding my stamps... i have over 300 in my drive.......
 ![burn lemons](https://drive.google.com/uc?id=1_pXZSYUyRR6THxkt9tcxMVJblaiFLgX6)
 ![burst nurst](https://drive.google.com/uc?id=10QNVOBcDxuZShN5jtP2g9UyekU6gj_-w)
 ![C:\_](https://drive.google.com/uc?id=1cq5LxH0uE4fOMpc3I1ZcusJwOsrUqc0v)
-![c-ptsd](https://drive.google.com/uc?id=17uxXg11KAzYMq4L6PVjBE2VG6Pybr2zW)
 ![cake lie](https://drive.google.com/uc?id=1aNyVWVynlAn_fTbE6tWzAae5SmmwHZpi)
 ![campbells](https://drive.google.com/uc?id=1vyhWciRJGzz8_iAMQvifRhsgnh-kaUMS)
 ![cant focus](https://drive.google.com/uc?id=1TK03wRiWMms9Pem6exT276N1XCTBX45W)
