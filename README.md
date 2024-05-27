@@ -27,14 +27,6 @@
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=plastic&amp;label=View+Count+:3" alt="view count"><br><b>LAST UPDATED: 05/27/2024</b><br><img src="https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX" alt="divider">
@@ -263,6 +255,14 @@ re-adding my stamps... i have over 300 in my drive.......
 ![hit as a "cure"](https://drive.google.com/uc?id=1D2QfHCCYJnmdItR37CIhVaPMPzGFC6qf)
 ![hl2](https://drive.google.com/uc?id=1HfjlSxqOM-xS4OCiemTzCXD_UxjqHUrd)
 ![hl3](https://drive.google.com/uc?id=1AdmDYl1JnsLUXvaOYmS1dRTk6Nk8q-mz)
+![i has crowbar](https://drive.google.com/uc?id=165jI32zwwSBxyPgAEU96_46wzg0Vgpju)
+![i'll kill you](https://drive.google.com/uc?id=1xipeoGlDyIYmKccnFJ3_i1vsERbVUAcP)
+![i'm bready](https://drive.google.com/uc?id=1qlZtYXaGTMHThU5tMs6cfBwb0yjC2Bof)
+![i'm different](https://drive.google.com/uc?id=14qCKZE5gzEF3ls6xAzjEKruaxjmBr6CU)
+![i miss aim](https://drive.google.com/uc?id=1x7ouApoVxvObBaUiU6PfCwWWZBuJhZYp)
+![incest gross](https://drive.google.com/uc?id=1xSxVHd6OrphuwqiXXS0PJrdZQpjaw3zk)
+![isopod chip](https://drive.google.com/uc?id=1ULXeITO_5J4sL84VxiIkzsNqy2s50yQ3)
+![it its](https://drive.google.com/uc?id=1KCxZ6aWM4uIaD8X3UN3G1DO74Q6Y4170)
 
 </details>
 
