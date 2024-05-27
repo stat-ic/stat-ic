@@ -116,7 +116,7 @@ re-adding my stamps... i have over 300 in my drive.......
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 
-> `check out these stamps my friend` <a href="https://www.patreon.com/vexuliii/about">Vexulii</a> `made`
+> `check out these stamps my friend` <a href="https://www.patreon.com/vexuliii/about">Vexulii</a> `made (f2u)`
 
 ![hanslap](https://drive.google.com/uc?id=1RsDTksLyCxQg3y-j1iQeuXCx95T0GbxP)
 ![hatty CHEER](https://drive.google.com/uc?id=1LAA5pjLDxPDiYChgzaTLq5HhywCXrTm-)
