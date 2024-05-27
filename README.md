@@ -113,8 +113,19 @@ re-adding my stamps... i have over 300 in my drive.......
 ![THD](https://drive.google.com/uc?id=1yxwxBx07PGvOd_SeIsBhguwH3ycrjea5)
 ![burger eat](https://drive.google.com/uc?id=1ybaEBPkO1GBXP-GDfIdO_6juVflv6RKv)
 ![poopshitters](https://drive.google.com/uc?id=1yi2HH60gtg4mhI50TniW7QTv6RSiRqk9)
+![](https://drive.google.com/uc?id=)
+![](https://drive.google.com/uc?id=)
 
-> `ok now look at stamps i didn't make`
+> `check out these stamps my friend` <a href="https://www.patreon.com/vexuliii/about">Vexulii</a> `made`
+
+![hanslap](https://drive.google.com/uc?id=1RsDTksLyCxQg3y-j1iQeuXCx95T0GbxP)
+![hatty CHEER](https://drive.google.com/uc?id=1LAA5pjLDxPDiYChgzaTLq5HhywCXrTm-)
+![honey roll](https://drive.google.com/uc?id=1j5lkmU4zQjQMs7FIQaSiM1o4Ow8Bv3lI)
+![honey talk](https://drive.google.com/uc?id=1QOhQXInuKyYgj3okqPjZ9GjGXW-lx06E)
+![pipi yell](https://drive.google.com/uc?id=185cWb5Pstlbb5L59e53hA_g6PwPZsLcX)
+![](https://drive.google.com/uc?id=)
+
+> `ok now look at stamps neither of us made`
 
 ![009 sound system](https://drive.google.com/uc?id=1YFcGwuuVeoCh66eG4wK3EC4U2OFkf9NE)
 ![2016 dead](https://drive.google.com/uc?id=13f07JNOelAZlrtjI8_ccP0bIkN25pFI7)
@@ -225,9 +236,7 @@ re-adding my stamps... i have over 300 in my drive.......
 ![grox](https://drive.google.com/uc?id=1nBX1-RL8_YA_Ir5oMxm7CawQEkqr2lb8)
 ![guardian ah](https://drive.google.com/uc?id=1-4EqUDwpjkdQGszJnQ3AVJk53IS2btqS)
 ![gygas](https://drive.google.com/uc?id=1S5f44tJg7JsVfIpPkqSas_WQNFJSFg_5)
-![hanslap](https://drive.google.com/uc?id=1RsDTksLyCxQg3y-j1iQeuXCx95T0GbxP)
 ![hate windows 10](https://drive.google.com/uc?id=1wiOlje4nHv69G7o6e3mZcwiqGVlBTPjZ)
-![hatty CHEER](https://drive.google.com/uc?id=1LAA5pjLDxPDiYChgzaTLq5HhywCXrTm-)
 ![hawaii pt2](https://drive.google.com/uc?id=1Gz-Qj7zb_Pa53n44_PFTKMad2LgX2efT)
 ![headcrab balloon](https://drive.google.com/uc?id=1odwezfyic6qWNqpXeKRvexchgu6flTts)
 ![heart blue](https://drive.google.com/uc?id=1eAZOJ4xmClOhuUUhJ7ZrQ-uUrwXifJDb)
@@ -242,7 +251,6 @@ re-adding my stamps... i have over 300 in my drive.......
 ![hit as a "cure"](https://drive.google.com/uc?id=1D2QfHCCYJnmdItR37CIhVaPMPzGFC6qf)
 ![hl2](https://drive.google.com/uc?id=1HfjlSxqOM-xS4OCiemTzCXD_UxjqHUrd)
 ![hl3](https://drive.google.com/uc?id=1AdmDYl1JnsLUXvaOYmS1dRTk6Nk8q-mz)
-![honey roll](https://drive.google.com/uc?id=1j5lkmU4zQjQMs7FIQaSiM1o4Ow8Bv3lI)
 ![i has crowbar](https://drive.google.com/uc?id=165jI32zwwSBxyPgAEU96_46wzg0Vgpju)
 ![i'll kill you](https://drive.google.com/uc?id=1xipeoGlDyIYmKccnFJ3_i1vsERbVUAcP)
 ![i'm bready](https://drive.google.com/uc?id=1qlZtYXaGTMHThU5tMs6cfBwb0yjC2Bof)
