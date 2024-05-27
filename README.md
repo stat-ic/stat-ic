@@ -1,16 +1,8 @@
 <!--- ![](https://komarev.com/ghpvc/?username=statice&color=657cc2&style=plastic&label=View+Count+:3)-->
 <!---sorry to anyone trying to take inspo from this, it's formatted horribly >_< PLEASE know html before doing this shit i actually hated it-->
 
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
+
+
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
@@ -262,6 +254,17 @@ re-adding my stamps... i have over 300 in my drive.......
 ![cringe culture](https://drive.google.com/uc?id=1fVfKiH053hrIS0GTru9ruAJ3AKlZX7K0)
 ![cringe culture dead](https://drive.google.com/uc?id=1Kz8aM9EmmfN8bSABAUk9njiRQHGyKY8h)
 ![cumburger](https://drive.google.com/uc?id=1ZV6unqTcOFfTF5ZUzdXvsc4yLCSPYIc2)
+![damnit](https://drive.google.com/uc?id=1-mRdt3cPAgYnHCX4-Vn4sdoWQHU_wnIt)
+![daydreamer](https://drive.google.com/uc?id=1WemSORCcWgs2jHWp9Bu5cN52_J3lvJbj)
+![ddr fan](https://drive.google.com/uc?id=1csp7IoZ5tGuAW738smrv6bdn0_Z8iNWQ)
+![die pedos](https://drive.google.com/uc?id=1dGosU2mjpfv0F2kLuJDzWyxRy0K7DlX9)
+![discor](https://drive.google.com/uc?id=1r7tpjsWjHj_jumBPUffRp0KViHm3rdR6)
+![dogs1](https://drive.google.com/uc?id=1iu-Wbzh2BSpYdIVv_ga5YnBYZMRHkiEp)
+![dogs2](https://drive.google.com/uc?id=199jVTpgDkQ_Gtl9ZxNzxk9W7DhrsbxsZ)
+![dogs3](https://drive.google.com/uc?id=1gjmkg7-wqofwXSUViMmnpCMYVQg5s1Ud)
+![dominator](https://drive.google.com/uc?id=18h01xYqgU0fLxWN6m2A_85Vs5vARtDBX)
+![dvd](https://drive.google.com/uc?id=1nw2gi8IXJfVvDZHqL5O_4PX8l50PMpU1)
+
 
 </details>
 
