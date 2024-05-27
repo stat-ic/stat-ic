@@ -111,6 +111,8 @@ re-adding my stamps... i have over 300 in my drive.......
 ![THGTH](https://drive.google.com/uc?id=1_AUIWbQKjOYIEAR6M8h-E5RuxfzlRWfQ)
 ![YPAS](https://drive.google.com/uc?id=1SdgPStlGzAJGEqwwpDrgducoOCc8UYE-)
 ![THD](https://drive.google.com/uc?id=1yxwxBx07PGvOd_SeIsBhguwH3ycrjea5)
+![burger eat](https://drive.google.com/uc?id=1ybaEBPkO1GBXP-GDfIdO_6juVflv6RKv)
+![poopshitters](https://drive.google.com/uc?id=1yi2HH60gtg4mhI50TniW7QTv6RSiRqk9)
 
 > `ok now look at stamps i didn't make`
 
