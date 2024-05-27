@@ -1,7 +1,6 @@
-<!--- ![](https://komarev.com/ghpvc/?username=statice&color=657cc2&style=plastic&label=View+Count+:3)-->
+<!--- ![](https://komarev.com/ghpvc/?username=statice&color=657cc2&style=plastic&label=View+Count+:3) == 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6tbj2uxr45rlt0zg2vcn4lwd6&cover_image=true&theme=novatorem&show_offline=true&background_color=657cc2&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=6tbj2uxr45rlt0zg2vcn4lwd6&redirect=true)-->
 <!---sorry to anyone trying to take inspo from this, it's formatted horribly >_< i knew next to shit about html when i was making this-->
-
-
 
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
@@ -94,8 +93,9 @@
 `SpIns:`  [**The Property of Hate**](https://jolleycomics.com/TPoH/The_Hook/1), [**Radio TV Solutions**](https://www.twitch.tv/team/wrtv), [**That Handsome Devil**](https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT), <ins>**Psychology**</ins>
 
 <ins>**_NOW PLAYING:_**</ins>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6tbj2uxr45rlt0zg2vcn4lwd6&cover_image=true&theme=novatorem&show_offline=true&background_color=657cc2&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=6tbj2uxr45rlt0zg2vcn4lwd6&redirect=true)
+<div align="center">
+  <a href="https://www.last.fm/user/lectricstat"><img src="https://lfm.tkkr.dev/nowplaying?username=lectricstat&dynamic=true" alt="Recently played"></a>
+</div>
 
 <ins>**_Bolded + Italics_** = Stuff i *really* like</ins>
 
@@ -267,6 +267,9 @@ re-adding my stamps... i have over 300 in my drive.......
 </details>
 
 ![divider](https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX)
+
+
+
 
 <div align="center">
   <a href="https://www.last.fm/user/lectricstat"><img src="https://lastfm-recently-played.vercel.app/api?user=lectricstat&loved=true&show_user=header&footer_style=compact_stats&bg_color=657cc2" alt="Recently played"></a>
