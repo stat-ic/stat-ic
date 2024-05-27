@@ -33,7 +33,7 @@
 
 > <ins>Music:</ins> **_Will Wood_**, **_Jhariah_**, **_Oingo Boingo_**, Jack Stauber, Lemon Demon, Cricket!, **_Toby Fox_**, MARINA, Tom Lehrer, Louie Zong, **_Godforbid_**
 
-> <ins>Games:</ins> **_UNDERTALE_**, **_deltarune_**, The Stanley Parable, **_Jazzpunk_**, **_Portal_**, **_Half-Life_**, **_Fin Fin_**, Left 4 Dead, Minecraft, **_Spore_**, Animal Crossing, **_gmod_**
+> <ins>Games:</ins> **_UNDERTALE_**, **_deltarune_**, The Stanley Parable, **_Jazzpunk_**, **_Portal_**, **_Half-Life_**, **_Fin Fin_**, Left 4 Dead, Minecraft, **_Spore_**, Animal Crossing, **_gmod_**, **_Battleblock Theatre_**, **_Pit People_**, Alien Hominid
 
 > <ins>Web Series:</ins> **_HLVRAI_**, Madness Combat, Big Top Burger, Mystery Skulls
 
@@ -224,6 +224,7 @@ re-adding my stamps... i have over 300 in my drive.......
 ![grox](https://drive.google.com/uc?id=1nBX1-RL8_YA_Ir5oMxm7CawQEkqr2lb8)
 ![guardian ah](https://drive.google.com/uc?id=1-4EqUDwpjkdQGszJnQ3AVJk53IS2btqS)
 ![gygas](https://drive.google.com/uc?id=1S5f44tJg7JsVfIpPkqSas_WQNFJSFg_5)
+![hanslap](https://drive.google.com/uc?id=1RsDTksLyCxQg3y-j1iQeuXCx95T0GbxP)
 ![hate windows 10](https://drive.google.com/uc?id=1wiOlje4nHv69G7o6e3mZcwiqGVlBTPjZ)
 ![hawaii pt2](https://drive.google.com/uc?id=1Gz-Qj7zb_Pa53n44_PFTKMad2LgX2efT)
 ![headcrab balloon](https://drive.google.com/uc?id=1odwezfyic6qWNqpXeKRvexchgu6flTts)
