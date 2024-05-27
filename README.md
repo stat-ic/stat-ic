@@ -93,10 +93,9 @@
 `SpIns:`  [**The Property of Hate**](https://jolleycomics.com/TPoH/The_Hook/1), [**Radio TV Solutions**](https://www.twitch.tv/team/wrtv), [**That Handsome Devil**](https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT), <ins>**Psychology**</ins>
 
 <ins>**_NOW PLAYING:_**</ins>
-<div align="center">
-  <a href="https://www.last.fm/user/lectricstat"><img src="https://lfm.tkkr.dev/nowplaying?username=lectricstat&dynamic=true" alt="Recently played"></a>
+<div>
+  <a href="https://www.last.fm/user/lectricstat"><img src="https://lfm.tkkr.dev/nowplaying?username=lectricstat&dynamic=true&size=95" alt="Recently played"></a>
 </div>
-
 
 <ins>**_Bolded + Italics_** = Stuff i *really* like</ins>
 
