@@ -97,6 +97,7 @@
   <a href="https://www.last.fm/user/lectricstat"><img src="https://lfm.tkkr.dev/nowplaying?username=lectricstat&dynamic=true" alt="Recently played"></a>
 </div>
 
+
 <ins>**_Bolded + Italics_** = Stuff i *really* like</ins>
 
 > Music: **_Will Wood_**, **_Jhariah_**, **_Oingo Boingo_**, Jack Stauber, Lemon Demon, Cricket!, **_Toby Fox_**, MARINA, Tom Lehrer, Louie Zong, **_Godforbid_**
