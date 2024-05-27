@@ -2,40 +2,9 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6tbj2uxr45rlt0zg2vcn4lwd6&cover_image=true&theme=novatorem&show_offline=true&background_color=657cc2&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=6tbj2uxr45rlt0zg2vcn4lwd6&redirect=true)-->
 <!---sorry to anyone trying to take inspo from this, it's formatted horribly >_< i knew next to shit about html when i was making this-->
 
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
+https://drive.google.com/file/d//view?usp=drive_link, https://drive.google.com/file/d//view?usp=drive_link
+
+
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
@@ -94,7 +63,7 @@
 
 <ins>**_NOW PLAYING:_**</ins>
 <div>
-  <a href="https://www.last.fm/user/lectricstat"><img src="https://lfm.tkkr.dev/nowplaying?username=lectricstat&dynamic=true&size=95" alt="Last FM Currently Playing: if you can see this, then I'm playing a song that isn't actually released by the artist"></a>
+  <a href="https://www.last.fm/user/lectricstat"><img src="https://lfm.tkkr.dev/nowplaying?username=lectricstat&dynamic=true&size=95" alt="Last FM Currently Playing - if you can see this, then i'm playing a song that is unreleased by the artist"></a>
 </div>
 
 <ins>**_Bolded + Italics_** = Stuff i *really* like</ins>
@@ -263,6 +232,40 @@ re-adding my stamps... i have over 300 in my drive.......
 ![frutiger](https://drive.google.com/uc?id=1rtqPH4w_xMtPFvCtSmqq_77RUJW_vT6w)
 ![fuck terfs](https://drive.google.com/uc?id=1Ilxfk9IxefMKMun23swU2XefyBpi3Xll)
 ![funnel cake](https://drive.google.com/uc?id=1e-CeiumIGTiFrz4zjcSDp8RmYpYiddja)
+![gameclam evolve](https://drive.google.com/uc?id=19IEIFApnV2mt3lp2WOtWad_3ZsV1iJU3)
+![gaster](https://drive.google.com/uc?id=1OQWui_Rf0iyAvMT0O17A2UAXrM2jnwqa)
+![gaster heart](https://drive.google.com/uc?id=1sPaSLADL20YawBm9zpGbA25JYrDQnZl9)
+![gf ford](https://drive.google.com/uc?id=1YbgS-Oq2A93zFHMuN6iVEkkyNFw21Di9)
+![gf dipper](https://drive.google.com/uc?id=19xgzVgMzXTc1t7p7y-FQQigeBzjnYTXW)
+![gf mabel](https://drive.google.com/uc?id=19-9AY45Ft--P8qy4vLWhWYJk8Cako2Oi)
+![gf stan](https://drive.google.com/uc?id=1r-lzrbFlLDbh0hxbwUJjR8NjoB8Fiuft)
+![gf waddles](https://drive.google.com/uc?id=1qjioGGgfToi7IGD7hHsq1bErPx4vf117)
+![gf weird intro](https://drive.google.com/uc?id=10MWYpVwkyyPhzMnNG6iTB5Ej-vMQF9RM)
+![giffany](https://drive.google.com/uc?id=1UsY8fACveUKY3yDnny-5MdEnKgDik8Kz)
+![glados loop](https://drive.google.com/uc?id=1SjtfrrjrI7u0g_K-eqDOTB1PYyX8WDRm)
+![glasses](https://drive.google.com/uc?id=15pFtb_86k35MiCmXeMk69ICNN5BYkPhy)
+![gmodsfm](https://drive.google.com/uc?id=1C0XUSTccIyv96TB2FJtKxOV6hizvnI2r)
+![gooberberry](https://drive.google.com/uc?id=161UkwxYBps1dVkuvykyJrT40EyI6Xhac)
+![got to be a reason](https://drive.google.com/uc?id=1La6d9yCpKDpKlwW08Pu0hGXOJpf5ydKH)
+![gotta go](https://drive.google.com/uc?id=1ZTplU_uotewsnSGLp4GKM4wN2FikzfZD)
+![grox](https://drive.google.com/uc?id=1nBX1-RL8_YA_Ir5oMxm7CawQEkqr2lb8)
+![guardian ah](https://drive.google.com/uc?id=1-4EqUDwpjkdQGszJnQ3AVJk53IS2btqS)
+![gygas](https://drive.google.com/uc?id=1S5f44tJg7JsVfIpPkqSas_WQNFJSFg_5)
+![hate windows 10](https://drive.google.com/uc?id=1wiOlje4nHv69G7o6e3mZcwiqGVlBTPjZ)
+![hawaii pt2](https://drive.google.com/uc?id=1Gz-Qj7zb_Pa53n44_PFTKMad2LgX2efT)
+![headcrab balloon](https://drive.google.com/uc?id=1odwezfyic6qWNqpXeKRvexchgu6flTts)
+![heart blue](https://drive.google.com/uc?id=1eAZOJ4xmClOhuUUhJ7ZrQ-uUrwXifJDb)
+![heart brick](https://drive.google.com/uc?id=1XrBYVJ6YSqubdw-GsX028Wjw8QRBLs3d)
+![heart choco](https://drive.google.com/uc?id=1U1FPJ5p_VYJlvStHC7Zi4A7tiQmu2Z5l)
+![heart icimi](https://drive.google.com/uc?id=1lmFdsjY1rl0Bz6fNcib6_a-brHotnfq9)
+![heart meat](https://drive.google.com/uc?id=1aJcwK2Ko1PnzNmrL-STAjiJV6T5wyqIm)
+![heart robots](https://drive.google.com/uc?id=1ppfbWlHWHau4lXHEJujPuB5Y01TsZcmI)
+![heart utost](https://drive.google.com/uc?id=1_jwJsKhRubcYPij7byoSJuJy73AEmSOR)
+![HEUENGHHHH](https://drive.google.com/uc?id=1do_X3ZwgjZQcf5C187_SKLNZos7bBn3q)
+![history](https://drive.google.com/uc?id=110ieuZWZEa5-8LD359HR9WeOnznZ2fk8)
+![hit as a "cure"](https://drive.google.com/uc?id=1D2QfHCCYJnmdItR37CIhVaPMPzGFC6qf)
+![hl2](https://drive.google.com/uc?id=1HfjlSxqOM-xS4OCiemTzCXD_UxjqHUrd)
+![hl3](https://drive.google.com/uc?id=1AdmDYl1JnsLUXvaOYmS1dRTk6Nk8q-mz)
 
 </details>
 
