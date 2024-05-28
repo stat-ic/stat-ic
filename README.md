@@ -3,7 +3,7 @@
 <!---sorry to anyone trying to take inspo from this, it's formatted horribly >_< i knew next to shit about html when i was making this-->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=plastic&amp;label=View+Count+:3" alt="view count"><br><b>LAST UPDATED: 05/27/2024</b><br><img src="https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX" alt="divider">
+  <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=plastic&amp;label=View+Count+:3" alt="view count"><br><b>LAST UPDATED: 05/28/2024</b><br><img src="https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX" alt="divider">
 </p>
 
 <div align="center">
@@ -119,7 +119,7 @@ re-adding my stamps... i have over 300 in my drive.......
 ![TOby](https://drive.google.com/uc?id=1YkYMJA-xRQg541U1CFurPaeIg9gom91V)
 ![cell](https://drive.google.com/uc?id=1_8C9mphWqiQXvBkEwBpPfOufRjVHWhbi)
 ![dial](https://drive.google.com/uc?id=1A1GiakVU-i_vrLvM-p5wJak4k0EIFkX9)
-![](https://drive.google.com/uc?id=)
+![tinker](https://drive.google.com/uc?id=1q0gbF447qiraOtDlwushh2R1kZ7KFus5)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
