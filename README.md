@@ -117,7 +117,7 @@ re-adding my stamps... i have over 300 in my drive.......
 ![time2](https://drive.google.com/uc?id=1AfR5RRCTYa4Yk_9Rb65HhMuJTIxTG649)
 ![negative](https://drive.google.com/uc?id=1d-S6G1lpGAZIAW1gUNF_0Ek2eM5X6DV7)
 ![TOby](https://drive.google.com/uc?id=1YkYMJA-xRQg541U1CFurPaeIg9gom91V)
-![](https://drive.google.com/uc?id=)
+![cell](https://drive.google.com/uc?id=1_8C9mphWqiQXvBkEwBpPfOufRjVHWhbi)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
