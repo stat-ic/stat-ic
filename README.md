@@ -127,6 +127,7 @@ re-adding my stamps... i have over 300 in my drive.......
 
 > `check out these stamps my friend` <a href="https://www.patreon.com/vexuliii/about">Vexulii</a> `made (f2u)`
 
+![manny stare](https://drive.google.com/uc?id=1pjV8XaLZZDMMoyw2RWf5yU875Ah6Ra8b)
 ![hanslap](https://drive.google.com/uc?id=1RsDTksLyCxQg3y-j1iQeuXCx95T0GbxP)
 ![hatty CHEER](https://drive.google.com/uc?id=1LAA5pjLDxPDiYChgzaTLq5HhywCXrTm-)
 ![honey roll](https://drive.google.com/uc?id=1j5lkmU4zQjQMs7FIQaSiM1o4Ow8Bv3lI)
@@ -288,7 +289,6 @@ re-adding my stamps... i have over 300 in my drive.......
 ![madjick](https://drive.google.com/uc?id=1OV6mdOUPIhpM-6fdi3L-7WA7OYkRg-CH)
 ![make stamps](https://drive.google.com/uc?id=1hFWOT3Mu4OSlZUSgtMHO-u4_OGlATGG6)
 ![making fiends](https://drive.google.com/uc?id=1ngSd0z1KFcOsX3U_Co605Z-MAlih22uH)
-![manny stare](https://drive.google.com/uc?id=1pjV8XaLZZDMMoyw2RWf5yU875Ah6Ra8b)
 ![mc death](https://drive.google.com/uc?id=1SIORMeRSZVUCfnhqz0fVLoUBoxogooTU)
 ![mii fan](https://drive.google.com/uc?id=1-xCd_lSwkjOEu1_gnHEB_xn2S2nDpHOO)
 ![milk cereal combine](https://drive.google.com/uc?id=1miS49Qn_2tYDPUNoNoGOV8p9Gw3cGUkg)
