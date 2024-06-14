@@ -86,7 +86,6 @@
 <details>
 <summary><b>WARNING!!! FLASHING LIGHTS AND BRIGHT COLOURS!!!</b></summary>
 <br>
-re-adding my stamps... i have over 300 in my drive.......
 
 > `hey look at these stamps i made (f2u)`
 
