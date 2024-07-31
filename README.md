@@ -3,7 +3,7 @@
 <!---sorry to anyone trying to take inspo from this, it's formatted horribly >_< i knew next to shit about html when i was making this-->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=plastic&amp;label=View+Count+:3" alt="view count"><br><b>LAST UPDATED: 06/13/2024</b><br><img src="https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX" alt="divider">
+  <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=plastic&amp;label=View+Count+:3" alt="view count"><br><b>LAST UPDATED: 07/31/2024</b><br><img src="https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX" alt="divider">
 </p>
 
 <div align="center">
@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  $\underline{\color{Cerulean}ABOUT\ ME}$<br>HAII!! I'm ${\color{SteelBlue}Static}$ !!<br><b>IT/THEY</b> + <em><ins>any neos</ins></em> 〃 8TEEN (07/29)<br><ins>Blasian</ins> 〃 <b><em>ADHD, AUTISM, </em></b><s>+ unlisted</s>
+  $\underline{\color{Cerulean}ABOUT\ ME}$<br>HAII!! I'm ${\color{SteelBlue}Static}$ !!<br><b>IT/THEY</b> + <em><ins>any neos</ins></em> 〃 9TEEN (07/29)<br><ins>Blasian</ins> 〃 <b><em>ADHD, AUTISM, </em></b><s>+ unlisted</s>
 </p>
 
 ![divider](https://drive.google.com/uc?id=17VSkgz022vyQs_dWyKKP-G4o6fncc1rY)
@@ -26,7 +26,7 @@
 
 <ins>**_NOW PLAYING:_**</ins>
 <div>
-  <a href="https://www.last.fm/user/lectricstat"><img src="https://lfm.tkkr.dev/nowplaying?username=lectricstat&dynamic=true&size=95" alt="Last FM Currently Playing - if you can see this, try refreshing..."></a>
+  <a href="https://www.last.fm/user/lectricstat"><img src="https://lastfm-recently-played.vercel.app/api?user=lectricstat&count=1&width=500&loved=true&bg_color=657cc2" alt="Last FM Currently Playing - if you can see this, try refreshing..."></a>
 </div>
 
 <ins>**_Bolded + Italics_** = Stuff i *really* like</ins>
