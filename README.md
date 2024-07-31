@@ -26,7 +26,7 @@
 
 <ins>**_NOW PLAYING:_**</ins>
 <div>
-  <a href="https://www.last.fm/user/lectricstat"><img src="https://lastfm-recently-played.vercel.app/api?user=lectricstat&count=1&width=500&loved=true&bg_color=657cc2" alt="Last FM Currently Playing - if you can see this, try refreshing..."></a>
+  <a href="https://www.last.fm/user/lectricstat"><img src="https://lastfm-recently-played.vercel.app/api?user=lectricstat&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=657cc2" alt="Last FM Currently Playing - if you can see this, try refreshing..."></a>
 </div>
 
 <ins>**_Bolded + Italics_** = Stuff i *really* like</ins>
