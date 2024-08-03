@@ -1,92 +1,119 @@
-<!--- ![](https://komarev.com/ghpvc/?username=statice&color=657cc2&style=plastic&label=View+Count+:3) == 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6tbj2uxr45rlt0zg2vcn4lwd6&cover_image=true&theme=novatorem&show_offline=true&background_color=657cc2&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=6tbj2uxr45rlt0zg2vcn4lwd6&redirect=true)-->
-<!---sorry to anyone trying to take inspo from this, it's formatted horribly >_< i knew next to shit about html when i was making this-->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=plastic&amp;label=View+Count+:3" alt="view count"><br><b>LAST UPDATED: 07/31/2024</b><br><img src="https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX" alt="divider">
-</p>
+hey wait don't look at this, i'm remaking my github ^_^
 
 <div align="center">
-  <img src="https://drive.google.com/uc?id=1twztJNw7EI_2lV6N4UZamblt1GEoviAv" alt="Game Clam Lover" height=225px>
+  <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=plastic&amp;label=View+Count+:3" alt="view count">
+  <br>
+  <b>LAST UPDATED: 08/03/2024</b>
+  <br>
+  <a href="https://jolleycomics.com/TPoH/Double_Exposure/523"><img src="https://drive.google.com/uc?id=1lFnsyYeOrINjv3AnUVdgPo_FabKoGmDw" alt="Hero and RGB" height=400px title="I love them......"></a>
+  <br>
+  <b>This Readme is based on <a href=https://jolleycomics.com/TPoH/The_Hook/1>The Property of Hate</a>. All art credit goes to <a href="https://jolleycomics.com/">Sara Jolley</a>!</b>
 </div>
+
+---
+
+<table border="15" align="center">
+  <tr>
+  <td>
+  <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><img src="https://drive.google.com/uc?id=1h6MxHa-L8I-qAMbneGYVrt6ldUTiW6K0" alt="Anxiety" height=224px title="That darned butterfly">
+  <br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cutive+Mono&weight=500&size=19&duration=3000&pause=1000&color=FFFFFF&background=A35D8F&center=true&vCenter=true&width=500&lines=What+lies+between+both+fear+and+doubt-;with+pure+self-loathing+strung+throughout%3F;Feigning+wisdom%2C+floating+free-;What+is+my+name+.+.+.+%3F;ANXIETY." alt="What lies between both fear and doubt with pure self-loathing strung throughout? Feigning wisdom, floating free. What is my name...? ANXIETY." title="What lies between both fear and doubt with pure self-loathing strung throughout? Feigning wisdom, floating free. What is my name...? ANXIETY.">
+    <br>
+  </td>
+  </tr>
+</table>
 
 <p align="center">
-  $\underline{\color{Cerulean}ABOUT\ ME}$<br>HAII!! I'm ${\color{SteelBlue}Static}$ !!<br><b>IT/THEY</b> + <em><ins>any neos</ins></em> 〃 9TEEN (07/29)<br><ins>Blasian</ins> 〃 <b><em>ADHD, AUTISM, </em></b><s>+ unlisted</s>
+  <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=ABOUT+ME&color=808080&fontSize=24&x=9" alt="About Me" title="About Static"></a>
+  <br><br>
+  HAII!! I'm <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=STATIC&color=657cc2&fontSize=17&width=60" alt="Static" title="Hey, don't go clickin' on everythin' you see!"></a>!!
+  <br>
+  <b>IT/THEY</b> + <em><ins>any neos</ins></em> 〃 9TEEN (07/29)
+  <br>
+  <ins>Blasian</ins> 〃 <b><em>ADHD, AUTISM, </em></b><s>+ unlisted</s>
 </p>
 
-![divider](https://drive.google.com/uc?id=17VSkgz022vyQs_dWyKKP-G4o6fncc1rY)
+---
 
-<div>
-  <img align="left" src="https://drive.google.com/uc?id=1lFZ5kvIshr11cRQSaYZwdurPpsJBBO6q" alt="Trog Games" height=210px>
-</div>
+<table border="15" align="center">
+  <tr>
+    <td align="center">
+      <a href="https://jolleycomics.com/TPoH/Double_Exposure/528"><img src="https://drive.google.com/uc?id=1pzItjXk7DgIykfSidf11wdb8voyb4yI2" alt="RGB" title="Concerning..." height=412px></a>
+      <br> 
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=19&duration=3000&pause=1000&color=000000&background=FFD694&center=true&vCenter=true&repeat=false&width=355&lines=Then+what+about+the+other+you%3F" alt="Then what about the other you?" title="Then what about the other you?"></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=DO+NOT+INTERACT&color=808080&fontSize=24&width=214" alt="Do not interact" title="Do not interact"></a>
+      <br><br>
+      <code><b>Unless I do/Unless friends</b></code><br>15 or younger
+      <br><br>
+      <code><b>NO EXCEPTION</b></code><br>Nazi/USSR skins<br>Believe "blackwashing" is real<br>Real people shippers<br>Proshippers<br>Zionists/Israel supporters<br>Endo/Demo systems<br>Mental illness/Disability fakers
+      <br><br>
+      <code><b>Worst one</b></code><br><a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=Vexulii+/j&color=E67935&fontSize=17&width=64&height=21" alt="Vexulii /j" title="squashed like a particularly strange bug"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=BEFORE+YOU+INTERACT&color=808080&fontSize=24&width=274" alt="Before You Interact" title="Before you interact"></a>
+      <br><br>
+      I <b>spam</b> and <b>keyboard smash</b> a LOT<br>I have <b>memory problems</b> so please bear with me<br>Sometimes I go AFK or leave <em>unannounced</em><br><b>INTERACT BEFORE YOU FRIEND ME!!</b>
+    </td>
+    <td align="center">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=19&duration=3000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&repeat=false&width=355&lines=.+.+.+Other+me%3F" alt="Other me?" title="...Other me?"></a>
+      <br>
+      <a href="https://jolleycomics.com/TPoH/Cutting_Room/550"><img src="https://drive.google.com/uc?id=13VEX3HcDfvTZ0fHQuPtDlSg7vfWTPZ2o" alt="Negative" title="KZZTTT!!" height=412px>
+    </td>
+  </tr>
+</table>
 
-### $\underline{\color{DarkViolet}INTERESTS}$
+---
 
-`SpIns:`  [**The Property of Hate**](https://jolleycomics.com/TPoH/The_Hook/1), [**Radio TV Solutions**](https://www.twitch.tv/team/wrtv), [**That Handsome Devil**](https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT), <ins>**Psychology**</ins>
-
-<ins>**_NOW PLAYING:_**</ins>
-<div>
+<p align="center">
+  <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=INTERESTS&color=808080&fontSize=24&width=126" alt="Interests" title="ahah.. i love.... many things.."></a>
+  <br><br>
   <a href="https://www.last.fm/user/lectricstat"><img src="https://lastfm-recently-played.vercel.app/api?user=lectricstat&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=657cc2" alt="Last FM Currently Playing - if you can see this, try refreshing..."></a>
-</div>
-
-<ins>**_Bolded + Italics_** = Stuff i *really* like</ins>
-
-> <ins>Music:</ins> **_Will Wood_**, **_Jhariah_**, **_Oingo Boingo_**, Jack Stauber, Lemon Demon, Cricket!, **_Toby Fox_**, MARINA, Tom Lehrer, Louie Zong, **_Godforbid_**
-
-> <ins>Games:</ins> **_UNDERTALE_**, **_deltarune_**, The Stanley Parable, **_Jazzpunk_**, **_Portal_**, **_Half-Life_**, **_Fin Fin_**, Left 4 Dead, Minecraft, **_Spore_**, Animal Crossing, **_gmod_**, **_Battleblock Theatre_**, **_Pit People_**, Alien Hominid
-
-> <ins>Web Series:</ins> **_HLVRAI_**, Madness Combat, Big Top Burger, Mystery Skulls, DHMIS
-
-> <ins>Shows:</ins>  My Little Pony, Gravity Falls, Adventure Time, **_Regular Show_**, Teen Titans, Breaking Bad, Wander Over Yonder, Chowder, Mob Psycho 100
-
-> <ins>Other:</ins> Astronomy, **_Old Web_**, **_Rhythm games_**, Programming
-
-<ins>*+ more shit i forgot!!*</ins> 
-
-<ins> `If you like ANYY of this stuff above you should totallyyy interact :333` </ins>
-
-
-
-![divider](https://drive.google.com/uc?id=17VSkgz022vyQs_dWyKKP-G4o6fncc1rY)
-
-<div>
-  <img align="right" src="https://drive.google.com/uc?id=1BhSojW9ZhCoU1cegVnr_4vZT0LDeMG2q" alt="Bad Boe Jamo" height=260px>
-</div>
-
-### $\underline{\color{Lime}BEFORE\ YOU\ INTERACT}$
-
-- I **spam** and **keyboard smash** _a lot_
-- I have _memory problems_ so please **bear with me**
-- I might respond to the same question with a different answer sometimes
-- Sometimes I go AFK or leave _unannounced_
-- ***INTERACT BEFORE YOU FRIEND ME!!*** *I won't accept friend requests otherwise!*
- 
-![divider](https://drive.google.com/uc?id=17VSkgz022vyQs_dWyKKP-G4o6fncc1rY)
-
-<div>
-  <img align="left" src="https://drive.google.com/uc?id=1-M_k_KD858ArE9nxw4UgHdWkRpJsZ6EZ" alt="Baaulp died" height=230px>
-</div>
-
-### $\underline{\color{red}DO\ NOT\ INTERACT}$
-
-`Unless friends/I do:` **Under 15**
-
-`NO EXCEPTION:` **Nazi/USSR skins**, _Traumadumpers_, **_"Blackwashing"_** believers, _Real_ people shippers, **_Proshippers_**, **_Zionists/Israel supporters_**, Endo systems, Folks who fake mental illness/disabilities
-
-`Worst one:` ${\color{Orange}Vexulii\ /j}$
-
-![divider](https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX)
-
-<p align="center">
-  <em><b>STAT'S STAMP COLLECTION</b></em>
+  <br>
+  <ins>Key: <b>Bolded</b> + <em>Italics</em> = <b><em>Stuff I REALLY like</em></b></ins><br><br>
+  <code><b>Special Interests</b></code><br>
+  <b><em>
+    <a href="https://jolleycomics.com/TPoH/The_Hook/1">The Property of Hate</a>, <a href="https://www.twitch.tv/team/wrtv">Radio TV Solutions</a>, <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT">That Handsome Devil</a>, Psychology
+  </em></b>
+  <br><br>
+  <code><b>Music</b></code><br>
+  <b><em>Will Wood, Jhariah, Oingo Boingo</em></b>, Jack Stauber, Lemon Demon, Cricket!, <b><em>Toby Fox</em></b>, MARINA, Tom Lehrer, Louie Zong, <b><em>Godforbid</em></b>
+  <br><br>
+  <code><b>Games</b></code><br>
+  <b><em>UNDERTALE, deltarune</em></b>, The Stanley Parable, <b><em>Jazzpunk, Portal, Half-Life, Fin Fin</em></b>, Left 4 Dead, Minecraft, <b><em>Spore</em></b>, Animal Crossing, gmod, Battleblock Theatre, Pit People, Alien Hominid
+  <br><br>
+  <code><b>Web Series</b></code><br>
+  <b><em>HLVRAI</em></b>, Madness Combat, Big Top Burger, Mystery Skulls, DHMIS
+  <br><br>
+  <code><b>Shows</b></code><br>
+  My Little Pony, Gravity Falls, Adventure Time, <b><em>Regular Show</em></b>, Teen Titans, Breaking Bad, Wander Over Yonder, Chowder, Mob Psycho 100
+  <br><br>
+  <code><b>Other</b></code><br>
+  Astronomy, <b><em>Old Web, Rhythm games</em></b>, Programming, Mathematics (Dynamic systems), Discordianism
 </p>
 
-![divider](https://drive.google.com/uc?id=17VSkgz022vyQs_dWyKKP-G4o6fncc1rY)
+<table border="15" align="center">
+  <tr>
+    <td align="center">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F7F7F7&background=754366AA&center=true&vCenter=true&width=500&lines=I+will+not+cease+to+be+.+.+.;I+WILL+BECOME." alt="I will not cease to be... I will become." title="I will not cease to be... I WILL BECOME." /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=STAT'S+GRAPHICS+COLLECTION&color=808080&fontSize=24&width=355" alt="Stat's Graphics Collection" title="i am full of stamps, they're leaking out of me"></a>
+  <br>
+  Beware of flashing lights and bright colours!!
+</p>
 
 <details>
-<summary><b>WARNING!!! FLASHING LIGHTS AND BRIGHT COLOURS!!!</b></summary>
-<br>
-
+<summary><b>Stamps</b></summary>
+  
 > `hey look at these stamps i made (f2u)`
 
 ![Baaulp nation](https://drive.google.com/uc?id=1iSWyDQo_O2Uqk6uQIvv701E1AVUqb0_P)
@@ -126,19 +153,9 @@
 
 > `check out these stamps my friend` <a href="https://www.patreon.com/vexuliii/about">Vexulii</a> `made (f2u)`
 
-![manny stare](https://drive.google.com/uc?id=1pjV8XaLZZDMMoyw2RWf5yU875Ah6Ra8b)
-![hanslap](https://drive.google.com/uc?id=1RsDTksLyCxQg3y-j1iQeuXCx95T0GbxP)
-![hatty CHEER](https://drive.google.com/uc?id=1LAA5pjLDxPDiYChgzaTLq5HhywCXrTm-)
-![honey roll](https://drive.google.com/uc?id=1j5lkmU4zQjQMs7FIQaSiM1o4Ow8Bv3lI)
-![honey talk](https://drive.google.com/uc?id=1QOhQXInuKyYgj3okqPjZ9GjGXW-lx06E)
-![pipi yell](https://drive.google.com/uc?id=185cWb5Pstlbb5L59e53hA_g6PwPZsLcX)
-![yosef sneak](https://drive.google.com/uc?id=1f3r_OjUDvXZN_14N8fM2t-SwUBhbkzxr)
-![castle crashers](https://drive.google.com/uc?id=1fqahCBw39zA2ecUQICGDBOmCfZC-VYFi)
-![orang](https://drive.google.com/uc?id=1oTipPFtu8SzFfWJ_f8AvjLr00YAn5JV-)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
+> `ALSO LOOK AT THE ONES VEX MADE FOR MY BDAY ^_^`
 
-> `ok now look at stamps neither of us made`
+> `ok... now here's some neither of us made`
 
 ![portal 1](https://drive.google.com/uc?id=1mWo5huuYCM1AwTBA9d77In9cpYMxi6cx)
 ![009 sound system](https://drive.google.com/uc?id=1YFcGwuuVeoCh66eG4wK3EC4U2OFkf9NE)
@@ -461,11 +478,12 @@
 
 </details>
 
-![divider](https://drive.google.com/uc?id=1UrIJ6lMT6qlFvfTguS-dTaQXHGpzPafX)
+<details>
+<summary><b>Blinkies</b></summary>
+  haii
+</details>
 
-
-
-
-<div align="center">
-  <a href="https://www.last.fm/user/lectricstat"><img src="https://lastfm-recently-played.vercel.app/api?user=lectricstat&loved=true&show_user=header&footer_style=compact_stats&bg_color=657cc2" alt="Recently played"></a>
-</div>
+<details>
+<summary><b>Userboxes</b></summary>
+  haii
+</details>
