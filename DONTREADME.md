@@ -3,7 +3,7 @@ hey wait don't look at this, i'm remaking my github ^_^
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=plastic&amp;label=View+Count+:3" alt="view count">
   <br>
-  <b>LAST UPDATED: 08/02/2024</b>
+  <b>LAST UPDATED: 08/03/2024</b>
   <br>
   <a href="https://jolleycomics.com/TPoH/Double_Exposure/523"><img src="https://drive.google.com/uc?id=1lFnsyYeOrINjv3AnUVdgPo_FabKoGmDw" alt="Hero and RGB" height=400px title="I love them......"></a>
   <br>
@@ -94,6 +94,14 @@ hey wait don't look at this, i'm remaking my github ^_^
   <code><b>Other</b></code><br>
   Astronomy, <b><em>Old Web, Rhythm games</em></b>, Programming, Mathematics (Dynamic systems), Discordianism
 </p>
+
+<table border="15" align="center">
+  <tr>
+    <td align="center">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F7F7F7&background=754366AA&center=true&vCenter=true&width=500&lines=I+will+not+cease+to+be+.+.+.;I+will+BECOME." alt="I will not cease to be... I will become." title="I will not cease to be... I will BECOME." /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
