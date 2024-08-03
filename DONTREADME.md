@@ -25,7 +25,7 @@ hey wait don't look at this, i'm remaking my github ^_^
 
 <p align="center">
   <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=ABOUT+ME&color=808080&fontSize=24&x=9" alt="About Me" title="About Static"></a>
-  <br>
+  <br><br>
   HAII!! I'm <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=STATIC&color=657cc2&fontSize=17&width=60" alt="Static" title="Hey, don't go clickin' on everythin' you see!"></a>!!
   <br>
   <b>IT/THEY</b> + <em><ins>any neos</ins></em> 〃 9TEEN (07/29)
@@ -68,23 +68,53 @@ hey wait don't look at this, i'm remaking my github ^_^
 
 ---
 
-<a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=INTERESTS&color=808080&fontSize=24&width=126" alt="Interests" title="ahah.. i love.... many things.."></a>
-
-Music: Will Wood, Jhariah, Oingo Boingo, Jack Stauber, Lemon Demon, Cricket!, Toby Fox, MARINA, Tom Lehrer, Louie Zong, Godforbid
-
-Games: UNDERTALE, deltarune, The Stanley Parable, Jazzpunk, Portal, Half-Life, Fin Fin, Left 4 Dead, Minecraft, Spore, Animal Crossing, gmod, Battleblock Theatre, Pit People, Alien Hominid
-
-Web Series: HLVRAI, Madness Combat, Big Top Burger, Mystery Skulls, DHMIS
-
-Shows: My Little Pony, Gravity Falls, Adventure Time, Regular Show, Teen Titans, Breaking Bad, Wander Over Yonder, Chowder, Mob Psycho 100
-
-Other: Astronomy, Old Web, Rhythm games, Programming
+<p align="center">
+  <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=INTERESTS&color=808080&fontSize=24&width=126" alt="Interests" title="ahah.. i love.... many things.."></a><br><br>
+  <ins>Key: <b>Bolded</b> + <em>Italics</em> = <b><em>Stuff I REALLY like</em></b></ins><br><br>
+  <code><b>Special Interests</b></code><br>
+  <b><em>
+    <a href="https://jolleycomics.com/TPoH/The_Hook/1">The Property of Hate</a>, <a href="https://www.twitch.tv/team/wrtv">Radio TV Solutions</a>, <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT">That Handsome Devil</a>, Psychology
+  </em></b>
+  <br><br>
+  <code><b>Music</b></code><br>
+  <b><em>Will Wood</em></b>, Jhariah, Oingo Boingo, Jack Stauber, Lemon Demon, Cricket!, Toby Fox, MARINA, Tom Lehrer, Louie Zong, Godforbid
+  <br><br>
+  <code><b>Games</b></code><br>
+  UNDERTALE, deltarune, The Stanley Parable, Jazzpunk, Portal, Half-Life, Fin Fin, Left 4 Dead, Minecraft, Spore, Animal Crossing, gmod, Battleblock Theatre, Pit People, Alien Hominid
+  <br><br>
+  <code><b>Web Series</b></code><br>
+  HLVRAI, Madness Combat, Big Top Burger, Mystery Skulls, DHMIS
+  <br><br>
+  <code><b>Shows</b></code><br>
+  My Little Pony, Gravity Falls, Adventure Time, Regular Show, Teen Titans, Breaking Bad, Wander Over Yonder, Chowder, Mob Psycho 100
+  <br><br>
+  <code><b>Other</b></code><br>
+  Astronomy, Old Web, Rhythm games, Programming, Mathematics (Dynamic systems), Discordianism
+</p>
 
 ---
 
-stammpz
+<p align="center">
+  <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=STAT'S+GRAPHICS+COLLECTION&color=808080&fontSize=24&width=126" alt="Stat's Graphics Collection" title="i am full of stamps, they're leaking out of me"></a>
+  <br>
+  Beware of flashing lights and bright colours!!
+</p>
 
----
+<details>
+<summary><b>Stamps</b></summary>
+  haii
+</details>
+
+<details>
+<summary><b>Blinkies</b></summary>
+  haii
+</details>
+
+<details>
+<summary><b>Userboxes</b></summary>
+  haii
+</details>
+
 
 
 
