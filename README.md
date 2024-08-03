@@ -13,7 +13,7 @@
 <table border="15" align="center">
   <tr>
   <td>
-  <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><img src="https://drive.google.com/uc?id=1h6MxHa-L8I-qAMbneGYVrt6ldUTiW6K0" alt="Anxiety" height=224px title="That darned butterfly">
+  <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><img src="https://drive.google.com/uc?id=1h6MxHa-L8I-qAMbneGYVrt6ldUTiW6K0" alt="Anxiety" height=224px width=500px title="That darned butterfly">
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cutive+Mono&weight=500&size=19&duration=3000&pause=1000&color=FFFFFF&background=A35D8F&center=true&vCenter=true&width=500&lines=What+lies+between+both+fear+and+doubt-;with+pure+self-loathing+strung+throughout%3F;Feigning+wisdom%2C+floating+free-;What+is+my+name+.+.+.+%3F;ANXIETY." alt="What lies between both fear and doubt with pure self-loathing strung throughout? Feigning wisdom, floating free. What is my name...? ANXIETY." title="What lies between both fear and doubt with pure self-loathing strung throughout? Feigning wisdom, floating free. What is my name...? ANXIETY.">
     <br>
@@ -36,7 +36,7 @@
 <table border="15" align="center">
   <tr>
     <td align="center">
-      <a href="https://jolleycomics.com/TPoH/Double_Exposure/528"><img src="https://drive.google.com/uc?id=1pzItjXk7DgIykfSidf11wdb8voyb4yI2" alt="RGB" title="Concerning..." height=412px></a>
+      <a href="https://jolleycomics.com/TPoH/Double_Exposure/528"><img src="https://drive.google.com/uc?id=1pzItjXk7DgIykfSidf11wdb8voyb4yI2" alt="RGB" title="Concerning..." height=412px width=355px></a>
       <br> 
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=19&duration=3000&pause=1000&color=000000&background=FFD694&center=true&vCenter=true&repeat=false&width=355&lines=Then+what+about+the+other+you%3F" alt="Then what about the other you?" title="Then what about the other you?"></a>
     </td>
@@ -59,7 +59,7 @@
     <td align="center">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=19&duration=3000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&repeat=false&width=355&lines=.+.+.+Other+me%3F" alt="Other me?" title="...Other me?"></a>
       <br>
-      <a href="https://jolleycomics.com/TPoH/Cutting_Room/550"><img src="https://drive.google.com/uc?id=13VEX3HcDfvTZ0fHQuPtDlSg7vfWTPZ2o" alt="Negative" title="KZZTTT!!" height=412px>
+      <a href="https://jolleycomics.com/TPoH/Cutting_Room/550"><img src="https://drive.google.com/uc?id=13VEX3HcDfvTZ0fHQuPtDlSg7vfWTPZ2o" alt="Negative" title="KZZTTT!!" height=412px width=355px>
     </td>
   </tr>
 </table>
