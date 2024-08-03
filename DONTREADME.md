@@ -38,7 +38,7 @@ hey wait don't look at this, i'm remaking my github ^_^
 <table border="15" align="center">
   <tr>
     <td align="center">
-      <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><img src="https://drive.google.com/uc?id=1pzItjXk7DgIykfSidf11wdb8voyb4yI2" alt="RGB" title="Concerning..." height=412px></a>
+      <a href="https://jolleycomics.com/TPoH/Double_Exposure/528"><img src="https://drive.google.com/uc?id=1pzItjXk7DgIykfSidf11wdb8voyb4yI2" alt="RGB" title="Concerning..." height=412px></a>
       <br> 
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=19&duration=3000&pause=1000&color=000000&background=FFD694&center=true&vCenter=true&repeat=false&width=355&lines=Then+what+about+the+other+you%3F" alt="Then what about the other you?" title="Then what about the other you?"></a>
     </td>
