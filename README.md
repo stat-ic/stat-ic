@@ -81,7 +81,7 @@
   <b><em>Will Wood, Jhariah, Oingo Boingo</em></b>, Jack Stauber, Lemon Demon, Cricket!, <b><em>Toby Fox</em></b>, MARINA, Tom Lehrer, Louie Zong, <b><em>Godforbid</em></b>
   <br><br>
   <code><b>Games</b></code><br>
-  <b><em>UNDERTALE, deltarune</em></b>, The Stanley Parable, <b><em>Jazzpunk, Portal, Half-Life, Fin Fin</em></b>, Left 4 Dead, Minecraft, <b><em>Spore</em></b>, Animal Crossing, gmod, Battleblock Theatre, Pit People, Alien Hominid
+  <b><em>UNDERTALE, deltarune</em></b>, The Stanley Parable, <b><em>Jazzpunk, Portal, Half-Life, Fin Fin</em></b>, Left 4 Dead, Minecraft, <b><em>Spore</em></b>, Animal Crossing, gmod, Battleblock Theatre, Pit People, Alien Hominid, Miitopia, Tomodachi Life, Mario & Luigi Series
   <br><br>
   <code><b>Web Series</b></code><br>
   <b><em>HLVRAI</em></b>, Madness Combat, Big Top Burger, Mystery Skulls, DHMIS
