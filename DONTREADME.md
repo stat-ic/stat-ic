@@ -56,7 +56,7 @@ hey wait don't look at this, i'm remaking my github ^_^
     <td align="center">
       <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=BEFORE+YOU+INTERACT&color=808080&fontSize=24&width=274" alt="Before You Interact" title="Before you interact"></a>
       <br><br>
-      I <b>spam</b> and <b>keyboard smash</b> a LOT<br>I have memory problems so please bear with me<br>Sometimes I go AFK or leave unannounced<br>INTERACT BEFORE YOU FRIEND ME!!
+      I <b>spam</b> and <b>keyboard smash</b> a LOT<br>I have <b>memory problems</b> so please bear with me<br>Sometimes I go AFK or leave <em>unannounced</em><br><b>INTERACT BEFORE YOU FRIEND ME!!</b>
     </td>
     <td align="center">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=19&duration=3000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&repeat=false&width=355&lines=.+.+.+Other+me%3F" alt="Other me?" title="...Other me?"></a>
@@ -68,7 +68,7 @@ hey wait don't look at this, i'm remaking my github ^_^
 
 ---
 
-interests
+<a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=INTERESTS&color=808080&fontSize=24&width=126" alt="Interests" title="ahah.. i love.... many things.."></a>
 
 Music: Will Wood, Jhariah, Oingo Boingo, Jack Stauber, Lemon Demon, Cricket!, Toby Fox, MARINA, Tom Lehrer, Louie Zong, Godforbid
 
