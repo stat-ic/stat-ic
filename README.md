@@ -93,6 +93,8 @@
   Astronomy, <b><em>Old Web, Rhythm games</em></b>, Programming, Mathematics (Dynamic systems), Discordianism
 </p>
 
+<br><br>
+
 <table border="15" align="center">
   <tr>
     <td align="center">
@@ -102,7 +104,7 @@
 </table>
 
 <div align="center">
-  <a href="https://jolleycomics.com/TPoH/Turnaround/555"><img src="https://drive.google.com/uc?id=1v8NotcwWGjDKfQEJT_A4AQmnenqe11mH" alt="The House of Lead" title="IT'S GONNA BURN DOWN:(((">
+  <a href="https://jolleycomics.com/TPoH/Turnaround/555"><img src="https://drive.google.com/uc?id=1v8NotcwWGjDKfQEJT_A4AQmnenqe11mH" alt="The House of Lead" title="IT'S GONNA BURN DOWN :(((">
 </div>
 
 ---
@@ -153,9 +155,38 @@
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 
-> `check out these stamps my friend` <a href="https://www.patreon.com/vexuliii/about">Vexulii</a> `made (f2u)`
+> <code>check out these stamps my friend <a href="https://github.com/Vexuliii">Vexulii</a> made (f2u)</code>
+
+![manny stare](https://drive.google.com/uc?id=1pjV8XaLZZDMMoyw2RWf5yU875Ah6Ra8b)
+![hanslap](https://drive.google.com/uc?id=1RsDTksLyCxQg3y-j1iQeuXCx95T0GbxP)
+![hatty CHEER](https://drive.google.com/uc?id=1LAA5pjLDxPDiYChgzaTLq5HhywCXrTm-)
+![honey roll](https://drive.google.com/uc?id=1j5lkmU4zQjQMs7FIQaSiM1o4Ow8Bv3lI)
+![honey talk](https://drive.google.com/uc?id=1QOhQXInuKyYgj3okqPjZ9GjGXW-lx06E)
+![pipi yell](https://drive.google.com/uc?id=185cWb5Pstlbb5L59e53hA_g6PwPZsLcX)
+![yosef sneak](https://drive.google.com/uc?id=1f3r_OjUDvXZN_14N8fM2t-SwUBhbkzxr)
+![castle crashers](https://drive.google.com/uc?id=1fqahCBw39zA2ecUQICGDBOmCfZC-VYFi)
+![orang](https://drive.google.com/uc?id=1oTipPFtu8SzFfWJ_f8AvjLr00YAn5JV-)
+![sangwich](https://drive.google.com/uc?id=1szvHj8Da349z9G0Jq80AXCv2M7eaDhTy)
+![marsh smug](https://drive.google.com/uc?id=1VNRZKi3xew-0wvVz7Ug8mo2Gfa5GIXf4)
+![marsh spin](https://drive.google.com/uc?id=18OZ4kScq5cHheHmTchLlXjdvxWh6XIjs)
+![marsh yell](https://drive.google.com/uc?id=17ipF9i4C46CY_BZ6ekwH3L5819Hr_tSF)
+![marsh blucsh](https://drive.google.com/uc?id=13da7XZ8LUB4NWzeKgvPdHY6v80eStZjw)
+![danny dance](https://drive.google.com/uc?id=1MIuT5CT10_RhEqpqKnE-gbMK_KrVZXT0)
+![ivor hapy](https://drive.google.com/uc?id=17_574WewpbgsUIlZc-nH9Fm0PQwkM4E9)
+![ivor](https://drive.google.com/uc?id=1vooK3qpz2RxrF_7CyKrrTviiVTFaTjE6)
+![](https://drive.google.com/uc?id=)
+
 
 > `ALSO LOOK AT THE ONES VEX MADE FOR MY BDAY ^_^`
+
+![blue man shock](https://drive.google.com/uc?id=12AL46RlXa53ELTlc586rVEM0NZuK5eG4)
+![wayner sneeze](https://drive.google.com/uc?id=1phipGyunah7em_ohJb3SI6IOI2w2ikaI)
+![waynerwhatsapp](https://drive.google.com/uc?id=1FUE0WXUp6Jjq9BVvzELgSOwhp6i-2fGB)
+![waner myers dance](https://drive.google.com/uc?id=1t6W6Y6WZGW4hQsqyY8P7QrKLMCetTJt6)
+![time to go](https://drive.google.com/uc?id=1avcGTlVPpRq8PPdnDOlZpMh008XtI-5T)
+!["freaky baaulp"](https://drive.google.com/uc?id=1eIl6GUcrU6BJXxOa_WQhhnF_pAL_gjug)
+![bad boe jambo](https://drive.google.com/uc?id=1Bz027NtEKhqkQPdfQSozLD6TlGagyx0j)
+![baaulp death](https://drive.google.com/uc?id=17Ef2XS96spYHQnK1wP1UAxcHhgQ-1vxl)
 
 > `ok... now here's some neither of us made`
 
@@ -482,10 +513,13 @@
 
 <details>
 <summary><b>Blinkies</b></summary>
-  haii
+  
+  In progress... but here's a blinkie that came with my bday stamps >_<
+  ![best blinkie ever made](https://drive.google.com/uc?id=1NBQB5kTAEiqRM3ZYiTD8O3A4vy80tcPt)   
+  
 </details>
 
 <details>
 <summary><b>Userboxes</b></summary>
-  haii
+  In progress...
 </details>
