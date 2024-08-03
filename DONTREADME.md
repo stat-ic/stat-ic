@@ -12,12 +12,16 @@ hey wait don't look at this, i'm remaking my github ^_^
 
 ---
 
-<div align="center">
+<table border="15" align="center">
+  <tr>
+  <td>
   <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><img src="https://drive.google.com/uc?id=1h6MxHa-L8I-qAMbneGYVrt6ldUTiW6K0" alt="Anxiety" height=224px title="That darned butterfly">
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cutive+Mono&weight=500&size=19&duration=3000&pause=1000&color=FFFFFF&background=A35D8F&center=true&vCenter=true&width=500&lines=What+lies+between+both+fear+and+doubt-;with+pure+self-loathing+strung+throughout%3F;Feigning+wisdom%2C+floating+free-;What+is+my+name+.+.+.+%3F;ANXIETY." alt="What lies between both fear and doubt with pure self-loathing strung throughout? Feigning wisdom, floating free. What is my name...? ANXIETY." title="What lies between both fear and doubt with pure self-loathing strung throughout? Feigning wisdom, floating free. What is my name...? ANXIETY.">
     <br>
-</div>
+  </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=ABOUT+ME&color=808080&fontSize=24&x=9" alt="About Me" title="About Static"></a>
@@ -28,9 +32,6 @@ hey wait don't look at this, i'm remaking my github ^_^
   <br>
   <ins>Blasian</ins> 〃 <b><em>ADHD, AUTISM, </em></b><s>+ unlisted</s>
 </p>
-
----
-
 
 ---
 
