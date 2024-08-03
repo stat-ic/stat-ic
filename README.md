@@ -1,5 +1,3 @@
-hey wait don't look at this, i'm remaking my github ^_^
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=plastic&amp;label=View+Count+:3" alt="view count">
   <br>
@@ -102,6 +100,10 @@ hey wait don't look at this, i'm remaking my github ^_^
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <a href="https://jolleycomics.com/TPoH/Turnaround/555"><img src="https://drive.google.com/uc?id=1v8NotcwWGjDKfQEJT_A4AQmnenqe11mH" alt="The House of Lead" title="IT'S GONNA BURN DOWN:(((">
+</div>
 
 ---
 
