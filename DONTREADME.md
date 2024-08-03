@@ -33,13 +33,17 @@ hey wait don't look at this, i'm remaking my github ^_^
 
 <div align="center">
   <p align="left">
-    <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=BEFORE+YOU+INTERACT&color=808080&fontSize=24&width=274" alt="Before You Interact" title="Before you interact"></a>
+    <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><img src="https://drive.google.com/uc?id=1pzItjXk7DgIykfSidf11wdb8voyb4yI2" alt="RGB" title="Concerning..." height=412px></a> <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=DO+NOT+INTERACT&color=808080&fontSize=24&width=274" alt="Do not interact" title="Do not interact" align="right"></a>
     <br>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=19&duration=3000&pause=1000&color=000000&background=FFD694&center=true&vCenter=true&repeat=false&width=355&lines=Then+what+about+the+other+you%3F" alt="Then what about the other you?" title="Then what about the other you?"></a>
     <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=19&duration=3000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&repeat=false&width=355&lines=.+.+.+Other+me%3F" alt="Other m?" title="...Other me?"></a>
+    <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=BEFORE+YOU+INTERACT&color=808080&fontSize=24&width=274" alt="Before You Interact" title="Before you interact"></a>
+    <br>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=19&duration=3000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&repeat=false&width=355&lines=.+.+.+Other+me%3F" alt="Other me?" title="...Other me?"></a>
   </p>
 </div>
+
+<a href="https://jolleycomics.com/TPoH/Cutting_Room/550"><img src="https://drive.google.com/uc?id=13VEX3HcDfvTZ0fHQuPtDlSg7vfWTPZ2o" alt="Negative" title="KZZTTT!!" height=412px>
 
 ---
 
