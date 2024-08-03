@@ -15,7 +15,7 @@ hey wait don't look at this, i'm remaking my github ^_^
 <div align="center">
   <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><img src="https://drive.google.com/uc?id=1h6MxHa-L8I-qAMbneGYVrt6ldUTiW6K0" alt="Anxiety" height=224px title="That darned butterfly">
   <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cutive+Mono&weight=500&size=19&duration=3000&pause=1000&color=FFFFFF&background=A35D8F&center=true&vCenter=true&width=500&lines=What+lies+between+both+fear+and+doubt-;with+pure+self-loathing+strung+throughout%3F;Feigning+wisdom%2C+floating+free-;What+is+my+name+.+.+.+%3F;ANXIETY." alt="What lies between both fear and doubt with pure self-loathing strung throughout? Feigning wisdom, floating free. What is my name...? ANXIETY.">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cutive+Mono&weight=500&size=19&duration=3000&pause=1000&color=FFFFFF&background=A35D8F&center=true&vCenter=true&width=500&lines=What+lies+between+both+fear+and+doubt-;with+pure+self-loathing+strung+throughout%3F;Feigning+wisdom%2C+floating+free-;What+is+my+name+.+.+.+%3F;ANXIETY." alt="What lies between both fear and doubt with pure self-loathing strung throughout? Feigning wisdom, floating free. What is my name...? ANXIETY." title="What lies between both fear and doubt with pure self-loathing strung throughout? Feigning wisdom, floating free. What is my name...? ANXIETY.">
     <br>
 </div>
 
@@ -43,13 +43,19 @@ hey wait don't look at this, i'm remaking my github ^_^
     </td>
     <td align="center">
       <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=DO+NOT+INTERACT&color=808080&fontSize=24&width=214" alt="Do not interact" title="Do not interact"></a>
-      <br>
-      <b>Unless I do/Unless friends:</b> 15 or younger
+      <br><br>
+      <code><b>Unless I do/Unless friends</b></code><br>15 or younger
+      <br><br>
+      <code><b>NO EXCEPTION</b></code><br>Nazi/USSR skins<br>Believe "blackwashing" is real<br>Real people shippers<br>Proshippers<br>Zionists/Israel supporters<br>Endo/Demo systems<br>Mental illness/Disability fakers
+      <br><br>
+      <code><b>Worst one</b></code><br><a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=Vexulii+/j&color=E67935&fontSize=17&width=64&height=21" alt="Vexulii /j" title="squashed like a particularly strange bug"></a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=BEFORE+YOU+INTERACT&color=808080&fontSize=24&width=274" alt="Before You Interact" title="Before you interact"></a>
+      <br><br>
+      I <b>spam</b> and <b>keyboard smash</b> a LOT<br>I have memory problems so please bear with me<br>Sometimes I go AFK or leave unannounced<br>INTERACT BEFORE YOU FRIEND ME!!
     </td>
     <td align="center">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=19&duration=3000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&repeat=false&width=355&lines=.+.+.+Other+me%3F" alt="Other me?" title="...Other me?"></a>
