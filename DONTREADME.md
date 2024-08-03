@@ -77,19 +77,19 @@ hey wait don't look at this, i'm remaking my github ^_^
   </em></b>
   <br><br>
   <code><b>Music</b></code><br>
-  <b><em>Will Wood</em></b>, Jhariah, Oingo Boingo, Jack Stauber, Lemon Demon, Cricket!, Toby Fox, MARINA, Tom Lehrer, Louie Zong, Godforbid
+  <b><em>Will Wood, Jhariah, Oingo Boingo</em></b>, Jack Stauber, Lemon Demon, Cricket!, <b><em>Toby Fox</em></b>, MARINA, Tom Lehrer, Louie Zong, <b><em>Godforbid</em></b>
   <br><br>
   <code><b>Games</b></code><br>
-  UNDERTALE, deltarune, The Stanley Parable, Jazzpunk, Portal, Half-Life, Fin Fin, Left 4 Dead, Minecraft, Spore, Animal Crossing, gmod, Battleblock Theatre, Pit People, Alien Hominid
+  <b><em>UNDERTALE, deltarune</em></b>, The Stanley Parable, <b><em>Jazzpunk, Portal, Half-Life, Fin Fin</em></b>, Left 4 Dead, Minecraft, <b><em>Spore</em></b>, Animal Crossing, gmod, Battleblock Theatre, Pit People, Alien Hominid
   <br><br>
   <code><b>Web Series</b></code><br>
-  HLVRAI, Madness Combat, Big Top Burger, Mystery Skulls, DHMIS
+  <b><em>HLVRAI</em></b>, Madness Combat, Big Top Burger, Mystery Skulls, DHMIS
   <br><br>
   <code><b>Shows</b></code><br>
-  My Little Pony, Gravity Falls, Adventure Time, Regular Show, Teen Titans, Breaking Bad, Wander Over Yonder, Chowder, Mob Psycho 100
+  My Little Pony, Gravity Falls, Adventure Time, <b><em>Regular Show</em></b>, Teen Titans, Breaking Bad, Wander Over Yonder, Chowder, Mob Psycho 100
   <br><br>
   <code><b>Other</b></code><br>
-  Astronomy, Old Web, Rhythm games, Programming, Mathematics (Dynamic systems), Discordianism
+  Astronomy, <b><em>Old Web, Rhythm games</em></b>, Programming, Mathematics (Dynamic systems), Discordianism
 </p>
 
 ---
