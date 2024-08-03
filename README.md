@@ -90,7 +90,7 @@
   My Little Pony, Gravity Falls, Adventure Time, <b><em>Regular Show</em></b>, Teen Titans, Breaking Bad, Wander Over Yonder, Chowder, Mob Psycho 100
   <br><br>
   <code><b>Other</b></code><br>
-  Astronomy, <b><em>Old Web, Rhythm games</em></b>, Programming, Mathematics (Dynamic systems), Discordianism
+  Astronomy, <b><em>Old Web, Rhythm games</em></b>, Programming, Mathematics (Dynamical systems/Chaos Theory), Discordianism
 </p>
 
 <br><br>
