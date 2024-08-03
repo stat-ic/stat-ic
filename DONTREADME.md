@@ -36,20 +36,22 @@ hey wait don't look at this, i'm remaking my github ^_^
 
 <table border="15" align="center">
   <tr>
-    <td style="padding-left:10px;">
+    <td align="center">
       <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><img src="https://drive.google.com/uc?id=1pzItjXk7DgIykfSidf11wdb8voyb4yI2" alt="RGB" title="Concerning..." height=412px></a>
       <br> 
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=19&duration=3000&pause=1000&color=000000&background=FFD694&center=true&vCenter=true&repeat=false&width=355&lines=Then+what+about+the+other+you%3F" alt="Then what about the other you?" title="Then what about the other you?"></a>
     </td>
-    <td style="vertical-align:top">
-      <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=DO+NOT+INTERACT&color=808080&fontSize=24&width=274" alt="Do not interact" title="Do not interact"></a>
+    <td align="center">
+      <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=DO+NOT+INTERACT&color=808080&fontSize=24&width=214" alt="Do not interact" title="Do not interact"></a>
+      <br>
+      <b>Unless I do/Unless friends:</b> 15 or younger
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=BEFORE+YOU+INTERACT&color=808080&fontSize=24&width=274" alt="Before You Interact" title="Before you interact"></a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=19&duration=3000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&repeat=false&width=355&lines=.+.+.+Other+me%3F" alt="Other me?" title="...Other me?"></a>
       <br>
       <a href="https://jolleycomics.com/TPoH/Cutting_Room/550"><img src="https://drive.google.com/uc?id=13VEX3HcDfvTZ0fHQuPtDlSg7vfWTPZ2o" alt="Negative" title="KZZTTT!!" height=412px>
