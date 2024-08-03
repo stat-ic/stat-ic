@@ -21,11 +21,14 @@ _What about the other you?_
     <br>
 </div>
 
-$\underline{\color{Cerulean}ABOUT\ ME}$
-
-
 <p align="center">
-  <br>HAII!! I'm ${\color{SteelBlue}Static}$ !!<br><b>IT/THEY</b> + <em><ins>any neos</ins></em> 〃 9TEEN (07/29)<br><ins>Blasian</ins> 〃 <b><em>ADHD, AUTISM, </em></b><s>+ unlisted</s>
+  <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=ABOUT+ME&color=657cc2&fontSize=24&x=10" alt="About Me"></a>
+  <br>
+  HAII!! I'm ${\color{SteelBlue}Static}$ !!
+  <br>
+  <b>IT/THEY</b> + <em><ins>any neos</ins></em> 〃 9TEEN (07/29)
+  <br>
+  <ins>Blasian</ins> 〃 <b><em>ADHD, AUTISM, </em></b><s>+ unlisted</s>
 </p>
 
 ---
