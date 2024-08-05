@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=plastic&amp;label=View+Count+:3" alt="view count" title="what! almost 2k views?? yo, text your mom and tell her you're gay">
   <br>
-  <b>LAST UPDATED: 08/03/2024</b>
+  <b>LAST UPDATED: 08/04/2024</b>
   <br>
   <a href="https://jolleycomics.com/TPoH/Double_Exposure/523"><img src="https://drive.google.com/uc?id=1lFnsyYeOrINjv3AnUVdgPo_FabKoGmDw" alt="Hero and RGB" height=400px title="I love them......"></a>
   <br>
@@ -78,7 +78,7 @@
   </em></b>
   <br><br>
   <code><b>Music</b></code><br>
-  <b><em>Will Wood, Jhariah, Oingo Boingo</em></b>, Jack Stauber, Lemon Demon, Cricket!, <b><em>Toby Fox</em></b>, MARINA, Tom Lehrer, Louie Zong, <b><em>Godforbid</em></b>
+  <b><em>Will Wood, Jhariah, Oingo Boingo</em></b>, Jack Stauber, Lemon Demon, Cricket!, <b><em>Toby Fox</em></b>, MARINA, Tom Lehrer, Louie Zong, <b><em>Godforbid</em></b>, Princess Problems
   <br><br>
   <code><b>Games</b></code><br>
   <b><em>UNDERTALE, deltarune</em></b>, The Stanley Parable, <b><em>Jazzpunk, Portal, Half-Life, Fin Fin</em></b>, Left 4 Dead, Minecraft, <b><em>Spore</em></b>, Animal Crossing, gmod, Battleblock Theatre, Pit People, Alien Hominid, Miitopia, Tomodachi Life, Mario & Luigi Series
