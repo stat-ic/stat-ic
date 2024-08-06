@@ -8,7 +8,7 @@
   <b>This Readme is based on <a href=https://jolleycomics.com/TPoH/The_Hook/1>The Property of Hate</a>. All art credit goes to <a href="https://jolleycomics.com/">Sara Jolley</a>!</b>
 </div>
 
-<br><br><img align="center" src="https://drive.google.com/uc?id=1-kM-OFJGVCMgRLc_uhwKBq4D8V7-BC9J" alt="divider" title="RGB's birthday is May 21st and Hero's birthday is February 10th!!"><br><br>
+<br><br><a href="https://jolleycomics.com/TPoH/Wardrobe/225"><img align="center" src="https://drive.google.com/uc?id=1-kM-OFJGVCMgRLc_uhwKBq4D8V7-BC9J" alt="divider" title="RGB's birthday is May 21st and Hero's birthday is February 10th!!"></a><br><br>
 
 <table border="15" align="center">
   <tr>
@@ -31,7 +31,7 @@
   <ins>Blasian</ins> 〃 <b><em>ADHD, AUTISM, </em></b><s>+ unlisted</s>
 </p>
 
-<br><img align="center" src="https://drive.google.com/uc?id=1-kM-OFJGVCMgRLc_uhwKBq4D8V7-BC9J" alt="divider" title="The chair, Gladys, used to be an award-winning knitting champion! She's also trans!!"><br><br>
+<br><a href="https://jolleycomics.com/TPoH/Target_Audience/287"><img align="center" src="https://drive.google.com/uc?id=1-kM-OFJGVCMgRLc_uhwKBq4D8V7-BC9J" alt="divider" title="The chair, Gladys, used to be an award-winning knitting champion! She's also trans!!"></a><br><br>
 
 <table border="15" align="center">
   <tr>
@@ -59,12 +59,12 @@
     <td align="center">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=19&duration=3000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&repeat=false&width=355&lines=.+.+.+Other+me%3F" alt="Other me?" title="...Other me?"></a>
       <br>
-      <a href="https://jolleycomics.com/TPoH/Cutting_Room/550"><img src="https://drive.google.com/uc?id=13VEX3HcDfvTZ0fHQuPtDlSg7vfWTPZ2o" alt="Negative" title="KZZTTT!!" height=412px width=355px>
+      <a href="https://jolleycomics.com/TPoH/Cutting_Room/550"><img src="https://drive.google.com/uc?id=13VEX3HcDfvTZ0fHQuPtDlSg7vfWTPZ2o" alt="Negative" title="KZZTTT!!" height=412px width=355px></a>
     </td>
   </tr>
 </table>
 
-<br><img align="center" src="https://drive.google.com/uc?id=1-kM-OFJGVCMgRLc_uhwKBq4D8V7-BC9J" alt="divider" title="The Property of Hate began in 2012, making it 12 years old and still on-going!"><br><br>
+<br><a href="https://jolleycomics.com/TPoH/The_Hook/1"><img align="center" src="https://drive.google.com/uc?id=1-kM-OFJGVCMgRLc_uhwKBq4D8V7-BC9J" alt="divider" title="The Property of Hate began in 2012, making it 12 years old and still on-going!"></a><br><br>
 
 <p align="center">
   <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=INTERESTS&color=808080&fontSize=24&width=126" alt="Interests" title="ahah.. i love.... many things.."></a>
@@ -104,10 +104,10 @@
 </table>
 
 <div align="center">
-  <a href="https://jolleycomics.com/TPoH/Turnaround/555"><img src="https://drive.google.com/uc?id=1v8NotcwWGjDKfQEJT_A4AQmnenqe11mH" alt="The House of Lead" title="IT'S GONNA BURN DOWN :(((">
+  <a href="https://jolleycomics.com/TPoH/Turnaround/555"><img src="https://drive.google.com/uc?id=1v8NotcwWGjDKfQEJT_A4AQmnenqe11mH" alt="The House of Lead" title="IT'S GONNA BURN DOWN :((("></a>
 </div>
 
-<br><br><img align="center" src="https://drive.google.com/uc?id=1-kM-OFJGVCMgRLc_uhwKBq4D8V7-BC9J" alt="divider" title="The sea above the Black Market is called the Sea of Limen; limen meaning the 'boundary of perception'!"><br><br>
+<br><br><a href="https://jolleycomics.com/TPoH/Pitch/"><img align="center" src="https://drive.google.com/uc?id=1-kM-OFJGVCMgRLc_uhwKBq4D8V7-BC9J" alt="divider" title="The sea above the Black Market is called the Sea of Limen; limen meaning the 'boundary of perception'!"></a><br><br>
 
 <p align="center">
   <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=STAT'S+GRAPHICS+COLLECTION&color=808080&fontSize=24&width=355" alt="Stat's Graphics Collection" title="i am full of stamps, they're leaking out of me"></a>
