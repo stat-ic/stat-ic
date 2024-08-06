@@ -1,14 +1,14 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=plastic&amp;label=View+Count+:3" alt="view count" title="what! almost 2k views?? yo, text your mom and tell her you're gay">
   <br>
-  <b>LAST UPDATED: 08/04/2024</b>
+  <b>LAST UPDATED: 08/06/2024</b>
   <br>
   <a href="https://jolleycomics.com/TPoH/Double_Exposure/523"><img src="https://drive.google.com/uc?id=1lFnsyYeOrINjv3AnUVdgPo_FabKoGmDw" alt="Hero and RGB" height=400px title="I love them......"></a>
   <br>
   <b>This Readme is based on <a href=https://jolleycomics.com/TPoH/The_Hook/1>The Property of Hate</a>. All art credit goes to <a href="https://jolleycomics.com/">Sara Jolley</a>!</b>
 </div>
 
-<br><br><img align="center" src="https://drive.google.com/uc?id=1-kM-OFJGVCMgRLc_uhwKBq4D8V7-BC9J"><br><br>
+<br><br><img align="center" src="https://drive.google.com/uc?id=1-kM-OFJGVCMgRLc_uhwKBq4D8V7-BC9J" alt="divider" title="RGB's birthday is May 21st and Hero's birthday is February 10th!!"><br><br>
 
 <table border="15" align="center">
   <tr>
@@ -31,7 +31,7 @@
   <ins>Blasian</ins> 〃 <b><em>ADHD, AUTISM, </em></b><s>+ unlisted</s>
 </p>
 
-<br><img align="center" src="https://drive.google.com/uc?id=1-kM-OFJGVCMgRLc_uhwKBq4D8V7-BC9J"><br><br>
+<br><img align="center" src="https://drive.google.com/uc?id=1-kM-OFJGVCMgRLc_uhwKBq4D8V7-BC9J" alt="divider" title="The chair, Gladys, used to be an award-winning knitting champion! She's also trans!!"><br><br>
 
 <table border="15" align="center">
   <tr>
@@ -64,7 +64,7 @@
   </tr>
 </table>
 
-<br><img align="center" src="https://drive.google.com/uc?id=1-kM-OFJGVCMgRLc_uhwKBq4D8V7-BC9J"><br><br>
+<br><img align="center" src="https://drive.google.com/uc?id=1-kM-OFJGVCMgRLc_uhwKBq4D8V7-BC9J" alt="divider" title="The Property of Hate began in 2012, making it 12 years old and still on-going!"><br><br>
 
 <p align="center">
   <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=INTERESTS&color=808080&fontSize=24&width=126" alt="Interests" title="ahah.. i love.... many things.."></a>
@@ -107,7 +107,7 @@
   <a href="https://jolleycomics.com/TPoH/Turnaround/555"><img src="https://drive.google.com/uc?id=1v8NotcwWGjDKfQEJT_A4AQmnenqe11mH" alt="The House of Lead" title="IT'S GONNA BURN DOWN :(((">
 </div>
 
-<br><br><img align="center" src="https://drive.google.com/uc?id=1-kM-OFJGVCMgRLc_uhwKBq4D8V7-BC9J"><br><br>
+<br><br><img align="center" src="https://drive.google.com/uc?id=1-kM-OFJGVCMgRLc_uhwKBq4D8V7-BC9J" alt="divider" title="The sea above the Black Market is called the Sea of Limen; limen meaning the 'boundary of perception'!"><br><br>
 
 <p align="center">
   <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=STAT'S+GRAPHICS+COLLECTION&color=808080&fontSize=24&width=355" alt="Stat's Graphics Collection" title="i am full of stamps, they're leaking out of me"></a>
