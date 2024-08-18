@@ -47,7 +47,7 @@
       <br><br>
       <code><b>NO EXCEPTION</b></code><br>Nazi/USSR skins<br>Believe "blackwashing" is real<br>Real people shippers<br>Proshippers<br>Zionists/Israel supporters<br>Endo/Demo systems<br>Mental illness/Disability fakers
       <br><br>
-      <code><b>Worst one</b></code><br><a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=Vexulii+/j&color=E67935&fontSize=17&width=64&height=21" alt="Vexulii /j" title="squashed like a particularly strange bug"></a>
+      <code><b>Worst one</b></code><br><a href="https://github.com/Vexuliii"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=Vexulii+/j&color=E67935&fontSize=17&width=64&height=21" alt="Vexulii /j" title="squashed like a particularly strange bug"></a>
     </td>
   </tr>
   <tr>
