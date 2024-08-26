@@ -156,8 +156,13 @@
 ![time](https://drive.google.com/uc?id=1ZZH6ZCTKxnW8Ht2zEipsmK1m5ChQf44-)
 ![the](https://drive.google.com/uc?id=1-mXwTA6IOMOQqivkbcvwCiDJkD43T4-I)
 ![moon](https://drive.google.com/uc?id=1GivC9-7l-TwL7emserRlLvIGNPp9F29U)
+![melodylovers](https://drive.google.com/uc?id=1DrPLDr4ZUjoqEpstaxtiCVaAW5Q1Y41B)
+![juliennelovers](https://drive.google.com/uc?id=1N11LHz4mClctfQPvI-ElLiFA1BO2rK0F)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
+![](https://drive.google.com/uc?id=)
+![](https://drive.google.com/uc?id=)
+
 
 > <code>check out these stamps my friend <a href="https://github.com/Vexuliii">Vexulii</a> made (f2u)</code>
 
