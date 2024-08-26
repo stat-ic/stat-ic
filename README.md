@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=plastic&amp;label=View+Count+:3" alt="view count" title="what! almost 2k views?? yo, text your mom and tell her you're gay">
+  <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=plastic&amp;label=View+Count+:3" alt="view count" title="what! 2k views?? yo, text your mom and tell her you're gay">
   <br>
-  <b>LAST UPDATED: 08/06/2024</b>
+  <b>LAST UPDATED: 08/26/2024</b>
   <br>
   <a href="https://jolleycomics.com/TPoH/Double_Exposure/523"><img src="https://drive.google.com/uc?id=1lFnsyYeOrINjv3AnUVdgPo_FabKoGmDw" alt="Hero and RGB" height=400px title="I love them......"></a>
   <br>
@@ -152,6 +152,10 @@
 ![tinker](https://drive.google.com/uc?id=1q0gbF447qiraOtDlwushh2R1kZ7KFus5)
 ![click](https://drive.google.com/uc?id=1QlXyLE6jnGFA7Pqqy-XjQmxZsbCk8-Ju)
 ![anxiety](https://drive.google.com/uc?id=1xm2zF7Qq2BmI5uqvr5UEHEPr-WmDJpBi)
+![dialhierophant](https://drive.google.com/uc?id=16PXIZevnWHyq_HH9oqRNtNfAVYe8M3Fu)
+![time](https://drive.google.com/uc?id=1ZZH6ZCTKxnW8Ht2zEipsmK1m5ChQf44-)
+![the](https://drive.google.com/uc?id=1-mXwTA6IOMOQqivkbcvwCiDJkD43T4-I)
+![moon](https://drive.google.com/uc?id=1GivC9-7l-TwL7emserRlLvIGNPp9F29U)
 ![](https://drive.google.com/uc?id=)
 ![](https://drive.google.com/uc?id=)
 
