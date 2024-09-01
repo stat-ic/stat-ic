@@ -1,12 +1,14 @@
 DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 
+<!--- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=7000&pause=100&color=923999&width=435&lines=maido+domaido!!+(%E1%B5%94%E2%A9%8A%E1%B5%94);shoutout+2+remimart+;please+remember+2+sign+my+atabook!) -->
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=plastic&amp;label=View+Count+:3" alt="view count" title="what! 2k views?? yo, text your mom and tell her you're gay">
   <br>
   <b>LAST UPDATED: 08/31/2024</b>
   <br>
   <a href="https://jolleycomics.com/TPoH/Double_Exposure/523"><img src="https://drive.google.com/uc?id=1lFnsyYeOrINjv3AnUVdgPo_FabKoGmDw" alt="Hero and RGB" height=400px title="I love them......"></a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda+SC&weight=200&size=16&duration=1700&pause=1500&color=59B7EA&background=FFFFFF15&center=true&vCenter=true&width=900&lines=Welcome+to+Heaven!;All+operators+are+currently+unavailable.;Your+call+is+of+great+importance+to+us+and+will+be+answered+in+the+order+it+was+received.;Remember%2C+patience+is+a+virtue!" title="Welcome to Heaven! All operators are currently unavailable. Your call is of great importance to us and will be answered in the order it was recieved. Remember, patience is a virtue!" alt="Welcome to Heaven! All operators are currently unavailable. Your call is of great importance to us and will be answered in the order it was recieved. Remember, patience is a virtue!" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=200&size=16&duration=1700&pause=1500&color=59B7EA&background=FFFFFF15&center=true&vCenter=true&width=900&lines=Welcome+to+Heaven!;All+operators+are+currently+unavailable.;Your+call+is+of+great+importance+to+us+and+will+be+answered+in+the+order+it+was+received.;Remember%2C+patience+is+a+virtue!" title="Welcome to Heaven! All operators are currently unavailable. Your call is of great importance to us and will be answered in the order it was recieved. Remember, patience is a virtue!" alt="Welcome to Heaven! All operators are currently unavailable. Your call is of great importance to us and will be answered in the order it was recieved. Remember, patience is a virtue!" /></a>
   <br>
   <b>This Readme is based on <a href=https://jolleycomics.com/TPoH/The_Hook/1>The Property of Hate</a>. All art credit goes to <a href="https://jolleycomics.com/">Sara Jolley</a>!</b>
 </div>
