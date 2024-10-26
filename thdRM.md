@@ -40,6 +40,8 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 
 <a href="https://jolleycomics.com/TPoH/Wardrobe/225"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="'Crooked Heart' was the hardest song to produce!"></a><br><br>
 
+<a href="thathandsomedevil.com"><img align="left" src="https://drive.google.com/uc?id=1YOO_jYLM6h_BKUmajt4xpu733plIiyum" alt="dni" title="Do Not Interact"></a>
+
 <table border="15" align="center">
   <tr>
     <td align="center">
@@ -111,7 +113,7 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 </table>
 
 <div align="center">
-  <a href="https://jolleycomics.com/TPoH/Turnaround/555"><img src="https://drive.google.com/uc?id=1v8NotcwWGjDKfQEJT_A4AQmnenqe11mH" alt="The House of Lead" title="IT'S GONNA BURN DOWN :((("></a>
+  <a href="https://jolleycomics.com/TPoH/Turnaround/555"><img src="https://drive.google.com/uc?id=1_Wvu9-ALc_z8fzNZX0NcPscn5wexihPa" alt="The House of Lead" title="IT'S GONNA BURN DOWN :((("></a>
 </div>
 
 <br><br><a href="https://jolleycomics.com/TPoH/Pitch/"><img align="center" src="https://drive.google.com/uc?id=1-kM-OFJGVCMgRLc_uhwKBq4D8V7-BC9J" alt="divider" title="The sea above the Black Market is called the Sea of Limen; limen meaning the 'boundary of perception'!"></a><br><br>
