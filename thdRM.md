@@ -6,7 +6,10 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=plastic&amp;label=View+Count+:3" alt="view count" title="what! 2k views?? yo, text your mom and tell her you're gay">
   <br>
-  <a href="https://jolleycomics.com/TPoH/Double_Exposure/523"><img src="https://drive.google.com/uc?id=1K8Bg_VJSTUTdVOMkJy9aPHIR1Gjclnba" alt="EXPLOITOPIA" height=400px title="Now in 3 Dimensions!"></a>
+  <a href="https://jolleycomics.com/TPoH/Double_Exposure/523"><img src="https://drive.google.com/uc?id=1K8Bg_VJSTUTdVOMkJy9aPHIR1Gjclnba" alt="EXPLOITOPIA" height=300px title="Now in 3 Dimensions!"></a>
+  <br>
+  <a href="https://www.last.fm/user/lectricstat"><img src="https://lastfm-recently-played.vercel.app/api?user=lectricstat&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=657cc2" alt="Last FM Currently Playing - if you can see this, try refreshing..."></a>
+  <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=3000&pause=300&color=FFFFFF&background=02AAE8&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=112&lines=A+new+world+is+constantly+opening+before+us;At+an+ever-accelerating+rate+of+progress;Let's+travel+into+the+future;+What+will+we+see%3F" alt="A new world is constantly opening before us, at an ever-accelerating rate of progress. Let's travel into the future. What will we see?" title="A new world is constantly opening before us, at an ever-accelerating rate of progress. Let's travel into the future. What will we see?" /></a>
   <br>
   <b>This Readme is based on the album <a href="https://open.spotify.com/album/6dyanjhuSgFsPPVtFzugcr">Exploitopia</a> by <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT">That Handsome Devil</a>!</b>
@@ -84,7 +87,7 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
   </table>
 </p>
 
-<br><img align="center" src="https://drive.google.com/uc?id=1LeiCwOnCQEf_vr0eYeTG6wLgjIptZlvA" alt="divider" title="HEY WHAT ARE YOU LOOKIN AT!!1" width="900px" height="1px">
+<img align="center" src="https://drive.google.com/uc?id=1LeiCwOnCQEf_vr0eYeTG6wLgjIptZlvA" alt="divider" title="HEY WHAT ARE YOU LOOKIN AT!!1" width="900px" height="1px">
 
 <p align="center"> <!---byi-->
   <a href="thathandsomedevil.com"><img align="right" src="https://drive.google.com/uc?id=1UxHk6g2V880lN2ScEcHnXlLWbpLCBJU2" alt="before you interact" title="Before You Interact"></a>
@@ -102,13 +105,11 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
   </table>
 </p>
 
-<br><a href="https://jolleycomics.com/TPoH/The_Hook/1"><img align="center" src="https://drive.google.com/uc?id=1-kM-OFJGVCMgRLc_uhwKBq4D8V7-BC9J" alt="divider" title="The Property of Hate began in 2012, making it 12 years old and still on-going!"></a><br><br>
+<br><a href="https://jolleycomics.com/TPoH/Wardrobe/225"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="'Crooked Heart' was the hardest song to produce!"></a><br><br>
 
 <!--- INTERESTS -->
 <p align="center">
   <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=INTERESTS&color=808080&fontSize=24&width=126" alt="Interests" title="ahah.. i love.... many things.."></a>
-  <br><br>
-  <a href="https://www.last.fm/user/lectricstat"><img src="https://lastfm-recently-played.vercel.app/api?user=lectricstat&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=657cc2" alt="Last FM Currently Playing - if you can see this, try refreshing..."></a>
   <br>
   <ins>Key: <b>Bolded</b> + <em>Italics</em> = <b><em>Stuff I REALLY like</em></b></ins><br><br>
   <code><b>Special Interests</b></code><br>
@@ -134,19 +135,11 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 
 <br><br>
 
-<table border="15" align="center">
-  <tr>
-    <td align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F7F7F7&background=754366AA&center=true&vCenter=true&width=500&lines=I+will+not+cease+to+be+.+.+.;I+WILL+BECOME." alt="I will not cease to be... I will become." title="I will not cease to be... I WILL BECOME." /></a>
-    </td>
-  </tr>
-</table>
-
 <div align="center">
   <a href="https://jolleycomics.com/TPoH/Turnaround/555"><img src="https://drive.google.com/uc?id=1_Wvu9-ALc_z8fzNZX0NcPscn5wexihPa" alt="The House of Lead" title="IT'S GONNA BURN DOWN :((("></a>
 </div>
 
-<br><br><a href="https://jolleycomics.com/TPoH/Pitch/"><img align="center" src="https://drive.google.com/uc?id=1-kM-OFJGVCMgRLc_uhwKBq4D8V7-BC9J" alt="divider" title="The sea above the Black Market is called the Sea of Limen; limen meaning the 'boundary of perception'!"></a><br><br>
+<br><a href="https://jolleycomics.com/TPoH/Wardrobe/225"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="'Crooked Heart' was the hardest song to produce!"></a><br><br>
 
 <!--- GRAPHICS -->
 <p align="center">
