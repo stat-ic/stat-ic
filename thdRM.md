@@ -5,12 +5,12 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=plastic&amp;label=View+Count+:3" alt="view count" title="what! 2k views?? yo, text your mom and tell her you're gay">
   <br>
-  <b>LAST UPDATED: 10/26/2024</b>
-  <br>
   <a href="https://jolleycomics.com/TPoH/Double_Exposure/523"><img src="https://drive.google.com/uc?id=1K8Bg_VJSTUTdVOMkJy9aPHIR1Gjclnba" alt="EXPLOITOPIA" height=400px title="Now in 3 Dimensions!"></a>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=3000&pause=300&color=FFFFFF&background=02AAE8&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=112&lines=A+new+world+is+constantly+opening+before+us;At+an+ever-accelerating+rate+of+progress;Let's+travel+into+the+future;+What+will+we+see%3F" alt="A new world is constantly opening before us, at an ever-accelerating rate of progress. Let's travel into the future. What will we see?" title="A new world is constantly opening before us, at an ever-accelerating rate of progress. Let's travel into the future. What will we see?" /></a>
   <br>
   <b>This Readme is based on the album <a href="https://open.spotify.com/album/6dyanjhuSgFsPPVtFzugcr">Exploitopia</a> by <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT">That Handsome Devil</a>!</b>
+  <br>
+  <b>LAST UPDATED: 10/26/2024</b>
 </div>
 
 <br><a href="https://jolleycomics.com/TPoH/Wardrobe/225"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="Exploitopia was released on October 25th, 2024!"></a><br><br>
