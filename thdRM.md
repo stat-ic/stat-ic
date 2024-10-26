@@ -36,7 +36,7 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 
 <!--- DNI AND BYI -->
 <p align="center"> <!---dni-->
-  <a href="thathandsomedevil.com"><img align="left" src="https://drive.google.com/uc?id=1YOO_jYLM6h_BKUmajt4xpu733plIiyum" alt="do not interact" title="Do Not Interact"></a>
+  <a href="thathandsomedevil.com"><img align="left" src="https://drive.google.com/uc?id=1YOO_jYLM6h_BKUmajt4xpu733plIiyum" alt="do not interact" title="Do Not Interact" width="200px"></a>
   <table border="0" align="left">
     <caption>
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=E62125&background=FFFFFF&center=true&vCenter=true&repeat=false&width=611&lines=DO+NOT+INTERACT" alt="Typing SVG" /></a>
@@ -57,7 +57,7 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
     <tbody align="center">
       <tr> 
         <td> <!--- uid/uf -->
-          15 or Younger
+          Under 16 Y.O.
         </td>
         <td> <!--- no exception -->
           <code>Nazi/USSR skins</code><br>
@@ -79,18 +79,18 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 <img align="center" src="https://drive.google.com/uc?id=1LeiCwOnCQEf_vr0eYeTG6wLgjIptZlvA" alt="divider" title="HEY WHAT ARE YOU LOOKIN AT!!1" width="900px" height="1px">
 
 <p align="center"> <!---byi-->
-  <a href="thathandsomedevil.com"><img align="right" src="https://drive.google.com/uc?id=1UxHk6g2V880lN2ScEcHnXlLWbpLCBJU2" alt="before you interact" title="Before You Interact"></a>
-  <table border="0" align="right">
+  <a href="thathandsomedevil.com"><img align="left" src="https://drive.google.com/uc?id=1UxHk6g2V880lN2ScEcHnXlLWbpLCBJU2" alt="before you interact" title="Before You Interact" width="200px"></a>
+  <table border="0" align="left">
     <caption>
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=04ABE9&background=FFFFFF&center=true&vCenter=true&repeat=false&width=611&lines=BEFORE+YOU+INTERACT" alt="Typing SVG" align="right" /></a>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=04ABE9&background=FFFFFF&center=true&vCenter=true&repeat=false&width=611&lines=BEFORE+YOU+INTERACT" alt="Typing SVG" align="left" /></a><br>
     </caption>
-    <tbody align="center">
+    <thead align="center">
       <tr> 
         <td width="611px"> <!--- uid/uf -->
-          I <b>spam</b> and <b>keyboard smash</b> a LOT<br>I have <b>memory problems</b> so please bear with me<br>Sometimes I go AFK or leave <em>unannounced</em><br><b>INTERACT BEFORE YOU FRIEND ME!!</b>
+          I <b>spam</b> and <b>keyboard smash</b> a LOT<br>I have <b>memory problems</b> so please bear with me<br>Sometimes I go AFK or leave <em>unannounced</em><br><br><b>INTERACT BEFORE YOU FRIEND ME!!</b>
         </td>
       </tr>
-    </tbody>
+    </thead>
   </table>
 </p>
 
