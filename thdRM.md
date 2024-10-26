@@ -42,67 +42,54 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 
 <a href="https://jolleycomics.com/TPoH/Wardrobe/225"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="'Crooked Heart' was the hardest song to produce!"></a><br><br>
 
-<table border="0" align="center">
-  <thead>
-    <tr>
-      <th>
-        <code><b>Unless I do/Unless friends</b></code>
-      </th>
-      <th>
-        NO EXCEPTION
-      </th>
-      <th>
-        WORST ONE
-      </th>
-    </tr>
-  </thead>
-  <tbody align="center">
-    <td>
-      15 or Younger
-    </td>
-  </tbody>
-</table>
+
 
 <!--- DNI AND BYI -->
 <p align="center">
-  <a href="thathandsomedevil.com"><img align="left" src="https://drive.google.com/uc?id=1YOO_jYLM6h_BKUmajt4xpu733plIiyum" alt="dni" title="Do Not Interact"></a>
+  <a href="thathandsomedevil.com"><img align="left" src="https://drive.google.com/uc?id=1YOO_jYLM6h_BKUmajt4xpu733plIiyum" alt="do not interact" title="Do Not Interact"></a>
   <div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=E62125&background=FFFFFF&center=true&vCenter=true&repeat=false&width=300&lines=DO+NOT+INTERACT" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=E62125&background=FFFFFF&center=true&vCenter=true&repeat=false&width=611&lines=DO+NOT+INTERACT" alt="Typing SVG" /></a>
     <br>
-    <th>
-        Unless I do/Unless friends
-      </th>
-    <tr>
-      <td align="center">
-        15 under
-      </td>
-    </tr>
-    <div align="center">
-      <code><b>Unless I do/Unless friends</b></code><br>15 or younger</p>
-      <code><b>NO EXCEPTION</b></code><br>Nazi/USSR skins<br>Believe "blackwashing" is real<br>Real people shippers<br>Proshippers<br>Zionists/Israel supporters<br>Endo/Demo systems<br>Mental illness/Disability fakers
-      <br>
-      <code><b>Worst one</b></code><br><a href="https://github.com/Vexuliii"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=Vexulii+/j&color=E67935&fontSize=17&width=64&height=21" alt="Vexulii /j" title="squashed like a particularly strange bug"></a>
-    </div>
+    <table border="0" align="left">
+      <thead>
+        <tr>
+          <th>
+            <ins><b>Unless I do/Unless friends</b></ins>
+          </th>
+          <th>
+            <ins><b>NO EXCEPTION</b></ins>
+          </th>
+          <th>
+            <ins><b>WORST ONE</b></ins>
+          </th>
+        </tr>
+      </thead>
+      <tbody align="center">
+        <tr> 
+          <td> <!--- uid/uf -->
+            15 or Younger
+          </td>
+          <td> <!--- no exception -->
+            <code>Nazi/USSR skins</code><br>
+            <code>Believe "blackwashing" is real</code><br>
+            <code>Real people shippers</code><br>
+            <code>Proshippers</code><br>
+            <code>Zionists/Israel supporters</code><br>
+            <code>Endo/Demo systems</code><br>
+            <code>Mental illness/Disability fakers</code>
+          </td>
+          <td> <!--- bitch -->
+            <a href="https://github.com/Vexuliii"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=Vexulii+/j&color=E67935&fontSize=17&width=64&height=21" alt="Vexulii /j" title="squashed like a particularly strange bug"></a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
   </div>
 </p>
-
-<table border="0" align="center">
-  <tr>
-    <td align="center">
-      <a href="https://jolleycomics.com/TPoH/Double_Exposure/528"><img src="https://drive.google.com/uc?id=1pzItjXk7DgIykfSidf11wdb8voyb4yI2" alt="RGB" title="Concerning..." height=412px width=355px></a>
-      <br> 
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=19&duration=3000&pause=1000&color=000000&background=FFD694&center=true&vCenter=true&repeat=false&width=355&lines=Then+what+about+the+other+you%3F" alt="Then what about the other you?" title="Then what about the other you?"></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=DO+NOT+INTERACT&color=808080&fontSize=24&width=214" alt="Do not interact" title="Do not interact"></a>
-      <br><br>
-      
-      <br><br>
-      
-      <br><br>
-      
-    </td>
-  </tr>
+<br>
+<p>
+  <a href="thathandsomedevil.com"><img align="right" src="https://drive.google.com/uc?id=1UxHk6g2V880lN2ScEcHnXlLWbpLCBJU2" alt="before you interact" title="Before You Interact"></a>
+</p>
   <tr>
     <td align="center">
       <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=BEFORE+YOU+INTERACT&color=808080&fontSize=24&width=274" alt="Before You Interact" title="Before you interact"></a>
