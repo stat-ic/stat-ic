@@ -75,9 +75,7 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
     </tbody>
   </table>
 </p>
-
 <img align="center" src="https://drive.google.com/uc?id=1LeiCwOnCQEf_vr0eYeTG6wLgjIptZlvA" alt="divider" title="HEY WHAT ARE YOU LOOKIN AT!!1" width="900px" height="1px">
-
 <p align="center"> <!---byi-->
   <a href="https://en.wikipedia.org/wiki/Hamsa"><img align="left" src="https://drive.google.com/uc?id=1UxHk6g2V880lN2ScEcHnXlLWbpLCBJU2" alt="before you interact" title="Before You Interact"></a>
   <table border="0" align="left">
@@ -98,32 +96,93 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 
 <!--- INTERESTS -->
 <p align="center">
-  <a href="https://youtu.be/3Q2piNE_TWY?si=gnPXO5Xg4Jiaf4yn"><img align="center" src="https://drive.google.com/uc?id=1Vwzd53laWBRzzXtj5T1wjSpuWY7wZPQN" height="150px" alt="My Interests" title="Static's Interests!!"></a>
-  <a href="https://www.last.fm/user/lectricstat"><img src="https://lastfm-recently-played.vercel.app/api?user=lectricstat&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=657cc2" alt="Last FM Currently Playing - if you can see this, try refreshing..."></a>
+  <a href="https://youtu.be/3Q2piNE_TWY?si=gnPXO5Xg4Jiaf4yn"><img align="center" src="https://drive.google.com/uc?id=1Vwzd53laWBRzzXtj5T1wjSpuWY7wZPQN" height="150px" alt="My Interests" title="STATIC's Interests!!" ></a>
   <br>
   <ins>Key: <b>Bolded</b> + <em>Italics</em> = <b><em>Stuff I REALLY like</em></b></ins><br><br>
   <code><b>Special Interests</b></code><br>
   <b><em>
     <a href="https://jolleycomics.com/TPoH/The_Hook/1">The Property of Hate</a>, <a href="https://www.twitch.tv/team/wrtv">Radio TV Solutions</a>, <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT">That Handsome Devil</a>, Psychology
-  </em></b>
-  <br><br>
-  <code><b>Music</b></code><br>
-  <b><em>Will Wood, Jhariah, Oingo Boingo</em></b>, Jack Stauber, Lemon Demon, Cricket!, <b><em>Toby Fox</em></b>, MARINA, Tom Lehrer, Louie Zong, <b><em>Godforbid</em></b>, Princess Problems
-  <br><br>
-  <code><b>Games</b></code><br>
-  <b><em>UNDERTALE, deltarune</em></b>, The Stanley Parable, <b><em>Jazzpunk, Portal, Half-Life, Fin Fin</em></b>, Left 4 Dead, Minecraft, <b><em>Spore</em></b>, Animal Crossing, gmod, Battleblock Theatre, Pit People, Alien Hominid, Miitopia, Tomodachi Life, Mario & Luigi Series
-  <br><br>
-  <code><b>Web Series</b></code><br>
-  <b><em>HLVRAI</em></b>, Madness Combat, Big Top Burger, Mystery Skulls, DHMIS
-  <br><br>
-  <code><b>Shows</b></code><br>
-  My Little Pony, Gravity Falls, Adventure Time, <b><em>Regular Show</em></b>, Teen Titans, Breaking Bad, Wander Over Yonder, Chowder, Mob Psycho 100
-  <br><br>
-  <code><b>Other</b></code><br>
-  Astronomy, <b><em>Old Web, Rhythm games</em></b>, Programming, Mathematics (Dynamical systems/Chaos Theory), Discordianism
+    <br>
+    <table align="center">
+  <tr>
+    <td>
+      <code><b>Music</b></code><br>
+    </td>
+    <td>
+      <code><b>Games</b></code><br>
+    </td>
+    <td>
+      <code><b>TV Shows</b></code><br>
+    </td>
+    <td>
+      <code><b>Web Series</b></code><br>
+    </td>
+    <td>
+      <code><b>Other</b></code><br>
+    </td>
+  </tr>
+
+  <tr>
+    <td> <!---Music-->
+      <b><em>* Godforbid<br>
+      * Princess Problems<br>
+      * Will Wood<br>
+      * Jhariah<br>
+      * Oingo Boingo<br>
+      * Toby Fox</em></b><br>
+      * Jack Stauber<br>
+      * Lemon Demon<br>
+      * Cricket!<br>
+      * MARINA<br>
+      * Tom Lehrer<br>
+      * Louie Zong
+    </td>
+    <td> <!---Games-->
+      <b><em>* UTDR<br>
+      * Jazzpunk<br>
+      * The Stanley Parable<br>
+      * Valve Games<br>
+      * Spore<br>
+      * Fin Fin</em></b><br>
+      * Minecraft<br>
+      * Behemoth Games<br>
+      * Miitopia<br>
+      * Tomodachi Life<br>
+      * Mario & Luigi Series
+    </td>
+    <td> <!---TV Shows-->
+      <b><em>* Gravity Falls<br>
+      * Regular Show</em></b><br>
+      * My Little Pony<br>
+      * Adventure Time<br>
+      * Teen Titans<br>
+      * Breaking Bad<br>
+      * Wander Over Yonder<br>
+      * Chowder<br>
+      * Mob Psycho 100<br>
+    </td>
+    <td> <!---Web Series-->
+      <b><em>* HLVRAI</em></b><br>
+      * Madness Combat<br>
+      * Big Top Burger<br>
+      * Mystery Skulls<br>
+      * DHMIS
+    </td>
+    <td> <!---Other-->
+      <b><em>* Mathematics<br>
+      * Discordianism<br>
+      * Rhythm games<br>
+      * Old Web</em></b><br>
+      * Astronomy<br>
+      * Programming
+    </td>
+  </tr>
+</table>
 </p>
 <br>
 <div align="center">
+  <a href="https://www.last.fm/user/lectricstat"><img src="https://lastfm-recently-played.vercel.app/api?user=lectricstat&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=02AAE8" alt="Last FM Currently Playing - if you can see this, try refreshing..."></a>
+  <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=2000&pause=300&color=FFFFFF&background=02AAE8&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=112&lines=New+ways+of+living%2C+and+new+thinking;Have+laid+the+foundation;For+most+of+what+is+good+in+life+today;With+the+promise+of+more+tomorrow" alt="Typing SVG" /></a>
   <br>
   <a href="https://jolleycomics.com/TPoH/Turnaround/555"><img src="https://drive.google.com/uc?id=1_Wvu9-ALc_z8fzNZX0NcPscn5wexihPa" alt="The House of Lead" title="IT'S GONNA BURN DOWN :((("></a>
