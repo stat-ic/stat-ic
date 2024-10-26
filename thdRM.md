@@ -17,7 +17,7 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
   <code><b>LAST UPDATED: 10/26/2024</b></code>
 </div>
 
-<br><a href="https://jolleycomics.com/TPoH/Wardrobe/225"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="Exploitopia was released on October 25th, 2024!"></a><br>
+<br><a href="https://www.instagram.com/thathandsomedevilofficial/reel/DBjVbUxxDOD/"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="Exploitopia was released on October 25th, 2024!"></a><br>
 
 <!--- ABOUT ME -->
 <p align="center">
@@ -36,7 +36,7 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 
 <!--- DNI AND BYI -->
 <p align="center"> <!---dni-->
-  <a href="thathandsomedevil.com"><img align="left" src="https://drive.google.com/uc?id=1YOO_jYLM6h_BKUmajt4xpu733plIiyum" alt="do not interact" title="Do Not Interact" width="200px"></a>
+  <a href="https://en.wikipedia.org/wiki/Hamsa"><img align="left" src="https://drive.google.com/uc?id=1YOO_jYLM6h_BKUmajt4xpu733plIiyum" alt="do not interact" title="Do Not Interact" width="200px"></a>
   <table border="0" align="left">
     <caption>
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=E62125&background=FFFFFF&center=true&vCenter=true&repeat=false&width=611&lines=DO+NOT+INTERACT" alt="Typing SVG" /></a>
@@ -79,7 +79,7 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 <img align="center" src="https://drive.google.com/uc?id=1LeiCwOnCQEf_vr0eYeTG6wLgjIptZlvA" alt="divider" title="HEY WHAT ARE YOU LOOKIN AT!!1" width="900px" height="1px">
 
 <p align="center"> <!---byi-->
-  <a href="thathandsomedevil.com"><img align="left" src="https://drive.google.com/uc?id=1UxHk6g2V880lN2ScEcHnXlLWbpLCBJU2" alt="before you interact" title="Before You Interact" width="200px"></a>
+  <a href="https://en.wikipedia.org/wiki/Hamsa"><img align="left" src="https://drive.google.com/uc?id=1UxHk6g2V880lN2ScEcHnXlLWbpLCBJU2" alt="before you interact" title="Before You Interact" width="200px"></a>
   <table border="0" align="left">
     <caption>
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=04ABE9&background=FFFFFF&center=true&vCenter=true&repeat=false&width=611&lines=BEFORE+YOU+INTERACT" alt="Typing SVG" align="left" /></a><br>
@@ -94,7 +94,7 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
   </table>
 </p>
 
-<br><a href="https://jolleycomics.com/TPoH/Wardrobe/225"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="'Crooked Heart' was the hardest song to produce!"></a><br><br>
+<br><a href="https://youtu.be/3Q2piNE_TWY?si=gnPXO5Xg4Jiaf4yn"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="'Tonight' is the first song from Exploitopia to have a music video!"></a><br><br>
 
 <!--- INTERESTS -->
 <a href="https://www.last.fm/user/lectricstat"><img src="https://lastfm-recently-played.vercel.app/api?user=lectricstat&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=657cc2" alt="Last FM Currently Playing - if you can see this, try refreshing..."></a>
@@ -129,7 +129,7 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
   <a href="https://jolleycomics.com/TPoH/Turnaround/555"><img src="https://drive.google.com/uc?id=1_Wvu9-ALc_z8fzNZX0NcPscn5wexihPa" alt="The House of Lead" title="IT'S GONNA BURN DOWN :((("></a>
 </div>
 
-<br><a href="https://jolleycomics.com/TPoH/Wardrobe/225"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="'Crooked Heart' was the hardest song to produce!"></a><br><br>
+<br><a href="https://en.wikipedia.org/wiki/That_Handsome_Devil#Discography"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="Exploitopia is That Handsome Devil's 11th album (including EPs)!"></a><br><br>
 
 <!--- GRAPHICS -->
 <p align="center">
