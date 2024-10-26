@@ -5,19 +5,21 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=plastic&amp;label=View+Count+:3" alt="view count" title="what! 2k views?? yo, text your mom and tell her you're gay">
   <br>
-  <b>LAST UPDATED: 08/31/2024</b>
+  <b>LAST UPDATED: 10/26/2024</b>
   <br>
-  <a href="https://jolleycomics.com/TPoH/Double_Exposure/523"><img src="https://drive.google.com/uc?id=1lFnsyYeOrINjv3AnUVdgPo_FabKoGmDw" alt="Hero and RGB" height=400px title="I love them......"></a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=200&size=16&duration=1700&pause=1500&color=59B7EA&background=FFFFFF15&center=true&vCenter=true&width=900&lines=Welcome+to+Heaven!;All+operators+are+currently+unavailable.;Your+call+is+of+great+importance+to+us+and+will+be+answered+in+the+order+it+was+received.;Remember%2C+patience+is+a+virtue!" title="Welcome to Heaven! All operators are currently unavailable. Your call is of great importance to us and will be answered in the order it was recieved. Remember, patience is a virtue!" alt="Welcome to Heaven! All operators are currently unavailable. Your call is of great importance to us and will be answered in the order it was recieved. Remember, patience is a virtue!" /></a>
+  <a href="https://jolleycomics.com/TPoH/Double_Exposure/523"><img src="https://drive.google.com/uc?id=1K8Bg_VJSTUTdVOMkJy9aPHIR1Gjclnba" alt="EXPLOITOPIA" height=400px title="Now in 3 Dimensions!"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=3000&pause=300&color=FFFFFF&background=02AAE8&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=112&lines=A+new+world+is+constantly+opening+before+us;At+an+ever-accelerating+rate+of+progress;Let's+travel+into+the+future;+What+will+we+see%3F" alt="A new world is constantly opening before us, at an ever-accelerating rate of progress. Let's travel into the future. What will we see?" title="A new world is constantly opening before us, at an ever-accelerating rate of progress. Let's travel into the future. What will we see?" /></a>
   <br>
-  <b>This Readme is based on <a href=https://jolleycomics.com/TPoH/The_Hook/1>The Property of Hate</a>. All art credit goes to <a href="https://jolleycomics.com/">Sara Jolley</a>!</b>
+  <b>This Readme is based on the album <a href="https://open.spotify.com/album/6dyanjhuSgFsPPVtFzugcr">Exploitopia</a> by <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT">That Handsome Devil</a>!</b>
 </div>
+
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda+SC&weight=200&size=16&duration=1700&pause=1500&color=E9C800&background=FFFFFF15&center=true&vCenter=true&width=900&lines=This+is+a+good+country+filled+with+good+people.;But+what+good+is+'good'+in+times+like+these%3F" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda+SC&weight=200&size=16&duration=1700&pause=1500&color=9C1222&background=FFFFFF15&center=true&vCenter=true&width=900&lines=There+are+people+who+sit+and+wait+their+lives+away+on+the+promise+of+a+dream+that+will+not+come.;They+are+the+sheep+but+here+are+also+many%2C+many+more+like+us.;We+will+not+be+pushed+around." alt="Typing SVG" /></a>
 
-<br><br><a href="https://jolleycomics.com/TPoH/Wardrobe/225"><img align="center" src="https://drive.google.com/uc?id=1-kM-OFJGVCMgRLc_uhwKBq4D8V7-BC9J" alt="divider" title="RGB's birthday is May 21st and Hero's birthday is February 10th!!"></a><br><br>
+<br><br><a href="https://jolleycomics.com/TPoH/Wardrobe/225"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="RGB's birthday is May 21st and Hero's birthday is February 10th!!"></a><br><br>
 
 <table border="15" align="center">
   <tr>
