@@ -4,7 +4,7 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 
 <!--- HEADER -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=for-the-badge&amp;label=Modern+Deities" alt="view count" title="Put on your 3D glasses!">
+  <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=E62125&amp;style=for-the-badge&amp;label=Modern+Deities" alt="view count" title="Put on your 3D glasses!">
   <br>
   <a href="https://thathandsomedevil.com/products/exploitopia-cd"><img src="https://drive.google.com/uc?id=1YhttyWlHZoVllz-_-IxHni7QLTmn1lX7" alt="Exploitopia CD" height=150px title="ro ta te..."></a>
   <a href="https://open.spotify.com/album/6dyanjhuSgFsPPVtFzugcr"><img src="https://drive.google.com/uc?id=1K8Bg_VJSTUTdVOMkJy9aPHIR1Gjclnba" alt="EXPLOITOPIA" height=300px title="Now in 3 Dimensions!"></a>
