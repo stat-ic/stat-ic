@@ -13,13 +13,7 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
   <b>This Readme is based on the album <a href="https://open.spotify.com/album/6dyanjhuSgFsPPVtFzugcr">Exploitopia</a> by <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT">That Handsome Devil</a>!</b>
 </div>
 
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda+SC&weight=200&size=16&duration=1700&pause=1500&color=E9C800&background=FFFFFF15&center=true&vCenter=true&width=900&lines=This+is+a+good+country+filled+with+good+people.;But+what+good+is+'good'+in+times+like+these%3F" alt="Typing SVG" /></a>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda+SC&weight=200&size=16&duration=1700&pause=1500&color=9C1222&background=FFFFFF15&center=true&vCenter=true&width=900&lines=There+are+people+who+sit+and+wait+their+lives+away+on+the+promise+of+a+dream+that+will+not+come.;They+are+the+sheep+but+here+are+also+many%2C+many+more+like+us.;We+will+not+be+pushed+around." alt="Typing SVG" /></a>
-
-<br><br><a href="https://jolleycomics.com/TPoH/Wardrobe/225"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="RGB's birthday is May 21st and Hero's birthday is February 10th!!"></a><br><br>
+<br><br><a href="https://jolleycomics.com/TPoH/Wardrobe/225"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="Exploitopia was released on October 25th, 2024!"></a><br><br>
 
 <table border="15" align="center">
   <tr>
@@ -42,7 +36,7 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
   <ins>Blasian</ins> 〃 <b><em>ADHD, AUTISM, </em></b><s>+ unlisted</s>
 </p>
 
-<br><a href="https://jolleycomics.com/TPoH/Target_Audience/287"><img align="center" src="https://drive.google.com/uc?id=1-kM-OFJGVCMgRLc_uhwKBq4D8V7-BC9J" alt="divider" title="The chair, Gladys, used to be an award-winning knitting champion! She's also trans!!"></a><br><br>
+<br><br><a href="https://jolleycomics.com/TPoH/Wardrobe/225"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="'Crooked Heart' was the hardest song to produce!"></a><br><br>
 
 <table border="15" align="center">
   <tr>
