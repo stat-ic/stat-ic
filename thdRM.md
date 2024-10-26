@@ -34,9 +34,11 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
   <b>IT/THEY</b> + <em><ins>any neos</ins></em> 〃 9TEEN (07/29)
   <br>
   <ins>Blasian</ins> 〃 <b><em>ADHD, AUTISM, </em></b><s>+ unlisted</s>
+  <br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=FFFFFF&background=E62125&center=true&vCenter=true&width=435&lines=Open+the+throttle!;All+aboard%2C+the+promised+land!;Pillars+of+smoke+by+day!;Pillars+of+fire+by+night!;Pillars+of+progress!;Machines+to+make+machines!;Production+to+expand+production!" alt="Typing SVG" /></a>
 </p>
 
-<br><br><a href="https://jolleycomics.com/TPoH/Wardrobe/225"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="'Crooked Heart' was the hardest song to produce!"></a><br><br>
+<a href="https://jolleycomics.com/TPoH/Wardrobe/225"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="'Crooked Heart' was the hardest song to produce!"></a><br><br>
 
 <table border="15" align="center">
   <tr>
