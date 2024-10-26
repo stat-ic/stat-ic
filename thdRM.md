@@ -2,6 +2,7 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 
 <!--- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=7000&pause=100&color=923999&width=435&lines=maido+domaido!!+(%E1%B5%94%E2%A9%8A%E1%B5%94);shoutout+2+remimart+;please+remember+2+sign+my+atabook!) -->
 
+<!--- HEADER -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=plastic&amp;label=View+Count+:3" alt="view count" title="what! 2k views?? yo, text your mom and tell her you're gay">
   <br>
@@ -15,6 +16,7 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 
 <br><a href="https://jolleycomics.com/TPoH/Wardrobe/225"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="Exploitopia was released on October 25th, 2024!"></a><br><br>
 
+<!--- ABOUT ME -->
 <table border="15" align="center">
   <tr>
   <td>
@@ -40,13 +42,41 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 
 <a href="https://jolleycomics.com/TPoH/Wardrobe/225"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="'Crooked Heart' was the hardest song to produce!"></a><br><br>
 
+<table border="0" align="center">
+  <thead>
+    <tr>
+      <th>
+        <code><b>Unless I do/Unless friends</b></code>
+      </th>
+      <th>
+        NO EXCEPTION
+      </th>
+      <th>
+        WORST ONE
+      </th>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <td>
+      15 or Younger
+    </td>
+  </tbody>
+</table>
 
-
+<!--- DNI AND BYI -->
 <p align="center">
   <a href="thathandsomedevil.com"><img align="left" src="https://drive.google.com/uc?id=1YOO_jYLM6h_BKUmajt4xpu733plIiyum" alt="dni" title="Do Not Interact"></a>
   <div>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=E62125&background=FFFFFF&center=true&vCenter=true&repeat=false&width=300&lines=DO+NOT+INTERACT" alt="Typing SVG" /></a>
     <br>
+    <th>
+        Unless I do/Unless friends
+      </th>
+    <tr>
+      <td align="center">
+        15 under
+      </td>
+    </tr>
     <div align="center">
       <code><b>Unless I do/Unless friends</b></code><br>15 or younger</p>
       <code><b>NO EXCEPTION</b></code><br>Nazi/USSR skins<br>Believe "blackwashing" is real<br>Real people shippers<br>Proshippers<br>Zionists/Israel supporters<br>Endo/Demo systems<br>Mental illness/Disability fakers
@@ -56,7 +86,7 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
   </div>
 </p>
 
-<table border="15" align="center">
+<table border="0" align="center">
   <tr>
     <td align="center">
       <a href="https://jolleycomics.com/TPoH/Double_Exposure/528"><img src="https://drive.google.com/uc?id=1pzItjXk7DgIykfSidf11wdb8voyb4yI2" alt="RGB" title="Concerning..." height=412px width=355px></a>
@@ -89,6 +119,7 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 
 <br><a href="https://jolleycomics.com/TPoH/The_Hook/1"><img align="center" src="https://drive.google.com/uc?id=1-kM-OFJGVCMgRLc_uhwKBq4D8V7-BC9J" alt="divider" title="The Property of Hate began in 2012, making it 12 years old and still on-going!"></a><br><br>
 
+<!--- INTERESTS -->
 <p align="center">
   <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=INTERESTS&color=808080&fontSize=24&width=126" alt="Interests" title="ahah.. i love.... many things.."></a>
   <br><br>
@@ -132,6 +163,7 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 
 <br><br><a href="https://jolleycomics.com/TPoH/Pitch/"><img align="center" src="https://drive.google.com/uc?id=1-kM-OFJGVCMgRLc_uhwKBq4D8V7-BC9J" alt="divider" title="The sea above the Black Market is called the Sea of Limen; limen meaning the 'boundary of perception'!"></a><br><br>
 
+<!--- GRAPHICS -->
 <p align="center">
   <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=STAT'S+GRAPHICS+COLLECTION&color=808080&fontSize=24&width=355" alt="Stat's Graphics Collection" title="i am full of stamps, they're leaking out of me"></a>
   <br>
