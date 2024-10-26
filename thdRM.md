@@ -42,67 +42,65 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 
 <a href="https://jolleycomics.com/TPoH/Wardrobe/225"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="'Crooked Heart' was the hardest song to produce!"></a><br><br>
 
-
-
 <!--- DNI AND BYI -->
-<p align="center">
+<p align="center"> <!---dni-->
   <a href="thathandsomedevil.com"><img align="left" src="https://drive.google.com/uc?id=1YOO_jYLM6h_BKUmajt4xpu733plIiyum" alt="do not interact" title="Do Not Interact"></a>
-  <div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=E62125&background=FFFFFF&center=true&vCenter=true&repeat=false&width=611&lines=DO+NOT+INTERACT" alt="Typing SVG" /></a>
-    <br>
-    <table border="0" align="left">
-      <thead>
-        <tr>
-          <th>
-            <ins><b>Unless I do/Unless friends</b></ins>
-          </th>
-          <th>
-            <ins><b>NO EXCEPTION</b></ins>
-          </th>
-          <th>
-            <ins><b>WORST ONE</b></ins>
-          </th>
-        </tr>
-      </thead>
-      <tbody align="center">
-        <tr> 
-          <td> <!--- uid/uf -->
-            15 or Younger
-          </td>
-          <td> <!--- no exception -->
-            <code>Nazi/USSR skins</code><br>
-            <code>Believe "blackwashing" is real</code><br>
-            <code>Real people shippers</code><br>
-            <code>Proshippers</code><br>
-            <code>Zionists/Israel supporters</code><br>
-            <code>Endo/Demo systems</code><br>
-            <code>Mental illness/Disability fakers</code>
-          </td>
-          <td> <!--- bitch -->
-            <a href="https://github.com/Vexuliii"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=Vexulii+/j&color=E67935&fontSize=17&width=64&height=21" alt="Vexulii /j" title="squashed like a particularly strange bug"></a>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
+  <table border="0" align="left">
+    <caption>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=E62125&background=FFFFFF&center=true&vCenter=true&repeat=false&width=611&lines=DO+NOT+INTERACT" alt="Typing SVG" /></a>
+    </caption>
+    <thead>
+      <tr>
+        <th>
+          <ins><b>Unless I do/Unless friends</b></ins>
+        </th>
+        <th>
+          <ins><b>NO EXCEPTION</b></ins>
+        </th>
+        <th>
+          <ins><b>WORST ONE</b></ins>
+        </th>
+      </tr>
+    </thead>
+    <tbody align="center">
+      <tr> 
+        <td> <!--- uid/uf -->
+          15 or Younger
+        </td>
+        <td> <!--- no exception -->
+          <code>Nazi/USSR skins</code><br>
+          <code>Believe "blackwashing" is real</code><br>
+          <code>Real people shippers</code><br>
+          <code>Proshippers</code><br>
+          <code>Zionists/Israel supporters</code><br>
+          <code>Endo/Demo systems</code><br>
+          <code>Mental illness/Disability fakers</code>
+        </td>
+        <td> <!--- bitch -->
+          <a href="https://github.com/Vexuliii"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=Vexulii+/j&color=E67935&fontSize=17&width=64&height=21" alt="Vexulii /j" title="squashed like a particularly strange bug"></a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </p>
-<br>
-<p>
+
+<br><img align="center" src="https://drive.google.com/uc?id=1LeiCwOnCQEf_vr0eYeTG6wLgjIptZlvA" alt="divider" title="HEY WHAT ARE YOU LOOKIN AT!!1" width="900px" height="1px">
+
+<p align="center"> <!---byi-->
   <a href="thathandsomedevil.com"><img align="right" src="https://drive.google.com/uc?id=1UxHk6g2V880lN2ScEcHnXlLWbpLCBJU2" alt="before you interact" title="Before You Interact"></a>
+  <table border="0" align="right">
+    <caption>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=04ABE9&background=FFFFFF&center=true&vCenter=true&repeat=false&width=611&lines=BEFORE+YOU+INTERACT" alt="Typing SVG" align="right" /></a>
+    </caption>
+    <tbody align="center">
+      <tr> 
+        <td width="611px"> <!--- uid/uf -->
+          I <b>spam</b> and <b>keyboard smash</b> a LOT<br>I have <b>memory problems</b> so please bear with me<br>Sometimes I go AFK or leave <em>unannounced</em><br><b>INTERACT BEFORE YOU FRIEND ME!!</b>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </p>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=BEFORE+YOU+INTERACT&color=808080&fontSize=24&width=274" alt="Before You Interact" title="Before you interact"></a>
-      <br><br>
-      I <b>spam</b> and <b>keyboard smash</b> a LOT<br>I have <b>memory problems</b> so please bear with me<br>Sometimes I go AFK or leave <em>unannounced</em><br><b>INTERACT BEFORE YOU FRIEND ME!!</b>
-    </td>
-    <td align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=19&duration=3000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&repeat=false&width=355&lines=.+.+.+Other+me%3F" alt="Other me?" title="...Other me?"></a>
-      <br>
-      <a href="https://jolleycomics.com/TPoH/Cutting_Room/550"><img src="https://drive.google.com/uc?id=13VEX3HcDfvTZ0fHQuPtDlSg7vfWTPZ2o" alt="Negative" title="KZZTTT!!" height=412px width=355px></a>
-    </td>
-  </tr>
-</table>
 
 <br><a href="https://jolleycomics.com/TPoH/The_Hook/1"><img align="center" src="https://drive.google.com/uc?id=1-kM-OFJGVCMgRLc_uhwKBq4D8V7-BC9J" alt="divider" title="The Property of Hate began in 2012, making it 12 years old and still on-going!"></a><br><br>
 
