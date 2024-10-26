@@ -6,11 +6,11 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=657cc2&amp;style=for-the-badge&amp;label=Modern+Deities" alt="view count" title="Put on your 3D glasses!">
   <br>
-  <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><img src="https://drive.google.com/uc?id=1YhttyWlHZoVllz-_-IxHni7QLTmn1lX7" alt="Anxiety" height=150px title="ro ta te..."></a>
-  <a href="https://jolleycomics.com/TPoH/Double_Exposure/523"><img src="https://drive.google.com/uc?id=1K8Bg_VJSTUTdVOMkJy9aPHIR1Gjclnba" alt="EXPLOITOPIA" height=300px title="Now in 3 Dimensions!"></a>
-  <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><img src="https://drive.google.com/uc?id=1YhttyWlHZoVllz-_-IxHni7QLTmn1lX7" alt="Anxiety" height=150px title="ro ta te..."></a>
+  <a href="https://thathandsomedevil.com/products/exploitopia-cd"><img src="https://drive.google.com/uc?id=1YhttyWlHZoVllz-_-IxHni7QLTmn1lX7" alt="Exploitopia CD" height=150px title="ro ta te..."></a>
+  <a href="https://open.spotify.com/album/6dyanjhuSgFsPPVtFzugcr"><img src="https://drive.google.com/uc?id=1K8Bg_VJSTUTdVOMkJy9aPHIR1Gjclnba" alt="EXPLOITOPIA" height=300px title="Now in 3 Dimensions!"></a>
+  <a href="https://thathandsomedevil.com/products/exploitopia-cd"><img src="https://drive.google.com/uc?id=1YhttyWlHZoVllz-_-IxHni7QLTmn1lX7" alt="Exploitopia CD" height=150px title="ro ta te..."></a>
   <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=3000&pause=300&color=FFFFFF&background=02AAE8&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=112&lines=A+new+world+is+constantly+opening+before+us;At+an+ever-accelerating+rate+of+progress;Let's+travel+into+the+future;+What+will+we+see%3F" alt="A new world is constantly opening before us, at an ever-accelerating rate of progress. Let's travel into the future. What will we see?" title="A new world is constantly opening before us, at an ever-accelerating rate of progress. Let's travel into the future. What will we see?" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=2000&pause=300&color=FFFFFF&background=02AAE8&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=112&lines=A+new+world+is+constantly+opening+before+us;At+an+ever-accelerating+rate+of+progress;Let's+travel+into+the+future;+What+will+we+see%3F" alt="A new world is constantly opening before us, at an ever-accelerating rate of progress. Let's travel into the future. What will we see?" title="A new world is constantly opening before us, at an ever-accelerating rate of progress. Let's travel into the future. What will we see?" /></a>
   <br>
   <b>This Readme is based on the album <a href="https://open.spotify.com/album/6dyanjhuSgFsPPVtFzugcr">Exploitopia</a> by <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT">That Handsome Devil</a>!</b>
   <br>
@@ -21,22 +21,22 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 
 <!--- ABOUT ME -->
 <p align="center">
-  <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><img src="https://drive.google.com/uc?id=1KRN8bNJNlcWLpNqKbowXMdKWSnlcU9AX" alt="About me" height=150px title="About STATIC"></a>
+  <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><img src="https://drive.google.com/uc?id=1KRN8bNJNlcWLpNqKbowXMdKWSnlcU9AX" alt="About me" height=150px title="About STATIC!!"></a>
   <br>
   HAII!! I'm <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=STATIC&color=657cc2&fontSize=17&width=60" alt="Static" title="Hey, don't go clickin' on everythin' you see!"></a>!!
   <br>
   <b>IT/THEY</b> + <em><ins>any neos</ins></em> 〃 9TEEN (07/29)
   <br>
   <ins>Blasian</ins> 〃 <b><em>ADHD, AUTISM, </em></b><s>+ unlisted</s>
-  <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=FFFFFF&background=E62125&center=true&vCenter=true&width=435&lines=Open+the+throttle!;All+aboard%2C+the+promised+land!;Pillars+of+smoke+by+day!;Pillars+of+fire+by+night!;Pillars+of+progress!;Machines+to+make+machines!;Production+to+expand+production!" alt="Typing SVG" /></a>
+  <br><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=FFFFFF&background=E62125&center=true&vCenter=true&width=435&lines=Open+the+throttle!;All+aboard%2C+the+promised+land!;Pillars+of+smoke+by+day!;Pillars+of+fire+by+night!;Pillars+of+progress!;Machines+to+make+machines!;Production+to+expand+production!" alt="Open the throttle! All aboard the promised land! Pillars of smoke by day! Pillars of fire by night! Pillars of progress! Machines to make machines! Production to expand production!" title="Open the throttle! All aboard the promised land! Pillars of smoke by day! Pillars of fire by night! Pillars of progress! Machines to make machines! Production to expand production!" /></a>
 </p>
 
 <a href="https://jolleycomics.com/TPoH/Wardrobe/225"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="'Crooked Heart' was the hardest song to produce!"></a><br><br>
 
 <!--- DNI AND BYI -->
 <p align="center"> <!---dni-->
-  <a href="https://en.wikipedia.org/wiki/Hamsa"><img align="left" src="https://drive.google.com/uc?id=1YOO_jYLM6h_BKUmajt4xpu733plIiyum" alt="do not interact" title="Do Not Interact" width="200px"></a>
+  <a href="https://en.wikipedia.org/wiki/Hamsa"><img align="left" src="https://drive.google.com/uc?id=1YOO_jYLM6h_BKUmajt4xpu733plIiyum" alt="do not interact" title="Do Not Interact"></a>
   <table border="0" align="left">
     <caption>
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=E62125&background=FFFFFF&center=true&vCenter=true&repeat=false&width=611&lines=DO+NOT+INTERACT" alt="Typing SVG" /></a>
@@ -79,7 +79,7 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 <img align="center" src="https://drive.google.com/uc?id=1LeiCwOnCQEf_vr0eYeTG6wLgjIptZlvA" alt="divider" title="HEY WHAT ARE YOU LOOKIN AT!!1" width="900px" height="1px">
 
 <p align="center"> <!---byi-->
-  <a href="https://en.wikipedia.org/wiki/Hamsa"><img align="left" src="https://drive.google.com/uc?id=1UxHk6g2V880lN2ScEcHnXlLWbpLCBJU2" alt="before you interact" title="Before You Interact" width="200px"></a>
+  <a href="https://en.wikipedia.org/wiki/Hamsa"><img align="left" src="https://drive.google.com/uc?id=1UxHk6g2V880lN2ScEcHnXlLWbpLCBJU2" alt="before you interact" title="Before You Interact"></a>
   <table border="0" align="left">
     <caption>
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=04ABE9&background=FFFFFF&center=true&vCenter=true&repeat=false&width=611&lines=BEFORE+YOU+INTERACT" alt="Typing SVG" align="left" /></a><br>
@@ -97,9 +97,9 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 <br><a href="https://youtu.be/3Q2piNE_TWY?si=gnPXO5Xg4Jiaf4yn"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="'Tonight' is the first song from Exploitopia to have a music video!"></a><br><br>
 
 <!--- INTERESTS -->
-<a href="https://www.last.fm/user/lectricstat"><img src="https://lastfm-recently-played.vercel.app/api?user=lectricstat&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=657cc2" alt="Last FM Currently Playing - if you can see this, try refreshing..."></a>
 <p align="center">
-  <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=INTERESTS&color=808080&fontSize=24&width=126" alt="Interests" title="ahah.. i love.... many things.."></a>
+  <a href="https://youtu.be/3Q2piNE_TWY?si=gnPXO5Xg4Jiaf4yn"><img align="center" src="https://drive.google.com/uc?id=1Vwzd53laWBRzzXtj5T1wjSpuWY7wZPQN" height="150px" alt="My Interests" title="Static's Interests!!"></a>
+  <a href="https://www.last.fm/user/lectricstat"><img src="https://lastfm-recently-played.vercel.app/api?user=lectricstat&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=657cc2" alt="Last FM Currently Playing - if you can see this, try refreshing..."></a>
   <br>
   <ins>Key: <b>Bolded</b> + <em>Italics</em> = <b><em>Stuff I REALLY like</em></b></ins><br><br>
   <code><b>Special Interests</b></code><br>
@@ -122,14 +122,14 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
   <code><b>Other</b></code><br>
   Astronomy, <b><em>Old Web, Rhythm games</em></b>, Programming, Mathematics (Dynamical systems/Chaos Theory), Discordianism
 </p>
-
-<br><br>
-
+<br>
 <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=2000&pause=300&color=FFFFFF&background=02AAE8&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=112&lines=New+ways+of+living%2C+and+new+thinking;Have+laid+the+foundation;For+most+of+what+is+good+in+life+today;With+the+promise+of+more+tomorrow" alt="Typing SVG" /></a>
+  <br>
   <a href="https://jolleycomics.com/TPoH/Turnaround/555"><img src="https://drive.google.com/uc?id=1_Wvu9-ALc_z8fzNZX0NcPscn5wexihPa" alt="The House of Lead" title="IT'S GONNA BURN DOWN :((("></a>
 </div>
 
-<br><a href="https://en.wikipedia.org/wiki/That_Handsome_Devil#Discography"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="Exploitopia is That Handsome Devil's 11th album (including EPs)!"></a><br><br>
+<a href="https://en.wikipedia.org/wiki/That_Handsome_Devil#Discography"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="Exploitopia is That Handsome Devil's 11th album (including EPs)!"></a><br><br>
 
 <!--- GRAPHICS -->
 <p align="center">
