@@ -18,7 +18,8 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 <table border="15" align="center">
   <tr>
   <td>
-  <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><img src="https://drive.google.com/uc?id=1YhttyWlHZoVllz-_-IxHni7QLTmn1lX7" alt="Anxiety" height=150px title="That darned butterfly">
+  <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><img src="https://drive.google.com/uc?id=1YhttyWlHZoVllz-_-IxHni7QLTmn1lX7" alt="Anxiety" height=150px title="ro ta te..."></a>
+    <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><img src="https://drive.google.com/uc?id=1KRN8bNJNlcWLpNqKbowXMdKWSnlcU9AX" alt="Anxiety" height=150px title="ro ta te..."></a>
   <br>
     <br>
   </td>
