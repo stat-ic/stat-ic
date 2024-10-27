@@ -49,7 +49,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
         <td>
           <ins><b>NO EXCEPTION</b></ins>
         </td>
-        <td>
+        <td width="200px">
           <ins><b>WORST ONE</b></ins>
         </td>
       </tr>
