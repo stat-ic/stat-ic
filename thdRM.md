@@ -89,7 +89,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
   </table>
 </p>
 
-<br><a href="https://youtu.be/3Q2piNE_TWY?si=gnPXO5Xg4Jiaf4yn"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="'Tonight' is the first song from Exploitopia to have a music video!"></a><br><br>
+<br><a href="https://youtu.be/3Q2piNE_TWY?si=gnPXO5Xg4Jiaf4yn"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="'Tonight' is the first song from Exploitopia to have a music video!"></a><br>
 
 <!--- INTERESTS -->
 <p align="center">
@@ -187,11 +187,11 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
   <a href="https://thathandsomedevil.com/products/exploitopia-cd"><img src="https://drive.google.com/uc?id=1IL7b-6kPkvFGrjG7lwofpjIB5HRKG2mU" alt="Exploitopia CD" height=150px title="shmovin!!"></a>
 </div>
 
-<a href="https://en.wikipedia.org/wiki/That_Handsome_Devil#Discography"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="Exploitopia is That Handsome Devil's 11th album (including EPs)!"></a><br><br>
+<a href="https://en.wikipedia.org/wiki/That_Handsome_Devil#Discography"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="Exploitopia is That Handsome Devil's 11th album (including EPs)!"></a><br>
 
 <!--- GRAPHICS -->
 <p align="center">
-  <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=STAT'S+GRAPHICS+COLLECTION&color=808080&fontSize=24&width=355" alt="Stat's Graphics Collection" title="i am full of stamps, they're leaking out of me"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&duration=50&pause=1000&color=E62125&center=true&vCenter=true&repeat=false&width=435&height=30&lines=STAT'S+GRAPHICS+COLLECTION" alt="Stat's Graphics Collection" title="i am full of stamps, they're leaking out of me"></a>
   <br>
   Beware of flashing lights and bright colours!!
 </p>
