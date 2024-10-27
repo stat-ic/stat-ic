@@ -43,13 +43,13 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
     </caption>
     <thead align="center">
       <tr>
-        <td width="203px">
+        <td width="200px">
           <ins><b>Unless I do/Unless friends</b></ins>
         </td>
-        <td width="204px">
+        <td width="211px">
           <ins><b>NO EXCEPTION</b></ins>
         </td>
-        <td width="203px">
+        <td width="200px">
           <ins><b>WORST ONE</b></ins>
         </td>
       </tr>
