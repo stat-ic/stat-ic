@@ -41,7 +41,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
     <caption>
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=E62125&background=FFFFFF&center=true&vCenter=true&repeat=false&width=611&lines=DO+NOT+INTERACT" alt="Do not interact" title="DO NOT INTERACT" /></a>
     </caption>
-    <tr align="center">
+    <tr align="center" width="611px">
       <th>
         <ins><b>Unless I do/Unless friends</b></ins>
       </th>
@@ -52,7 +52,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
         <ins><b>WORST ONE</b></ins>
       </th>
     </tr>
-    <tr align="center">
+    <tr align="center" width="611px">
       <td> <!--- uid/uf -->
         <code>Under 16 Y.O.</code>
       </td>
