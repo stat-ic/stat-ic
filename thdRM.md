@@ -1,6 +1,7 @@
-DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
-
-<!--- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=7000&pause=100&color=923999&width=435&lines=maido+domaido!!+(%E1%B5%94%E2%A9%8A%E1%B5%94);shoutout+2+remimart+;please+remember+2+sign+my+atabook!) -->
+<!---This file uses code from:
+https://github.com/DenverCoder1/readme-typing-svg - For the typing svg that mainly types out lyrics
+https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md - For the last.fm widget at the end
+-->
 
 <!--- HEADER -->
 <div align="center">
