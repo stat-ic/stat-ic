@@ -21,9 +21,9 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 
 <!--- ABOUT ME -->
 <p align="center">
-  <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><img src="https://drive.google.com/uc?id=1KRN8bNJNlcWLpNqKbowXMdKWSnlcU9AX" alt="About me" height=150px title="About STATIC!!"></a>
+  <img src="https://drive.google.com/uc?id=1KRN8bNJNlcWLpNqKbowXMdKWSnlcU9AX" alt="About me" height=150px title="About STATIC!!">
   <br>
-  HAII!! I'm <a href="https://github.com/yagiziskirik/Github-Colored-Text/"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=STATIC&color=657cc2&fontSize=17&width=60" alt="Static" title="Hey, don't go clickin' on everythin' you see!"></a>!!
+  HAII!! I'm <a href="https://en.wikipedia.org/wiki/Pepsi_fruit_juice_flood"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=17&duration=10&pause=300&color=E62125&center=true&vCenter=true&multiline=true&repeat=false&width=60&height=26&lines=STATIC" alt="Static" title="heyyy!! don't poke me!!!" /></a>!!
   <br>
   <b>IT/THEY</b> + <em><ins>any neos</ins></em> 〃 9TEEN (07/29)
   <br>
@@ -39,40 +39,36 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
   <a href="https://en.wikipedia.org/wiki/Hamsa"><img align="left" src="https://drive.google.com/uc?id=1YOO_jYLM6h_BKUmajt4xpu733plIiyum" alt="do not interact" title="Do Not Interact"></a>
   <table border="0" align="left">
     <caption>
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=E62125&background=FFFFFF&center=true&vCenter=true&repeat=false&width=611&lines=DO+NOT+INTERACT" alt="Typing SVG" /></a>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=E62125&background=FFFFFF&center=true&vCenter=true&repeat=false&width=611&lines=DO+NOT+INTERACT" alt="Do not interact" title="DO NOT INTERACT" /></a>
     </caption>
-    <thead>
-      <tr>
-        <th>
-          <ins><b>Unless I do/Unless friends</b></ins>
-        </th>
-        <th>
-          <ins><b>NO EXCEPTION</b></ins>
-        </th>
-        <th>
-          <ins><b>WORST ONE</b></ins>
-        </th>
-      </tr>
-    </thead>
-    <tbody align="center">
-      <tr> 
-        <td> <!--- uid/uf -->
-          Under 16 Y.O.
-        </td>
-        <td> <!--- no exception -->
-          <code>Nazi/USSR skins</code><br>
-          <code>Believe "blackwashing" is real</code><br>
-          <code>Real people shippers</code><br>
-          <code>Proshippers</code><br>
-          <code>Zionists/Israel supporters</code><br>
-          <code>Endo/Demo systems</code><br>
-          <code>Mental illness/Disability fakers</code>
-        </td>
-        <td> <!--- bitch -->
-          <a href="https://github.com/Vexuliii"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=Vexulii+/j&color=E67935&fontSize=17&width=64&height=21" alt="Vexulii /j" title="squashed like a particularly strange bug"></a>
-        </td>
-      </tr>
-    </tbody>
+    <tr align="center">
+      <th>
+        <ins><b>Unless I do/Unless friends</b></ins>
+      </th>
+      <th>
+        <ins><b>NO EXCEPTION</b></ins>
+      </th>
+      <th>
+        <ins><b>WORST ONE</b></ins>
+      </th>
+    </tr>
+    <tr align="center">
+      <td> <!--- uid/uf -->
+        <code>Under 16 Y.O.</code>
+      </td>
+      <td> <!--- no exception -->
+        <code>Nazi/USSR skins</code><br>
+        <code>Believe "blackwashing" is real</code><br>
+        <code>Real people shippers</code><br>
+        <code>Proshippers</code><br>
+        <code>Zionists/Israel supporters</code><br>
+        <code>Endo/Demo systems</code><br>
+        <code>Mental illness/Disability fakers</code>
+      </td>
+      <td> <!--- bitch -->
+        <a href="https://github.com/Vexuliii"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=Vexulii+/j&color=E67935&fontSize=17&width=64&height=21" alt="Vexulii /j" title="squashed like a particularly strange bug"></a>
+      </td>
+    </tr>
   </table>
 </p>
 <img align="center" src="https://drive.google.com/uc?id=1LeiCwOnCQEf_vr0eYeTG6wLgjIptZlvA" alt="divider" title="HEY WHAT ARE YOU LOOKIN AT!!1" width="900px" height="1px">
@@ -80,7 +76,7 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
   <a href="https://en.wikipedia.org/wiki/Hamsa"><img align="left" src="https://drive.google.com/uc?id=1UxHk6g2V880lN2ScEcHnXlLWbpLCBJU2" alt="before you interact" title="Before You Interact"></a>
   <table border="0" align="left">
     <caption>
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=04ABE9&background=FFFFFF&center=true&vCenter=true&repeat=false&width=611&lines=BEFORE+YOU+INTERACT" alt="Typing SVG" align="left" /></a><br>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=04ABE9&background=FFFFFF&center=true&vCenter=true&repeat=false&width=611&lines=BEFORE+YOU+INTERACT" alt="Before you interact" title="BEFORE YOU INTERACT" align="left" /></a><br>
     </caption>
     <thead align="center">
       <tr> 
@@ -183,9 +179,11 @@ DONTN LOOK DONT LOOK AT THIS GET OUTTTTT
 <div align="center">
   <a href="https://www.last.fm/user/lectricstat"><img src="https://lastfm-recently-played.vercel.app/api?user=lectricstat&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=02AAE8" alt="Last FM Currently Playing - if you can see this, try refreshing..."></a>
   <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=2000&pause=300&color=FFFFFF&background=02AAE8&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=112&lines=New+ways+of+living%2C+and+new+thinking;Have+laid+the+foundation;For+most+of+what+is+good+in+life+today;With+the+promise+of+more+tomorrow" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=2000&pause=300&color=FFFFFF&background=02AAE8&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=112&lines=New+ways+of+living%2C+and+new+thinking;Have+laid+the+foundation;For+most+of+what+is+good+in+life+today;With+the+promise+of+more+tomorrow" alt="New ways of living, and new thinking, have laid the foundation for most of what is good in life today, with the promise of more tomorrow." title="New ways of living, and new thinking, have laid the foundation for most of what is good in life today, with the promise of more tomorrow." /></a>
   <br>
-  <a href="https://jolleycomics.com/TPoH/Turnaround/555"><img src="https://drive.google.com/uc?id=1_Wvu9-ALc_z8fzNZX0NcPscn5wexihPa" alt="The House of Lead" title="IT'S GONNA BURN DOWN :((("></a>
+  <a href="https://thathandsomedevil.com/products/exploitopia-cd"><img src="https://drive.google.com/uc?id=1IL7b-6kPkvFGrjG7lwofpjIB5HRKG2mU" alt="Exploitopia CD" height=150px title="shmovin!!"></a>
+  <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT"><img src="https://drive.google.com/uc?id=1_Wvu9-ALc_z8fzNZX0NcPscn5wexihPa" alt="That Handsome Devil logo" title="I've been waiting for this album for so damn long I'M SO HAPPY!!!!"></a>
+  <a href="https://thathandsomedevil.com/products/exploitopia-cd"><img src="https://drive.google.com/uc?id=1IL7b-6kPkvFGrjG7lwofpjIB5HRKG2mU" alt="Exploitopia CD" height=150px title="shmovin!!"></a>
 </div>
 
 <a href="https://en.wikipedia.org/wiki/That_Handsome_Devil#Discography"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="Exploitopia is That Handsome Devil's 11th album (including EPs)!"></a><br><br>
