@@ -54,7 +54,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
         </td>
       </tr>
     </thead>
-    <tbody align="center">
+    <tbody align="center" width="611px">
       <tr>
         <td> <!--- uid/uf -->
           <code>Under 16 Y.O.</code>
