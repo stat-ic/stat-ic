@@ -22,7 +22,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
 
 <!--- ABOUT ME -->
 <p align="center">
-  <img src="https://drive.google.com/uc?id=1KRN8bNJNlcWLpNqKbowXMdKWSnlcU9AX" alt="About me" height=150px title="About STATIC!!">
+  <a href="https://youtu.be/Chj-RZg6do4?si=L_lT1MX5Xdw72M0U"><img src="https://drive.google.com/uc?id=1KRN8bNJNlcWLpNqKbowXMdKWSnlcU9AX" alt="About me" height=150px title="About STATIC!!"></a>
   <br>
   HAII!! I'm <a href="https://en.wikipedia.org/wiki/Pepsi_fruit_juice_flood"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=17&duration=10&pause=300&color=E62125&center=true&vCenter=true&multiline=true&repeat=false&width=60&height=26&lines=STATIC" alt="Static" title="heyyy!! don't poke me!!!" /></a>!!
   <br>
@@ -33,7 +33,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=FFFFFF&background=E62125&center=true&vCenter=true&width=435&lines=Open+the+throttle!;All+aboard%2C+the+promised+land!;Pillars+of+smoke+by+day!;Pillars+of+fire+by+night!;Pillars+of+progress!;Machines+to+make+machines!;Production+to+expand+production!" alt="Open the throttle! All aboard the promised land! Pillars of smoke by day! Pillars of fire by night! Pillars of progress! Machines to make machines! Production to expand production!" title="Open the throttle! All aboard the promised land! Pillars of smoke by day! Pillars of fire by night! Pillars of progress! Machines to make machines! Production to expand production!" /></a>
 </p>
 
-<a href="https://jolleycomics.com/TPoH/Wardrobe/225"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="'Crooked Heart' was the hardest song to produce!"></a><br><br>
+<a href="https://youtu.be/R9HBtB3CBVA?si=SrDNa0JavIphFIRn"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="'Crooked Heart' was the hardest song to produce!"></a><br><br>
 
 <!--- DNI AND BYI -->
 <p align="center"> <!---dni-->
@@ -93,7 +93,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
 
 <!--- INTERESTS -->
 <p align="center">
-  <a href="https://youtu.be/3Q2piNE_TWY?si=gnPXO5Xg4Jiaf4yn"><img align="center" src="https://drive.google.com/uc?id=1Vwzd53laWBRzzXtj5T1wjSpuWY7wZPQN" height="150px" alt="My Interests" title="STATIC's Interests!!" ></a>
+  <a href="https://youtu.be/903vHpZofd8?si=6dGoADak0s_jqXjE"><img align="center" src="https://drive.google.com/uc?id=1Vwzd53laWBRzzXtj5T1wjSpuWY7wZPQN" height="150px" alt="My Interests" title="STATIC's Interests!!" ></a>
   <br>
   <ins>Key: <b>Bolded</b> + <em>Italics</em> = <b><em>Stuff I REALLY like</em></b></ins><br><br>
   <code><b>Special Interests</b></code><br>
