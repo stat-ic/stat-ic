@@ -42,14 +42,14 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=E62125&background=FFFFFF&center=true&vCenter=true&repeat=false&width=611&lines=DO+NOT+INTERACT" alt="Do not interact" title="DO NOT INTERACT" align="left" /></a><br>
     </caption>
     <thead align="center">
-      <tr width="611px">
-        <td>
+      <tr>
+        <td width="203px">
           <ins><b>Unless I do/Unless friends</b></ins>
         </td>
-        <td>
+        <td width="204px">
           <ins><b>NO EXCEPTION</b></ins>
         </td>
-        <td width="200px">
+        <td width="203px">
           <ins><b>WORST ONE</b></ins>
         </td>
       </tr>
