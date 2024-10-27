@@ -39,36 +39,40 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
   <a href="https://en.wikipedia.org/wiki/Hamsa"><img align="left" src="https://drive.google.com/uc?id=1YOO_jYLM6h_BKUmajt4xpu733plIiyum" alt="do not interact" title="Do Not Interact"></a>
   <table border="0" align="left">
     <caption>
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=E62125&background=FFFFFF&center=true&vCenter=true&repeat=false&width=611&lines=DO+NOT+INTERACT" alt="Do not interact" title="DO NOT INTERACT" /></a>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=E62125&background=FFFFFF&center=true&vCenter=true&repeat=false&width=611&lines=DO+NOT+INTERACT" alt="Do not interact" title="DO NOT INTERACT" align="left" /></a><br>
     </caption>
-    <tr align="center" width="611px">
-      <th>
-        <ins><b>Unless I do/Unless friends</b></ins>
-      </th>
-      <th>
-        <ins><b>NO EXCEPTION</b></ins>
-      </th>
-      <th>
-        <ins><b>WORST ONE</b></ins>
-      </th>
-    </tr>
-    <tr align="center" width="611px">
-      <td> <!--- uid/uf -->
-        <code>Under 16 Y.O.</code>
-      </td>
-      <td> <!--- no exception -->
-        <code>Nazi/USSR skins</code><br>
-        <code>Believe "blackwashing" is real</code><br>
-        <code>Real people shippers</code><br>
-        <code>Proshippers</code><br>
-        <code>Zionists/Israel supporters</code><br>
-        <code>Endo/Demo systems</code><br>
-        <code>Mental illness/Disability fakers</code>
-      </td>
-      <td> <!--- bitch -->
-        <a href="https://github.com/Vexuliii"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=Vexulii+/j&color=E67935&fontSize=17&width=64&height=21" alt="Vexulii /j" title="squashed like a particularly strange bug"></a>
-      </td>
-    </tr>
+    <thead align="center">
+      <tr width="611px">
+        <td>
+          <ins><b>Unless I do/Unless friends</b></ins>
+        </td>
+        <td>
+          <ins><b>NO EXCEPTION</b></ins>
+        </td>
+        <td>
+          <ins><b>WORST ONE</b></ins>
+        </td>
+      </tr>
+    </thead>
+    <tbody align="center">
+      <tr>
+        <td> <!--- uid/uf -->
+          <code>Under 16 Y.O.</code>
+        </td>
+        <td> <!--- no exception -->
+          <code>Nazi/USSR skins</code><br>
+          <code>Believe "blackwashing" is real</code><br>
+          <code>Real people shippers</code><br>
+          <code>Proshippers</code><br>
+          <code>Zionists/Israel supporters</code><br>
+          <code>Endo/Demo systems</code><br>
+          <code>Mental illness/Disability fakers</code>
+        </td>
+        <td> <!--- bitch -->
+          <a href="https://github.com/Vexuliii"><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=Vexulii+/j&color=E67935&fontSize=17&width=64&height=21" alt="Vexulii /j" title="squashed like a particularly strange bug"></a>
+        </td>
+      </tr>
+    </tbody>
   </table>
 </p>
 <img align="center" src="https://drive.google.com/uc?id=1LeiCwOnCQEf_vr0eYeTG6wLgjIptZlvA" alt="divider" title="HEY WHAT ARE YOU LOOKIN AT!!1" width="900px" height="1px">
