@@ -14,7 +14,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
   <br>
   <code><b>This Readme is based on the album <a href="https://open.spotify.com/album/6dyanjhuSgFsPPVtFzugcr">Exploitopia</a> by <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT">That Handsome Devil</a>!</b></code>
   <br>
-  <code><b>LAST UPDATED: 10/26/2024</b></code>
+  <code><b>LAST UPDATED: 10/27/2024</b></code>
 </div>
 
 <br><a href="https://www.instagram.com/thathandsomedevilofficial/reel/DBjVbUxxDOD/"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="Exploitopia was released on October 25th, 2024!"></a><br>
@@ -186,7 +186,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=2000&pause=300&color=FFFFFF&background=02AAE8&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=112&lines=New+ways+of+living%2C+and+new+thinking;Have+laid+the+foundation;For+most+of+what+is+good+in+life+today;With+the+promise+of+more+tomorrow" alt="New ways of living, and new thinking, have laid the foundation for most of what is good in life today, with the promise of more tomorrow." title="New ways of living, and new thinking, have laid the foundation for most of what is good in life today, with the promise of more tomorrow." /></a>
   <br>
   <a href="https://thathandsomedevil.com/products/exploitopia-cd"><img src="https://drive.google.com/uc?id=1IL7b-6kPkvFGrjG7lwofpjIB5HRKG2mU" alt="Exploitopia CD" height=150px title="shmovin!!"></a>
-  <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT"><img src="https://drive.google.com/uc?id=1_Wvu9-ALc_z8fzNZX0NcPscn5wexihPa" alt="That Handsome Devil logo" title="I've been waiting for this album for so damn long I'M SO HAPPY!!!!"></a>
+  <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT"><img src="https://drive.google.com/uc?id=1_Wvu9-ALc_z8fzNZX0NcPscn5wexihPa" alt="That Handsome Devil logo" title="I've been waiting for this album for so damn long I'M SO HAPPY!!!!" height="190px"></a>
   <a href="https://thathandsomedevil.com/products/exploitopia-cd"><img src="https://drive.google.com/uc?id=1IL7b-6kPkvFGrjG7lwofpjIB5HRKG2mU" alt="Exploitopia CD" height=150px title="shmovin!!"></a>
 </div>
 
