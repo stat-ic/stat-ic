@@ -6,9 +6,9 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=E62125&amp;style=for-the-badge&amp;label=Modern+Deities" alt="view count" title="Put on your 3D glasses!">
   <br>
-  <a href="https://thathandsomedevil.com/products/exploitopia-cd"><img src="https://drive.google.com/uc?id=1YhttyWlHZoVllz-_-IxHni7QLTmn1lX7" alt="Exploitopia CD" height=150px title="ro ta te..."></a>
+  <a href="https://thathandsomedevil.com/products/exploitopia-cd"><img src="https://drive.google.com/uc?id=1YhttyWlHZoVllz-_-IxHni7QLTmn1lX7" alt="Exploitopia CD" height=100px title="ro ta te..."></a>
   <a href="https://open.spotify.com/album/6dyanjhuSgFsPPVtFzugcr"><img src="https://drive.google.com/uc?id=1K8Bg_VJSTUTdVOMkJy9aPHIR1Gjclnba" alt="EXPLOITOPIA" height=200px title="Now in 3 Dimensions!"></a>
-  <a href="https://thathandsomedevil.com/products/exploitopia-cd"><img src="https://drive.google.com/uc?id=1YhttyWlHZoVllz-_-IxHni7QLTmn1lX7" alt="Exploitopia CD" height=150px title="ro ta te..."></a>
+  <a href="https://thathandsomedevil.com/products/exploitopia-cd"><img src="https://drive.google.com/uc?id=1YhttyWlHZoVllz-_-IxHni7QLTmn1lX7" alt="Exploitopia CD" height=100px title="ro ta te..."></a>
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=2000&pause=300&color=FFFFFF&background=02AAE8&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=112&lines=A+new+world+is+constantly+opening+before+us;At+an+ever-accelerating+rate+of+progress;Let's+travel+into+the+future;+What+will+we+see%3F" alt="A new world is constantly opening before us, at an ever-accelerating rate of progress. Let's travel into the future. What will we see?" title="A new world is constantly opening before us, at an ever-accelerating rate of progress. Let's travel into the future. What will we see?" /></a>
   <br>
@@ -185,9 +185,9 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=2000&pause=300&color=FFFFFF&background=02AAE8&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=112&lines=New+ways+of+living%2C+and+new+thinking;Have+laid+the+foundation;For+most+of+what+is+good+in+life+today;With+the+promise+of+more+tomorrow" alt="New ways of living, and new thinking, have laid the foundation for most of what is good in life today, with the promise of more tomorrow." title="New ways of living, and new thinking, have laid the foundation for most of what is good in life today, with the promise of more tomorrow." /></a>
   <br>
-  <a href="https://thathandsomedevil.com/products/exploitopia-cd"><img src="https://drive.google.com/uc?id=1IL7b-6kPkvFGrjG7lwofpjIB5HRKG2mU" alt="Exploitopia CD" height=150px title="shmovin!!"></a>
+  <a href="https://thathandsomedevil.com/products/exploitopia-cd"><img src="https://drive.google.com/uc?id=1IL7b-6kPkvFGrjG7lwofpjIB5HRKG2mU" alt="Exploitopia CD" height=100px title="shmovin!!"></a>
   <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT"><img src="https://drive.google.com/uc?id=1_Wvu9-ALc_z8fzNZX0NcPscn5wexihPa" alt="That Handsome Devil logo" title="I've been waiting for this album for so damn long I'M SO HAPPY!!!!" height="190px"></a>
-  <a href="https://thathandsomedevil.com/products/exploitopia-cd"><img src="https://drive.google.com/uc?id=1IL7b-6kPkvFGrjG7lwofpjIB5HRKG2mU" alt="Exploitopia CD" height=150px title="shmovin!!"></a>
+  <a href="https://thathandsomedevil.com/products/exploitopia-cd"><img src="https://drive.google.com/uc?id=1IL7b-6kPkvFGrjG7lwofpjIB5HRKG2mU" alt="Exploitopia CD" height=100px title="shmovin!!"></a>
 </div>
 
 <a href="https://en.wikipedia.org/wiki/That_Handsome_Devil#Discography"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="Exploitopia is That Handsome Devil's 11th album (including EPs)!"></a><br>
