@@ -126,6 +126,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
     <td> <!---Music-->
       <b><em>* Godforbid<br>
       * Princess Problems<br>
+      * Alaskan Fishermen<br>
       * Will Wood<br>
       * Jhariah<br>
       * Oingo Boingo<br>
