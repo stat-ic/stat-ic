@@ -14,7 +14,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
   <br>
   <code><b>This Readme is based on the album <a href="https://open.spotify.com/album/6dyanjhuSgFsPPVtFzugcr">Exploitopia</a> by <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT">That Handsome Devil</a>!</b></code>
   <br>
-  <code><b>LAST UPDATED: 10/27/2024</b></code>
+  <code><b>LAST UPDATED: 10/29/2024</b></code>
 </div>
 
 <br><a href="https://www.instagram.com/thathandsomedevilofficial/reel/DBjVbUxxDOD/"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="Exploitopia was released on October 25th, 2024!"></a><br>
@@ -29,7 +29,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
   <br>
   <ins>Blasian</ins> 〃 <b><em>ADHD, AUTISM, </em></b><s>+ unlisted</s>
   <br><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=FFFFFF&background=E62125&center=true&vCenter=true&width=435&lines=Open+the+throttle!;All+aboard%2C+the+promised+land!;Pillars+of+smoke+by+day!;Pillars+of+fire+by+night!;Pillars+of+progress!;Machines+to+make+machines!;Production+to+expand+production!" alt="Open the throttle! All aboard the promised land! Pillars of smoke by day! Pillars of fire by night! Pillars of progress! Machines to make machines! Production to expand production!" title="Open the throttle! All aboard the promised land! Pillars of smoke by day! Pillars of fire by night! Pillars of progress! Machines to make machines! Production to expand production!" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=FFFFFF&background=E62125&center=true&vCenter=true&width=435&lines=Open+the+throttle!;All+aboard%2C+the+promised+land!;Pillars+of+smoke+by+day!;Pillars+of+fire+by+night!;Machines+to+make+machines!;Production+to+expand+production!" alt="Open the throttle! All aboard the promised land! Pillars of smoke by day! Pillars of fire by night! Machines to make machines! Production to expand production!" title="Open the throttle! All aboard the promised land! Pillars of smoke by day! Pillars of fire by night! Pillars of progress! Machines to make machines! Production to expand production!" /></a>
 </p>
 
 <a href="https://youtu.be/R9HBtB3CBVA?si=SrDNa0JavIphFIRn"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="'Crooked Heart' was the hardest song to produce!"></a><br><br>
@@ -182,7 +182,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
 </p>
 <br>
 <div align="center">
-  <a href="https://www.last.fm/user/lectricstat"><img src="https://lastfm-recently-played.vercel.app/api?user=lectricstat&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=02AAE8" alt="Last FM Currently Playing - if you can see this, try refreshing..."></a>
+  <a href="https://www.last.fm/user/lectricstat"><img src="https://lastfm-recently-played.vercel.app/api?user=lectricstat&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=02AAE8" title="Hmmm.... wonder who my top artist is...." alt="Last FM Currently Playing - if you can see this, try refreshing..."></a>
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=2000&pause=300&color=FFFFFF&background=02AAE8&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=112&lines=New+ways+of+living%2C+and+new+thinking;Have+laid+the+foundation;For+most+of+what+is+good+in+life+today;With+the+promise+of+more+tomorrow" alt="New ways of living, and new thinking, have laid the foundation for most of what is good in life today, with the promise of more tomorrow." title="New ways of living, and new thinking, have laid the foundation for most of what is good in life today, with the promise of more tomorrow." /></a>
   <br>
