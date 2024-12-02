@@ -21,7 +21,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
 
 <!--- ABOUT ME -->
 <p align="center">
-  <a href="https://youtu.be/Chj-RZg6do4?si=L_lT1MX5Xdw72M0U"><img src="https://drive.google.com/uc?id=1KRN8bNJNlcWLpNqKbowXMdKWSnlcU9AX" alt="About me" height=150px title="About STATIC!!"></a>
+  <a href="https://web.archive.org/web/20230321084125/https://www.youtube.com/watch?v=903vHpZofd8"><img src="https://drive.google.com/uc?id=1KRN8bNJNlcWLpNqKbowXMdKWSnlcU9AX" alt="About me" height=150px title="About STATIC!!"></a>
   <br>
   HAII!! I'm <a href="https://en.wikipedia.org/wiki/Pepsi_fruit_juice_flood"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=17&duration=10&pause=300&color=E62125&center=true&vCenter=true&multiline=true&repeat=false&width=60&height=26&lines=STATIC" alt="Static" title="heyyy!! don't poke me!!!" /></a>!!
   <br>
@@ -96,7 +96,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
 
 <!--- INTERESTS -->
 <p align="center">
-  <a href="https://youtu.be/903vHpZofd8?si=6dGoADak0s_jqXjE"><img align="center" src="https://drive.google.com/uc?id=1Vwzd53laWBRzzXtj5T1wjSpuWY7wZPQN" height="150px" alt="My Interests" title="STATIC's Interests!!" ></a>
+  <a href="https://web.archive.org/web/20241002082148/https://www.youtube.com/watch?v=Chj-RZg6do4"><img align="center" src="https://drive.google.com/uc?id=1Vwzd53laWBRzzXtj5T1wjSpuWY7wZPQN" height="150px" alt="My Interests" title="STATIC's Interests!!" ></a>
   <br>
   <ins>Key: <b>Bolded</b> + <em>Italics</em> = <b><em>Stuff I REALLY like</em></b></ins><br><br>
   <code><b>Special Interests</b></code><br>
