@@ -191,7 +191,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
   <a href="https://thathandsomedevil.com/products/exploitopia-cd"><img src="https://drive.google.com/uc?id=1IL7b-6kPkvFGrjG7lwofpjIB5HRKG2mU" alt="Exploitopia CD" height=100px title="shmovin!!"></a>
 </div>
 
-<a href="https://en.wikipedia.org/wiki/That_Handsome_Devil#Discography"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="Exploitopia is That Handsome Devil's 11th album (including EPs)!"></a><br>
+<a href="https://en.wikipedia.org/wiki/That_Handsome_Devil#Discography"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="Exploitopia is That Handsome Devil's 10th album (including EPs)!"></a><br>
 
 <!--- GRAPHICS -->
 <p align="center">
