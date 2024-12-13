@@ -14,7 +14,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
   <br>
   <code><b>This Readme is based on the album <a href="https://open.spotify.com/album/6dyanjhuSgFsPPVtFzugcr">Exploitopia</a> by <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT">That Handsome Devil</a>!</b></code>
   <br>
-  <code><b>LAST UPDATED: 10/29/2024</b></code>
+  <code><b>LAST UPDATED: 12/13/2024</b></code>
 </div>
 
 <br><a href="https://www.instagram.com/thathandsomedevilofficial/reel/DBjVbUxxDOD/"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="Exploitopia was released on October 25th, 2024!"></a><br>
