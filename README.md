@@ -10,7 +10,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
   <a href="https://open.spotify.com/album/6dyanjhuSgFsPPVtFzugcr"><img src="https://drive.google.com/uc?id=1K8Bg_VJSTUTdVOMkJy9aPHIR1Gjclnba" alt="EXPLOITOPIA" height=200px title="Now in 3 Dimensions!"></a>
   <a href="https://thathandsomedevil.com/products/exploitopia-cd"><img src="https://drive.google.com/uc?id=1YhttyWlHZoVllz-_-IxHni7QLTmn1lX7" alt="Exploitopia CD" height=100px title="ro ta te..."></a>
   <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=2000&pause=300&color=FFFFFF&background=02AAE8&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=112&lines=A+new+world+is+constantly+opening+before+us;At+an+ever-accelerating+rate+of+progress;Let's+travel+into+the+future;+What+will+we+see%3F" alt="A new world is constantly opening before us, at an ever-accelerating rate of progress. Let's travel into the future. What will we see?" title="A new world is constantly opening before us, at an ever-accelerating rate of progress. Let's travel into the future. What will we see?" /></a>
+  <a href="https://youtu.be/43nIDwAiTp8?si=V9C3PaIMKBOSWu5p"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=2000&pause=300&color=FFFFFF&background=02AAE8&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=112&lines=A+new+world+is+constantly+opening+before+us;At+an+ever-accelerating+rate+of+progress;Let's+travel+into+the+future;+What+will+we+see%3F" alt="A new world is constantly opening before us, at an ever-accelerating rate of progress. Let's travel into the future. What will we see?" title="A new world is constantly opening before us, at an ever-accelerating rate of progress. Let's travel into the future. What will we see?" /></a>
   <br>
   <code><b>This Readme is based on the album <a href="https://open.spotify.com/album/6dyanjhuSgFsPPVtFzugcr">Exploitopia</a> by <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT">That Handsome Devil</a>!</b></code>
   <br>
@@ -29,7 +29,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
   <br>
   <ins>Blasian</ins> 〃 <b><em>ADHD, AUTISM, </em></b><s>+ unlisted</s>
   <br><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=FFFFFF&background=E62125&center=true&vCenter=true&width=435&lines=Open+the+throttle!;All+aboard%2C+the+promised+land!;Pillars+of+smoke+by+day!;Pillars+of+fire+by+night!;Machines+to+make+machines!;Production+to+expand+production!" alt="Open the throttle! All aboard the promised land! Pillars of smoke by day! Pillars of fire by night! Machines to make machines! Production to expand production!" title="Open the throttle! All aboard the promised land! Pillars of smoke by day! Pillars of fire by night! Machines to make machines! Production to expand production!" /></a>
+  <a href="https://youtu.be/mrRe2qRCDpQ?si=b8G2kBNMPwXB9qXj"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=FFFFFF&background=E62125&center=true&vCenter=true&width=435&lines=Open+the+throttle!;All+aboard%2C+the+promised+land!;Pillars+of+smoke+by+day!;Pillars+of+fire+by+night!;Machines+to+make+machines!;Production+to+expand+production!" alt="Open the throttle! All aboard the promised land! Pillars of smoke by day! Pillars of fire by night! Machines to make machines! Production to expand production!" title="Open the throttle! All aboard the promised land! Pillars of smoke by day! Pillars of fire by night! Machines to make machines! Production to expand production!" /></a>
 </p>
 
 <a href="https://youtu.be/R9HBtB3CBVA?si=SrDNa0JavIphFIRn"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="'Crooked Heart' was the hardest song to produce!"></a><br><br>
@@ -39,7 +39,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
   <a href="https://en.wikipedia.org/wiki/Hamsa"><img align="left" src="https://drive.google.com/uc?id=1YOO_jYLM6h_BKUmajt4xpu733plIiyum" alt="do not interact" title="Do Not Interact"></a>
   <table border="0" align="left">
     <caption>
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=E62125&background=FFFFFF&center=true&vCenter=true&repeat=false&width=611&lines=DO+NOT+INTERACT" alt="Do not interact" title="DO NOT INTERACT" align="left" /></a><br>
+     <a href="https://www.instagram.com/p/BhB_HLuBf6i/?utm_source=ig_share_sheet&epik=dj0yJnU9anQ2dDc0dHJJVjlueHFFcV8tME51alNYNThTblJNeGEmcD0wJm49UVR6MmFOVkctLV9TVDhVTG4tMjg5USZ0PUFBQUFBR2RienhJ"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=E62125&center=true&vCenter=true&repeat=false&width=611&lines=DO+NOT+INTERACT" alt="Do not interact" title="DO NOT INTERACT" align="left" /></a><br>
     </caption>
     <thead align="center">
       <tr>
@@ -80,7 +80,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
   <a href="https://en.wikipedia.org/wiki/Hamsa"><img align="left" src="https://drive.google.com/uc?id=1UxHk6g2V880lN2ScEcHnXlLWbpLCBJU2" alt="before you interact" title="Before You Interact"></a>
   <table border="0" align="left">
     <caption>
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=04ABE9&background=FFFFFF&center=true&vCenter=true&repeat=false&width=611&lines=BEFORE+YOU+INTERACT" alt="Before you interact" title="BEFORE YOU INTERACT" align="left" /></a><br>
+     <a href="https://www.instagram.com/p/B8jW132F8mH/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=04ABE9&center=true&vCenter=true&repeat=false&width=611&lines=BEFORE+YOU+INTERACT" alt="Before you interact" title="BEFORE YOU INTERACT" align="left" /></a><br>
     </caption>
     <thead align="center">
       <tr> 
@@ -184,7 +184,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
 <div align="center">
   <a href="https://www.last.fm/user/lectricstat"><img src="https://lastfm-recently-played.vercel.app/api?user=lectricstat&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=02AAE8" title="Hmmm.... wonder who my top artist is...." alt="Last FM Currently Playing - if you can see this, try refreshing..."></a>
   <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=2000&pause=300&color=FFFFFF&background=02AAE8&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=112&lines=New+ways+of+living%2C+and+new+thinking;Have+laid+the+foundation;For+most+of+what+is+good+in+life+today;With+the+promise+of+more+tomorrow" alt="New ways of living, and new thinking, have laid the foundation for most of what is good in life today, with the promise of more tomorrow." title="New ways of living, and new thinking, have laid the foundation for most of what is good in life today, with the promise of more tomorrow." /></a>
+  <a href="https://youtu.be/WemDEG5slzo?si=CIlUZwNbxqN3vr0M"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=2000&pause=300&color=FFFFFF&background=02AAE8&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=112&lines=New+ways+of+living%2C+and+new+thinking;Have+laid+the+foundation;For+most+of+what+is+good+in+life+today;With+the+promise+of+more+tomorrow" alt="New ways of living, and new thinking, have laid the foundation for most of what is good in life today, with the promise of more tomorrow." title="New ways of living, and new thinking, have laid the foundation for most of what is good in life today, with the promise of more tomorrow." /></a>
   <br>
   <a href="https://thathandsomedevil.com/products/exploitopia-cd"><img src="https://drive.google.com/uc?id=1IL7b-6kPkvFGrjG7lwofpjIB5HRKG2mU" alt="Exploitopia CD" height=100px title="shmovin!!"></a>
   <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT"><img src="https://drive.google.com/uc?id=1_Wvu9-ALc_z8fzNZX0NcPscn5wexihPa" alt="That Handsome Devil logo" title="I've been waiting for this album for so damn long I'M SO HAPPY!!!!" height="190px"></a>
@@ -195,7 +195,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
 
 <!--- GRAPHICS -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&duration=50&pause=1000&color=E62125&center=true&vCenter=true&repeat=false&width=435&height=30&lines=STAT'S+GRAPHICS+COLLECTION" alt="Stat's Graphics Collection" title="i am full of stamps, they're leaking out of me"></a>
+  <a href="https://en.wikipedia.org/wiki/Chaos_theory"><img src="https://readme-typing-svg.demolab.com?font=Chivo&duration=50&pause=1000&color=E62125&center=true&vCenter=true&repeat=false&width=435&height=30&lines=STAT'S+GRAPHICS+COLLECTION" alt="Stat's Graphics Collection" title="i am full of stamps, they're leaking out of me"></a>
   <br>
   Beware of flashing lights and bright colours!!
 </p>
