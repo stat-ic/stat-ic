@@ -86,7 +86,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
     <thead align="center">
       <tr> 
         <td width="611px"> <!--- uid/uf -->
-          I <b>spam</b> and <b>keyboard smash</b> a LOT<br>I have <b>memory problems</b> so please bear with me<br>Sometimes I go AFK or leave <em>unannounced</em><br><br><b>INTERACT BEFORE YOU FRIEND ME!!</b>
+          I <b>spam</b> and <b>keyboard smash</b> a LOT<br>I have <b>memory problems</b> so please bear with me<br>Sometimes I go AFK or leave <em>unannounced</em><br><br><b><code>>> INTERACT BEFORE YOU FRIEND ME!! <<</code></b>
         </td>
       </tr>
     </thead>
