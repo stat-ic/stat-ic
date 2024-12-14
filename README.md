@@ -2,10 +2,12 @@
 https://github.com/antonkomarev/github-profile-views-counter - For the profile view counter
 https://github.com/DenverCoder1/readme-typing-svg - For the typing svg that mainly types out lyrics
 https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md - For the last.fm widget at the end
+
+URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my links to open in new tabs instead of opening in the same tab bc git is so restrictive SIGHSS
 -->
 <!--- HEADER -->
 <div align="center">
-  <a href="https://en.wikipedia.org/wiki/List_of_people_who_have_been_considered_deities" target="_blank" rel="noreferrer noopener"><img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=E62125&amp;style=for-the-badge&amp;label=Modern+Deities" alt="view count" title="Put on your 3D glasses!"></a>
+  <a href="https://en.wikipedia.org/wiki/List_of_people_who_have_been_considered_deities"><img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=E62125&amp;style=for-the-badge&amp;label=Modern+Deities" alt="view count" title="Put on your 3D glasses!"></a>
   <br>
   <a href="https://thathandsomedevil.com/products/exploitopia-cd"><img src="https://drive.google.com/uc?id=1YhttyWlHZoVllz-_-IxHni7QLTmn1lX7" alt="Exploitopia CD" height=100px title="ro ta te..."></a>
   <a href="https://open.spotify.com/album/6dyanjhuSgFsPPVtFzugcr"><img src="https://drive.google.com/uc?id=1K8Bg_VJSTUTdVOMkJy9aPHIR1Gjclnba" alt="EXPLOITOPIA" height=200px title="Now in 3 Dimensions!"></a>
