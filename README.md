@@ -5,7 +5,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
 -->
 <!--- HEADER -->
 <div align="center">
-  <a href="https://en.wikipedia.org/wiki/List_of_people_who_have_been_considered_deities" target="_blank"><img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=E62125&amp;style=for-the-badge&amp;label=Modern+Deities" alt="view count" title="Put on your 3D glasses!"></a>
+  <a href="https://en.wikipedia.org/wiki/List_of_people_who_have_been_considered_deities" target="_blank" rel="noreferrer noopener"><img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=E62125&amp;style=for-the-badge&amp;label=Modern+Deities" alt="view count" title="Put on your 3D glasses!"></a>
   <br>
   <a href="https://thathandsomedevil.com/products/exploitopia-cd"><img src="https://drive.google.com/uc?id=1YhttyWlHZoVllz-_-IxHni7QLTmn1lX7" alt="Exploitopia CD" height=100px title="ro ta te..."></a>
   <a href="https://open.spotify.com/album/6dyanjhuSgFsPPVtFzugcr"><img src="https://drive.google.com/uc?id=1K8Bg_VJSTUTdVOMkJy9aPHIR1Gjclnba" alt="EXPLOITOPIA" height=200px title="Now in 3 Dimensions!"></a>
