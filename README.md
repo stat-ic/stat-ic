@@ -7,13 +7,13 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 -->
 <!--- HEADER -->
 <div align="center">
-  <a href="https://en.wikipedia.org/wiki/List_of_people_who_have_been_considered_deities"><img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=E62125&amp;style=for-the-badge&amp;label=Modern+Deities" alt="view count" title="Put on your 3D glasses!"></a>
-  <br>
   <a href="https://thathandsomedevil.com/products/exploitopia-cd"><img src="https://drive.google.com/uc?id=1YhttyWlHZoVllz-_-IxHni7QLTmn1lX7" alt="Exploitopia CD" height=100px title="ro ta te..."></a>
   <a href="https://open.spotify.com/album/6dyanjhuSgFsPPVtFzugcr"><img src="https://drive.google.com/uc?id=1K8Bg_VJSTUTdVOMkJy9aPHIR1Gjclnba" alt="EXPLOITOPIA" height=200px title="Now in 3 Dimensions!"></a>
   <a href="https://thathandsomedevil.com/products/exploitopia-cd"><img src="https://drive.google.com/uc?id=1YhttyWlHZoVllz-_-IxHni7QLTmn1lX7" alt="Exploitopia CD" height=100px title="ro ta te..."></a>
   <br>
   <a href="https://youtu.be/43nIDwAiTp8?si=V9C3PaIMKBOSWu5p"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=2000&pause=300&color=FFFFFF&background=02AAE8&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=112&lines=A+new+world+is+constantly+opening+before+us;At+an+ever-accelerating+rate+of+progress;Let's+travel+into+the+future;+What+will+we+see%3F" alt="A new world is constantly opening before us, at an ever-accelerating rate of progress. Let's travel into the future. What will we see?" title="A new world is constantly opening before us, at an ever-accelerating rate of progress. Let's travel into the future. What will we see?" /></a>
+  <br>
+  <a href="https://en.wikipedia.org/wiki/List_of_people_who_have_been_considered_deities"><img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=E62125&amp;style=for-the-badge&amp;label=Modern+Deities" alt="view count" title="Put on your 3D glasses!"></a>
   <br>
   <code><b>This Readme is based on the album <a href="https://open.spotify.com/album/6dyanjhuSgFsPPVtFzugcr">Exploitopia</a> by <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT">That Handsome Devil</a>!</b></code>
   <br>
